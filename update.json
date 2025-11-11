@@ -2,2824 +2,1074 @@
   "version": "1.0.0",
   "files": [
     {
-      "path": ".gitattributes",
-      "sha1": "4B9E877E7D6766CA5ACACC01E2DA9B6F26A94C8A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.gitattributes"
-    },
-    {
-      "path": "generate_manifest.py",
-      "sha1": "BE52957FC62F3A4FE7E8C84B994B9BE484D640A5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitgenerate_manifest.py"
-    },
-    {
-      "path": ".git/COMMIT_EDITMSG",
-      "sha1": "4F01E2EAC98016449B7E37FD6CEDCFECE857EFD5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/COMMIT_EDITMSG"
-    },
-    {
-      "path": ".git/config",
-      "sha1": "1884B4A325E2C189C673DDD59773E4AACABEAADF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/config"
-    },
-    {
-      "path": ".git/description",
-      "sha1": "9635F1B7E12C045212819DD934D809EF07EFA2F4",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/description"
-    },
-    {
-      "path": ".git/FETCH_HEAD",
-      "sha1": "D9C38713E748AB63CF1757EDB31ADAF5BFFAA4DA",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/FETCH_HEAD"
-    },
-    {
-      "path": ".git/HEAD",
-      "sha1": "9F1DF7EEA4156BE8A871C292B549B3325E425AA2",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/HEAD"
-    },
-    {
-      "path": ".git/index",
-      "sha1": "B7887E2A9795EAE24A1DA6BD2236F1F43FF26098",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/index"
-    },
-    {
-      "path": ".git/hooks/applypatch-msg.sample",
-      "sha1": "4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/applypatch-msg.sample"
-    },
-    {
-      "path": ".git/hooks/commit-msg.sample",
-      "sha1": "EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/commit-msg.sample"
-    },
-    {
-      "path": ".git/hooks/fsmonitor-watchman.sample",
-      "sha1": "0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/fsmonitor-watchman.sample"
-    },
-    {
-      "path": ".git/hooks/post-checkout",
-      "sha1": "34CCA5E573F14E1C8F36C447FD5005D7D93EBEA7",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/post-checkout"
-    },
-    {
-      "path": ".git/hooks/post-commit",
-      "sha1": "90E83D48D2E5C47663F21FF5043E31FE56C12278",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/post-commit"
-    },
-    {
-      "path": ".git/hooks/post-merge",
-      "sha1": "02D6A0E420A63C99AA9ACD43445F0D8DC99E35E3",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/post-merge"
-    },
-    {
-      "path": ".git/hooks/post-update.sample",
-      "sha1": "B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/post-update.sample"
-    },
-    {
-      "path": ".git/hooks/pre-applypatch.sample",
-      "sha1": "F208287C1A92525DE9F5462E905A9D31DE1E2D75",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/pre-applypatch.sample"
-    },
-    {
-      "path": ".git/hooks/pre-commit.sample",
-      "sha1": "8093D68E142DB52DCAB2215E770BA0BBE4CFBF24",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/pre-commit.sample"
-    },
-    {
-      "path": ".git/hooks/pre-merge-commit.sample",
-      "sha1": "04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/pre-merge-commit.sample"
-    },
-    {
-      "path": ".git/hooks/pre-push",
-      "sha1": "6145042684084DFE68CED3427E8F0A7671276831",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/pre-push"
-    },
-    {
-      "path": ".git/hooks/pre-push.sample",
-      "sha1": "A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/pre-push.sample"
-    },
-    {
-      "path": ".git/hooks/pre-rebase.sample",
-      "sha1": "288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/pre-rebase.sample"
-    },
-    {
-      "path": ".git/hooks/pre-receive.sample",
-      "sha1": "705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/pre-receive.sample"
-    },
-    {
-      "path": ".git/hooks/prepare-commit-msg.sample",
-      "sha1": "2584806BA147152AE005CB675AA4F01D5D068456",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/prepare-commit-msg.sample"
-    },
-    {
-      "path": ".git/hooks/push-to-checkout.sample",
-      "sha1": "508240328C8B55F8157C93C43BF5E291E5D2FBCB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/push-to-checkout.sample"
-    },
-    {
-      "path": ".git/hooks/sendemail-validate.sample",
-      "sha1": "74CF1D5415A5C03C110240F749491297D65C4C98",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/sendemail-validate.sample"
-    },
-    {
-      "path": ".git/hooks/update.sample",
-      "sha1": "730E6BD5225478BAB6147B7A62A6E2AE21D40507",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/hooks/update.sample"
-    },
-    {
-      "path": ".git/info/exclude",
-      "sha1": "C879DF015D97615050AFA7B9641E3352A1E701AC",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/info/exclude"
-    },
-    {
-      "path": ".git/lfs/cache/locks/refs/heads/main/verifiable",
-      "sha1": "FEE4EB00A1594DA3BFBC8C96F43DB6DDF225ED3D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/cache/locks/refs/heads/main/verifiable"
-    },
-    {
-      "path": ".git/lfs/objects/02/c3/02c3ef29be28499714891ac1c8fec608e8e42fd3c19175236966b3437b1b591f",
-      "sha1": "510C81CE67E45BA2F0AE94DC47C570C245049BA8",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/02/c3/02c3ef29be28499714891ac1c8fec608e8e42fd3c19175236966b3437b1b591f"
-    },
-    {
-      "path": ".git/lfs/objects/05/5f/055fbcb55077c8ac2450093dc45ab1ccab80e38de12c70b24d1aa820b6e4863c",
-      "sha1": "4D6470DD9334F9520901DA643F1FE048AE3688CE",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/05/5f/055fbcb55077c8ac2450093dc45ab1ccab80e38de12c70b24d1aa820b6e4863c"
-    },
-    {
-      "path": ".git/lfs/objects/07/06/07069a58143e167eec9089bfee95c17680f77a45adba0bf2b575b2a8207de39c",
-      "sha1": "2AC0F04BC0DEB706E4B2D6BA3305833012253521",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/07/06/07069a58143e167eec9089bfee95c17680f77a45adba0bf2b575b2a8207de39c"
-    },
-    {
-      "path": ".git/lfs/objects/11/c3/11c33191e3cd409e62a18c339f0ed56340e321dcf3b98eeab0b8a0d220673de8",
-      "sha1": "4524E1ADC0AE27EC5F9F149EB13E240EE982A71E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/11/c3/11c33191e3cd409e62a18c339f0ed56340e321dcf3b98eeab0b8a0d220673de8"
-    },
-    {
-      "path": ".git/lfs/objects/13/c7/13c73a49981bba44cce7fd386a8f8388a693dba08f9e64963d1ec6c666fac362",
-      "sha1": "DA7EB6D686CDA387619ED5C336BE7EC2D5B8F6C9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/13/c7/13c73a49981bba44cce7fd386a8f8388a693dba08f9e64963d1ec6c666fac362"
-    },
-    {
-      "path": ".git/lfs/objects/19/87/1987db2b885ea26cc8c110454e1da4cd70f98ca3a87121abdd54131f701b3650",
-      "sha1": "5BDAF247A88E6C75D07EEEE926C574DB5E75C318",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/19/87/1987db2b885ea26cc8c110454e1da4cd70f98ca3a87121abdd54131f701b3650"
-    },
-    {
-      "path": ".git/lfs/objects/1d/f9/1df9f484deef9766d7b96ca17f033d24f798183c3bac5069fedb028ad020812e",
-      "sha1": "3E200CB5F0BF3A62E2F4585B69E3F8EE046AB608",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/1d/f9/1df9f484deef9766d7b96ca17f033d24f798183c3bac5069fedb028ad020812e"
-    },
-    {
-      "path": ".git/lfs/objects/21/7e/217ee398578d3202721b1007f4a9f6894bebc8c335587c2e1427b39c3f291295",
-      "sha1": "B8EE5BA6F03716A567661850978C5508019CDD57",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/21/7e/217ee398578d3202721b1007f4a9f6894bebc8c335587c2e1427b39c3f291295"
-    },
-    {
-      "path": ".git/lfs/objects/22/47/2247eb4d19cc065e2285697a60a5520fe994bc9e220f1edd1926ff35eb4bfc63",
-      "sha1": "84E8EAC32F377B402CBAE7575760D42E0DF136EE",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/22/47/2247eb4d19cc065e2285697a60a5520fe994bc9e220f1edd1926ff35eb4bfc63"
-    },
-    {
-      "path": ".git/lfs/objects/24/5b/245b42067c7378ee860d2b3bf24df8c17729cbfa18d8ce65ab9d751936555cfb",
-      "sha1": "8979692CCC9EC2D070CD9CADDFFA157207312807",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/24/5b/245b42067c7378ee860d2b3bf24df8c17729cbfa18d8ce65ab9d751936555cfb"
-    },
-    {
-      "path": ".git/lfs/objects/25/d3/25d3ae02035e005ea0b9d42df3dbec9c88ad846d3f784f40d57ae037048eb8f0",
-      "sha1": "E621F5CE07E85D8B19C8EEACC4C14E96E5ED285D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/25/d3/25d3ae02035e005ea0b9d42df3dbec9c88ad846d3f784f40d57ae037048eb8f0"
-    },
-    {
-      "path": ".git/lfs/objects/27/fa/27fa44e9e7e7bb73ea178431bbe758d299c2b6be4fd41aaf29bbf621a9603991",
-      "sha1": "D16D110930F42D31AD28407EE22CF8F52A93CD1B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/27/fa/27fa44e9e7e7bb73ea178431bbe758d299c2b6be4fd41aaf29bbf621a9603991"
-    },
-    {
-      "path": ".git/lfs/objects/2b/3b/2b3bc5127a73032313ed6d96819ff5c35efc26f691e97b2074f9cc3949853690",
-      "sha1": "A8917584A6EBDC0D4A38285DF9440E51E325E34F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/2b/3b/2b3bc5127a73032313ed6d96819ff5c35efc26f691e97b2074f9cc3949853690"
-    },
-    {
-      "path": ".git/lfs/objects/2b/a1/2ba1633093c8f6a5d0f75a70c23dc731f4c02503e405bbe5dde89586bcb5d1d0",
-      "sha1": "2123D0838C402DF73677D3A284548110D81CC565",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/2b/a1/2ba1633093c8f6a5d0f75a70c23dc731f4c02503e405bbe5dde89586bcb5d1d0"
-    },
-    {
-      "path": ".git/lfs/objects/32/ab/32ab543e5273ebd2e67a58a912505bd56fbbb42ae7f66b96c49e53e34c45fad6",
-      "sha1": "BBCDDA19CA95CE1CF2413E3752300A90E99EB76F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/32/ab/32ab543e5273ebd2e67a58a912505bd56fbbb42ae7f66b96c49e53e34c45fad6"
-    },
-    {
-      "path": ".git/lfs/objects/37/3e/373e3bffc08127201970873837ea45b2c600cc8476ec4f31d6117e6f7d3babc9",
-      "sha1": "077D7FC16DB50E4D647DE9BCB7B41A8A73DEEBB4",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/37/3e/373e3bffc08127201970873837ea45b2c600cc8476ec4f31d6117e6f7d3babc9"
-    },
-    {
-      "path": ".git/lfs/objects/39/12/3912d710c2ae2375d31f598ff0d6c619c407593ecfaf792f4291c8f66cbee3eb",
-      "sha1": "156CAAAA329EA707DF4D12F5BEFA9B5F7DDEA3D6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/39/12/3912d710c2ae2375d31f598ff0d6c619c407593ecfaf792f4291c8f66cbee3eb"
-    },
-    {
-      "path": ".git/lfs/objects/3c/22/3c2219cab04406c1a7748d3cc100f4cdbb34d81e62deeae9d5887ce862d71548",
-      "sha1": "3BDA69F6A89A3E1EFC66ECA17BDE64E554A2F09B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/3c/22/3c2219cab04406c1a7748d3cc100f4cdbb34d81e62deeae9d5887ce862d71548"
-    },
-    {
-      "path": ".git/lfs/objects/4a/29/4a298afe54842e167ceb472804b13f521c8826348e8ecbf27397d059e64d5262",
-      "sha1": "B7F08D3EA5C4E47EA7BD29B8DE458B0FD4A4A1B9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/4a/29/4a298afe54842e167ceb472804b13f521c8826348e8ecbf27397d059e64d5262"
-    },
-    {
-      "path": ".git/lfs/objects/4a/59/4a59bcf273d0b61af359c87130722276f29e980b62474f72df66e36adab2cd9e",
-      "sha1": "11150772EC6B6C333A64EBD869CDF47538E1A021",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/4a/59/4a59bcf273d0b61af359c87130722276f29e980b62474f72df66e36adab2cd9e"
-    },
-    {
-      "path": ".git/lfs/objects/4d/85/4d85ea7e049529031ff3466bc656992d0d1f7b1f5e9ce3815c011e79492830bf",
-      "sha1": "8349EE73C0895BB5CB98C7F9731BFC2FBF513172",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/4d/85/4d85ea7e049529031ff3466bc656992d0d1f7b1f5e9ce3815c011e79492830bf"
-    },
-    {
-      "path": ".git/lfs/objects/4f/c6/4fc6ccd11fdbc92f2c2fa5a64e3900ac3d53064539138a4259fcf75f217fad96",
-      "sha1": "191B74501EEB5647A5D527441CEF36AC82ABB511",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/4f/c6/4fc6ccd11fdbc92f2c2fa5a64e3900ac3d53064539138a4259fcf75f217fad96"
-    },
-    {
-      "path": ".git/lfs/objects/5b/84/5b84403fc919bcf21fa833447eddad43759f0245fe71a5d1ed9e141f3c65a16f",
-      "sha1": "31AD0E694688A9EB57E2159F07943AB121961BF9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/5b/84/5b84403fc919bcf21fa833447eddad43759f0245fe71a5d1ed9e141f3c65a16f"
-    },
-    {
-      "path": ".git/lfs/objects/5b/9a/5b9a05e3899fa0be161cc36bb4ce2bf11f7b16fcc2789a9f61ccd3b786c37512",
-      "sha1": "E4E8F52F51B956C0CCE5F4161F473F1E9E4356BF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/5b/9a/5b9a05e3899fa0be161cc36bb4ce2bf11f7b16fcc2789a9f61ccd3b786c37512"
-    },
-    {
-      "path": ".git/lfs/objects/5d/d3/5dd37be546b28a1dfcec49cd1c38607f87a54c1892064b765beff2bab8b95c04",
-      "sha1": "E74E24BC7BBC688F12519B9E8C8C0F479F9ABC42",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/5d/d3/5dd37be546b28a1dfcec49cd1c38607f87a54c1892064b765beff2bab8b95c04"
-    },
-    {
-      "path": ".git/lfs/objects/60/f1/60f1f9d942c93e7d0451693260fd6c0821b385bd9da37bfbf22597a567a0350c",
-      "sha1": "090443593DEEDE4F1A2543B38AF6B5A82E23A122",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/60/f1/60f1f9d942c93e7d0451693260fd6c0821b385bd9da37bfbf22597a567a0350c"
-    },
-    {
-      "path": ".git/lfs/objects/61/3e/613e2f2e2ff76a8130444350e9ff484277efd2e6166c0e3c9345c01424b6972b",
-      "sha1": "628E55AD279A572C1F5883E0A45F01494816DC29",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/61/3e/613e2f2e2ff76a8130444350e9ff484277efd2e6166c0e3c9345c01424b6972b"
-    },
-    {
-      "path": ".git/lfs/objects/63/79/6379948593ce44e25061d9b861bc4d8c5b2e818000bd0d36d79d44d55662973a",
-      "sha1": "26105F0496F03CE775D8CF19EB990980F08AC9A2",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/63/79/6379948593ce44e25061d9b861bc4d8c5b2e818000bd0d36d79d44d55662973a"
-    },
-    {
-      "path": ".git/lfs/objects/65/8a/658ab091e824f9dd35f16a78deba574b6fbea8208e3ed2ff3092ebbe727abe69",
-      "sha1": "4B15F0F4D9CD83E965BA6BFEF7A5F08D37C17421",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/65/8a/658ab091e824f9dd35f16a78deba574b6fbea8208e3ed2ff3092ebbe727abe69"
-    },
-    {
-      "path": ".git/lfs/objects/6a/7c/6a7cd0cac0916e697b0772f73b7aa807cbe25a3ad047ff6dcfae57da6a0c97d2",
-      "sha1": "89A2BBA2C77C22FDFF7126AE6B2ED73DA68B8D22",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/6a/7c/6a7cd0cac0916e697b0772f73b7aa807cbe25a3ad047ff6dcfae57da6a0c97d2"
-    },
-    {
-      "path": ".git/lfs/objects/6a/e4/6ae4f71575b7a1d2fa7afdb27b9414fad6d12bafe9285455e49afa6379315b58",
-      "sha1": "242E17AB236EE934E6B19F3059B15835119CBDC5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/6a/e4/6ae4f71575b7a1d2fa7afdb27b9414fad6d12bafe9285455e49afa6379315b58"
-    },
-    {
-      "path": ".git/lfs/objects/6b/41/6b41dc80496cf0ec17bae5dba05106984b34cc80744d6a16a8dbe6492202644e",
-      "sha1": "4F610EA1F81A41F5271D48813D0AC9024333D973",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/6b/41/6b41dc80496cf0ec17bae5dba05106984b34cc80744d6a16a8dbe6492202644e"
-    },
-    {
-      "path": ".git/lfs/objects/6d/94/6d94716db1db5c1d1b3ae582f5e7112f053e5253aea794c8b3b8df46c4589549",
-      "sha1": "D35E77FC361482B3B396959A0BEA20D7103350DB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/6d/94/6d94716db1db5c1d1b3ae582f5e7112f053e5253aea794c8b3b8df46c4589549"
-    },
-    {
-      "path": ".git/lfs/objects/70/41/7041a7a7a5d521efaa175ed96ca5b667251ee9ff9331f8a91d3fdc47ee34bf95",
-      "sha1": "86E765A77E28848FAF5580717C07A5C6A09E25C5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/70/41/7041a7a7a5d521efaa175ed96ca5b667251ee9ff9331f8a91d3fdc47ee34bf95"
-    },
-    {
-      "path": ".git/lfs/objects/71/95/719556fc3b6389455709ca958eb3150138a8f24a9376a0b7201a6da578d1082c",
-      "sha1": "4EAF6891275AC4757BF1CB13B1F3AC8ED5A20E6A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/71/95/719556fc3b6389455709ca958eb3150138a8f24a9376a0b7201a6da578d1082c"
-    },
-    {
-      "path": ".git/lfs/objects/77/2d/772d64abc2ac7d5a1bdf1d668ff0c75552426f4d883fa43cadab2e701c98de69",
-      "sha1": "8CAE1D5C3497A7586A48BD46A67B832BD2B729CF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/77/2d/772d64abc2ac7d5a1bdf1d668ff0c75552426f4d883fa43cadab2e701c98de69"
-    },
-    {
-      "path": ".git/lfs/objects/7e/52/7e5214003292ca077b8d66d39931760abcd6009d51f52d5072aaf0f09993c4f2",
-      "sha1": "8DA02822751C4066D225C1A05694ED4FD9D9E2F4",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/7e/52/7e5214003292ca077b8d66d39931760abcd6009d51f52d5072aaf0f09993c4f2"
-    },
-    {
-      "path": ".git/lfs/objects/80/b6/80b6a59b03fa2bbb5ab20d93d7f82eeceb13ec53ed5934fff53efeb856fa94d2",
-      "sha1": "805579C10EBFA4D10425BFC60A5D44E03E74DC9F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/80/b6/80b6a59b03fa2bbb5ab20d93d7f82eeceb13ec53ed5934fff53efeb856fa94d2"
-    },
-    {
-      "path": ".git/lfs/objects/84/7e/847e71b60d0d6bcb6a491b9db04afeba1a547349b155d0f9c476883f69d41189",
-      "sha1": "E686478633F68A025E9BE61A0786D0AFDFD7FC24",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/84/7e/847e71b60d0d6bcb6a491b9db04afeba1a547349b155d0f9c476883f69d41189"
-    },
-    {
-      "path": ".git/lfs/objects/91/46/9146775213b1cbe6e49bde9de878b41117ff2efcce80c2718b72bf15e19795df",
-      "sha1": "882851A8D926579ABE007CDE4548DDDF998025FB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/91/46/9146775213b1cbe6e49bde9de878b41117ff2efcce80c2718b72bf15e19795df"
-    },
-    {
-      "path": ".git/lfs/objects/97/70/977016958d059c7bf99db2322e5610c34093fffb86441b89b3f83a8a77a783de",
-      "sha1": "11528B6C8321623C66C9218BF86B70BBEC883E64",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/97/70/977016958d059c7bf99db2322e5610c34093fffb86441b89b3f83a8a77a783de"
-    },
-    {
-      "path": ".git/lfs/objects/98/75/9875e6b74477411f830322e91849c294b20b2179380d47b6afcbb19186dd7119",
-      "sha1": "BAE1F90E22BEF16E66B1B70123B7AC6A29D1DAD6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/98/75/9875e6b74477411f830322e91849c294b20b2179380d47b6afcbb19186dd7119"
-    },
-    {
-      "path": ".git/lfs/objects/99/81/99815a635d7e8e1a4c6eda0644b73d20ce1a132f722e305a22e97aa4ed11f9f4",
-      "sha1": "05284F171F212C176549F36569F0FE569F052447",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/99/81/99815a635d7e8e1a4c6eda0644b73d20ce1a132f722e305a22e97aa4ed11f9f4"
-    },
-    {
-      "path": ".git/lfs/objects/9b/5b/9b5b50659d080a70b38d04e254a94475832ca91cb7a3454a75c58fa6382ad55f",
-      "sha1": "8131C4F57725785C4FD14B4E8BFD9AA3AD8A6A33",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/9b/5b/9b5b50659d080a70b38d04e254a94475832ca91cb7a3454a75c58fa6382ad55f"
-    },
-    {
-      "path": ".git/lfs/objects/a3/da/a3daf3d7fd3d5771100c026437f96315bd32e89d2d6c17c067482882d7a624c9",
-      "sha1": "45F9E926B67C7820A8BCA1DC69FB0CAA029F71FF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/a3/da/a3daf3d7fd3d5771100c026437f96315bd32e89d2d6c17c067482882d7a624c9"
-    },
-    {
-      "path": ".git/lfs/objects/a4/c2/a4c269d237d12fa10319afa18859c512f0cdc2d2116e77cb6f13fd5d2c27220d",
-      "sha1": "9C6E83F3E10255E924DD1394AE97D1D85C9769CB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/a4/c2/a4c269d237d12fa10319afa18859c512f0cdc2d2116e77cb6f13fd5d2c27220d"
-    },
-    {
-      "path": ".git/lfs/objects/a7/3b/a73b7866be39f93fd904f1e400b1f460ecb2e47106e9e9965e0ba292df868906",
-      "sha1": "A0088145B94D17F1AF829DCC041F2E67A4D5DE32",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/a7/3b/a73b7866be39f93fd904f1e400b1f460ecb2e47106e9e9965e0ba292df868906"
-    },
-    {
-      "path": ".git/lfs/objects/a8/50/a85008c66a8bd63fff3af9e2b45af34140e76e849387afcd9f1ba99727f6da1c",
-      "sha1": "987642A8610A69476344E2D92C2AC7BEA951692E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/a8/50/a85008c66a8bd63fff3af9e2b45af34140e76e849387afcd9f1ba99727f6da1c"
-    },
-    {
-      "path": ".git/lfs/objects/a9/74/a974cc318b17590398ed0631139b52561cea49d1c9607df84ecfb0edcb6d4dd2",
-      "sha1": "EC7CC3D9B4FAAB7D36ED111E8A986B0BF403BB56",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/a9/74/a974cc318b17590398ed0631139b52561cea49d1c9607df84ecfb0edcb6d4dd2"
-    },
-    {
-      "path": ".git/lfs/objects/af/3d/af3d30bb3f0ec20d5b7e52bc93b005c9c9708214bd8be32755712f104f78ab96",
-      "sha1": "64FAECDBDF0E9DE2841BB6D13B0437499EF519C6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/af/3d/af3d30bb3f0ec20d5b7e52bc93b005c9c9708214bd8be32755712f104f78ab96"
-    },
-    {
-      "path": ".git/lfs/objects/b5/03/b5039de434d328ec5649815a7b00417c2da510e79de58a17a0a1e24469164c41",
-      "sha1": "0180022DCC219BEC6396D03CF687A05B3BEE2059",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/b5/03/b5039de434d328ec5649815a7b00417c2da510e79de58a17a0a1e24469164c41"
-    },
-    {
-      "path": ".git/lfs/objects/b8/32/b8325a61a675e9842fd1be35a5fe92cb8dce3785ccd55fc4e5c3900d5947ad6f",
-      "sha1": "BCB57F818C0E1B7A3216998A04220C13F35C5A77",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/b8/32/b8325a61a675e9842fd1be35a5fe92cb8dce3785ccd55fc4e5c3900d5947ad6f"
-    },
-    {
-      "path": ".git/lfs/objects/b9/35/b935e09fb03a21a6a19527727bd5b25c3b2b43851b9e9b86150f80dfedb1fe7f",
-      "sha1": "1EBAEFF53B46E72D72B3F60F8CEC2B2C5162FF4E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/b9/35/b935e09fb03a21a6a19527727bd5b25c3b2b43851b9e9b86150f80dfedb1fe7f"
-    },
-    {
-      "path": ".git/lfs/objects/bb/20/bb209b7778c1bb30e134d3d7f28f5590ac86e8f071aeaf5de4e81b6cd8b80730",
-      "sha1": "3A7CC38B17FAA9A06CBC46F948AFFCA5B97343EA",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/bb/20/bb209b7778c1bb30e134d3d7f28f5590ac86e8f071aeaf5de4e81b6cd8b80730"
-    },
-    {
-      "path": ".git/lfs/objects/bc/15/bc159bb40473c134a4ac4bbc898883934af783c455369ebce05f922a7c687ea8",
-      "sha1": "F6BC380B11252B287C9C7669FFF39971835D8135",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/bc/15/bc159bb40473c134a4ac4bbc898883934af783c455369ebce05f922a7c687ea8"
-    },
-    {
-      "path": ".git/lfs/objects/bd/51/bd51ecb6b2190123207fb8aaeeb2cddc1636b366b2bb820b7f1ef82692c3dd74",
-      "sha1": "1DB00AAC14727433BD5AC6F73CE7D116CC44B965",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/bd/51/bd51ecb6b2190123207fb8aaeeb2cddc1636b366b2bb820b7f1ef82692c3dd74"
-    },
-    {
-      "path": ".git/lfs/objects/be/c3/bec3f9ea9954fe6e2376f808a41d482d303497e15af26b1a414f1db938e61d6c",
-      "sha1": "2CA26AE26C14CECBCBD074CA66E6A59C3CBB4E16",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/be/c3/bec3f9ea9954fe6e2376f808a41d482d303497e15af26b1a414f1db938e61d6c"
-    },
-    {
-      "path": ".git/lfs/objects/c2/7e/c27e64ba274e7664944c085bec1521fc37b3083eabbfdcbea0ad430cf2479516",
-      "sha1": "8DCD76A81F7CD4A474B8AB2A0932EA434E2868B9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/c2/7e/c27e64ba274e7664944c085bec1521fc37b3083eabbfdcbea0ad430cf2479516"
-    },
-    {
-      "path": ".git/lfs/objects/c3/75/c37528e12926dd0f4b49f2917506d68896323d170a5802e655336fe4353c486b",
-      "sha1": "7096F206248DC238FD7041D6695B93A25B18C03A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/c3/75/c37528e12926dd0f4b49f2917506d68896323d170a5802e655336fe4353c486b"
-    },
-    {
-      "path": ".git/lfs/objects/c7/f7/c7f71100ec68d3e1fbdc6b08829e28a9ae1c0b76ad7e07e2133a8f0cbc9a0e1a",
-      "sha1": "E02FF1022D514675C3390A8E302622119D7C69F6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/c7/f7/c7f71100ec68d3e1fbdc6b08829e28a9ae1c0b76ad7e07e2133a8f0cbc9a0e1a"
-    },
-    {
-      "path": ".git/lfs/objects/c9/67/c967902f3b784582602b2e4282601e2f62f5b9029b764a140591e8dc311eb79d",
-      "sha1": "4A4DAD06A28EE32112EE41BBAEE79115CD980E44",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/c9/67/c967902f3b784582602b2e4282601e2f62f5b9029b764a140591e8dc311eb79d"
-    },
-    {
-      "path": ".git/lfs/objects/cb/66/cb66bf544929655ba797c6a2d33f3851e67253311e6b71f99c85e8c4231e1d2a",
-      "sha1": "25007FA0CDC1EC56DFC1DF86F94845D654152E45",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/cb/66/cb66bf544929655ba797c6a2d33f3851e67253311e6b71f99c85e8c4231e1d2a"
-    },
-    {
-      "path": ".git/lfs/objects/cd/6b/cd6b2da6b58ed88bd92912f18e3380996760d87826f6dc80c799eb87742c2a24",
-      "sha1": "439AECD9D7992BE6F25A1795EBFB73FF1DD4A516",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/cd/6b/cd6b2da6b58ed88bd92912f18e3380996760d87826f6dc80c799eb87742c2a24"
-    },
-    {
-      "path": ".git/lfs/objects/cd/f8/cdf8914c5dbdb659854933b4efd427dcb28466595083f9d7730f54805f8fc7cc",
-      "sha1": "9D1803B69B599005BAE0C577BCC8A6BDB6015635",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/cd/f8/cdf8914c5dbdb659854933b4efd427dcb28466595083f9d7730f54805f8fc7cc"
-    },
-    {
-      "path": ".git/lfs/objects/ce/03/ce033c96ba84e31fb70d45c1645c21b6f53a8272e6955e6ea7642ecb57b3a321",
-      "sha1": "367B8EDB2D6E0BE3091662A55BD1013CC3E501C6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/ce/03/ce033c96ba84e31fb70d45c1645c21b6f53a8272e6955e6ea7642ecb57b3a321"
-    },
-    {
-      "path": ".git/lfs/objects/d2/46/d246d24048491101a8c6e3d6f2b530e4a9a0a81e313280a5d8407dba1ba1105e",
-      "sha1": "B2742946929647CB082D4D633A46E9C8A5BEEFA4",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/d2/46/d246d24048491101a8c6e3d6f2b530e4a9a0a81e313280a5d8407dba1ba1105e"
-    },
-    {
-      "path": ".git/lfs/objects/d7/ac/d7ac16efff31ac2901dfd3b55e033b5988f2996fe17eb8856e944a928e1cb77a",
-      "sha1": "3E9C9ED06AAE2300A392D8A659CBC2761F816A88",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/d7/ac/d7ac16efff31ac2901dfd3b55e033b5988f2996fe17eb8856e944a928e1cb77a"
-    },
-    {
-      "path": ".git/lfs/objects/d7/b2/d7b2b2a2172a3ba2290628cfb321a5faa9ed04dd2cfa8aec0a10277158da2294",
-      "sha1": "2CB7C6C8B47FDD1C6D75C6D9B0DDB9972DD44C66",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/d7/b2/d7b2b2a2172a3ba2290628cfb321a5faa9ed04dd2cfa8aec0a10277158da2294"
-    },
-    {
-      "path": ".git/lfs/objects/db/c9/dbc9bc8f93ca9c0f5d3a675bd00ec9c0e9c3b26a9f1784dedbfb38b7e7e2d44b",
-      "sha1": "37E82037648FB579DB4D7059F7FAB37B48802E2F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/db/c9/dbc9bc8f93ca9c0f5d3a675bd00ec9c0e9c3b26a9f1784dedbfb38b7e7e2d44b"
-    },
-    {
-      "path": ".git/lfs/objects/df/7e/df7e68d38ecb4f29311963cc6eeff6bba6f4e6aa7f010f7fcae0723bac471769",
-      "sha1": "21744C71DBEBAA755A5228408B40A383F5A96020",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/df/7e/df7e68d38ecb4f29311963cc6eeff6bba6f4e6aa7f010f7fcae0723bac471769"
-    },
-    {
-      "path": ".git/lfs/objects/e2/1a/e21a7adbee8a2f7dc47aa4a283e4d4544a8041c4d1dc7eef582c5efdae5caff4",
-      "sha1": "B1EBAD6B1D08BBBD026365E8D8300DCD0D27852F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/e2/1a/e21a7adbee8a2f7dc47aa4a283e4d4544a8041c4d1dc7eef582c5efdae5caff4"
-    },
-    {
-      "path": ".git/lfs/objects/e7/16/e7161f4650df49f4b6151b97f1430ec1b0b84e564ebed13cc99f4fd09cbd0388",
-      "sha1": "F85D7CB070C64633DAAFF273092A3476DFE5EF28",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/e7/16/e7161f4650df49f4b6151b97f1430ec1b0b84e564ebed13cc99f4fd09cbd0388"
-    },
-    {
-      "path": ".git/lfs/objects/ea/dd/eadd6988b791d496d3a5dc454fb608db14c4ba3a2a8d020950c88010e398b50a",
-      "sha1": "49EC81BCF0181CE32DEA8CBEDB5C5B31C3B75813",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/lfs/objects/ea/dd/eadd6988b791d496d3a5dc454fb608db14c4ba3a2a8d020950c88010e398b50a"
-    },
-    {
-      "path": ".git/logs/HEAD",
-      "sha1": "84E1BF42341A0F2AF8B3EE094712E743C9F0EB0F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/logs/HEAD"
-    },
-    {
-      "path": ".git/logs/refs/heads/main",
-      "sha1": "84E1BF42341A0F2AF8B3EE094712E743C9F0EB0F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/logs/refs/heads/main"
-    },
-    {
-      "path": ".git/logs/refs/remotes/origin/HEAD",
-      "sha1": "C90D3EEF648410BB27A2E193584CD21742BCC5A7",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/logs/refs/remotes/origin/HEAD"
-    },
-    {
-      "path": ".git/logs/refs/remotes/origin/main",
-      "sha1": "C4EAC13C8DBF200437304872EE6FEB131243E02A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/logs/refs/remotes/origin/main"
-    },
-    {
-      "path": ".git/objects/00/0e292e13ee8ad9bac3c296c1cf1d1019a69f91",
-      "sha1": "C607DCF76A8958077D71657F31E9D938166554A2",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/00/0e292e13ee8ad9bac3c296c1cf1d1019a69f91"
-    },
-    {
-      "path": ".git/objects/00/a20c95c311a6780d1530347d4af4a1b4e7f376",
-      "sha1": "B8F7E834E71DF3660AE1D09140C5BBE687C2970F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/00/a20c95c311a6780d1530347d4af4a1b4e7f376"
-    },
-    {
-      "path": ".git/objects/00/c6c242c9f595c0de3d6763eabcc47cab188329",
-      "sha1": "8B3645C4322F91224B39C950FA5FF73A89A19AAF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/00/c6c242c9f595c0de3d6763eabcc47cab188329"
-    },
-    {
-      "path": ".git/objects/00/f86901379911746a39307ee92d675c8be3e200",
-      "sha1": "6A91A08D94168D579ECABFD8B03A56C8B05926CD",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/00/f86901379911746a39307ee92d675c8be3e200"
-    },
-    {
-      "path": ".git/objects/01/b9de912f055cec2b30beee9badf0a941d75dfc",
-      "sha1": "20842CB0B09E7FE833992A482EB9622DEB0A6195",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/01/b9de912f055cec2b30beee9badf0a941d75dfc"
-    },
-    {
-      "path": ".git/objects/02/71ade09a11946d687fb5d913b9a1b0cb446767",
-      "sha1": "39BD665334C64A227E606BD644FD7340F140ADF7",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/02/71ade09a11946d687fb5d913b9a1b0cb446767"
-    },
-    {
-      "path": ".git/objects/03/384a6f40c0190e37bacb8ec7696a9efb1bf890",
-      "sha1": "2DAE03EC633425559E3AA68584A28F039A4DCCC2",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/03/384a6f40c0190e37bacb8ec7696a9efb1bf890"
-    },
-    {
-      "path": ".git/objects/03/38ba91e57b1524be530677783d058832918590",
-      "sha1": "4D90825A7DAA1B5E819192E9126897775BF43D73",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/03/38ba91e57b1524be530677783d058832918590"
-    },
-    {
-      "path": ".git/objects/03/a076acaa65fd8eb6df4dfbbf9122a775342c5a",
-      "sha1": "F0489E23E9C30094D9F607A367E13019D2AE0A29",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/03/a076acaa65fd8eb6df4dfbbf9122a775342c5a"
-    },
-    {
-      "path": ".git/objects/03/b80a6323a69e0d0d966e287c119735d7c357fe",
-      "sha1": "123F1D249DDC6F14C1EFFF7B5F906605917DA6C1",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/03/b80a6323a69e0d0d966e287c119735d7c357fe"
-    },
-    {
-      "path": ".git/objects/03/c9026840d78d3e59c7ce399b18137a048bb091",
-      "sha1": "52069979B1E3DE3B1F39A38454D3AC161B34AC23",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/03/c9026840d78d3e59c7ce399b18137a048bb091"
-    },
-    {
-      "path": ".git/objects/05/d0e1e57d912365f895c45f0478ac74f93ec84b",
-      "sha1": "3FEE1771A9774833AB59E1F22D307008B7EF086F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/05/d0e1e57d912365f895c45f0478ac74f93ec84b"
-    },
-    {
-      "path": ".git/objects/07/0695a948748373c8637035aeb4ad7ef0f535e8",
-      "sha1": "944AB69350349154CF951DA0E76BF4DC7A0F90C8",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/07/0695a948748373c8637035aeb4ad7ef0f535e8"
-    },
-    {
-      "path": ".git/objects/07/c656fb53c5669c8d1822a12bce8effc87e120c",
-      "sha1": "DD68844F166055F0F0970D64C9950170986BAACD",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/07/c656fb53c5669c8d1822a12bce8effc87e120c"
-    },
-    {
-      "path": ".git/objects/07/e78748e1a36398085694a6e5f5dbedb7481795",
-      "sha1": "1D1781EF30283180AB604B2324FE17B0EBF36525",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/07/e78748e1a36398085694a6e5f5dbedb7481795"
-    },
-    {
-      "path": ".git/objects/08/35df52b7fe4f5a45076c80ae052f79b3307c84",
-      "sha1": "C1120EE83B3F94F20E86351DDBE4FCA635C2DA6E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/08/35df52b7fe4f5a45076c80ae052f79b3307c84"
-    },
-    {
-      "path": ".git/objects/09/00b2ef8ecea2fae02a8659734a32cd0286138e",
-      "sha1": "703BDF55D842A4001781829FE013388F0541F2D1",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/09/00b2ef8ecea2fae02a8659734a32cd0286138e"
-    },
-    {
-      "path": ".git/objects/09/8c585945d365c669271e064369c1153f1f2ff9",
-      "sha1": "FDEA2AD00EC551949A5C294B75738F45955741CA",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/09/8c585945d365c669271e064369c1153f1f2ff9"
-    },
-    {
-      "path": ".git/objects/09/a6c1b1280e55f8984113f05175bdd23ab57433",
-      "sha1": "8EC76B01D36D54DA633374DB8FE7EA4019E09D31",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/09/a6c1b1280e55f8984113f05175bdd23ab57433"
-    },
-    {
-      "path": ".git/objects/0a/1392ce8574aabd6d5d4c54861eadf4e20aeecc",
-      "sha1": "6D6E1F71D33675878381DD5B7C4EF43383F774CE",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/0a/1392ce8574aabd6d5d4c54861eadf4e20aeecc"
-    },
-    {
-      "path": ".git/objects/0a/18ebd5175cefd26d0fd736ad225dd23a2e3212",
-      "sha1": "A0D112056448E53715AA4D431DC9D1BDBD89615D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/0a/18ebd5175cefd26d0fd736ad225dd23a2e3212"
-    },
-    {
-      "path": ".git/objects/0b/087fce9e646c5aca7c0307621f393bd47a8102",
-      "sha1": "8BCBBE79BE579E1C7741B91A8505573E9FFA0C5C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/0b/087fce9e646c5aca7c0307621f393bd47a8102"
-    },
-    {
-      "path": ".git/objects/0b/1e4337b02bd2bd333bfa729f75cc4b8dd27134",
-      "sha1": "B1375B844F6BDA179FEFB2894E10878C011C27FC",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/0b/1e4337b02bd2bd333bfa729f75cc4b8dd27134"
-    },
-    {
-      "path": ".git/objects/0b/b6c2c9f2a2291822505803a01a243964963f44",
-      "sha1": "9AB44269A81206E2247126FAC2E79A462B1534C3",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/0b/b6c2c9f2a2291822505803a01a243964963f44"
-    },
-    {
-      "path": ".git/objects/0c/dde9f862d330533e2915867b91395d59f5b386",
-      "sha1": "1F8CCD727CBB29FDE90D0263472121B8F166BB6D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/0c/dde9f862d330533e2915867b91395d59f5b386"
-    },
-    {
-      "path": ".git/objects/0d/6adcc7a4fe8e9cb213bf2fff8ea4a695c580d5",
-      "sha1": "43A98C60C14C29457344D276F7309B22B0527FB1",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/0d/6adcc7a4fe8e9cb213bf2fff8ea4a695c580d5"
-    },
-    {
-      "path": ".git/objects/11/87333b6ef39fffb7b3f09fb49199d2a7c29eda",
-      "sha1": "FBE3C1BF6A445EC7C67C222A351ADDD1E5870B3D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/11/87333b6ef39fffb7b3f09fb49199d2a7c29eda"
-    },
-    {
-      "path": ".git/objects/11/8e36769b04ef341780cc7e1aabe03686e421a9",
-      "sha1": "C1E5AA97B4B1C4FF062D40E101A95E6EC9547AA5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/11/8e36769b04ef341780cc7e1aabe03686e421a9"
-    },
-    {
-      "path": ".git/objects/11/b4ba11e3f2138f6a03d5215a729355707c6351",
-      "sha1": "F258FCDF7E85CBEE1DC97790548216338CFB2240",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/11/b4ba11e3f2138f6a03d5215a729355707c6351"
-    },
-    {
-      "path": ".git/objects/12/2675994ece67ba2b04b84a968f382943558ebe",
-      "sha1": "6372A1AA688F1E667BCBE78B06AEBEF583F97966",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/12/2675994ece67ba2b04b84a968f382943558ebe"
-    },
-    {
-      "path": ".git/objects/12/7ddfeaf726f2c6bc87ed2233bd0a59770f0a98",
-      "sha1": "7F02AD6E26AFCF483F637E31A97A26AC4700966D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/12/7ddfeaf726f2c6bc87ed2233bd0a59770f0a98"
-    },
-    {
-      "path": ".git/objects/13/0aa364aa0eaf387857b4e09854b0c3d91ba378",
-      "sha1": "BB3825FC873807513C83D5175799BE91BBE03A4D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/13/0aa364aa0eaf387857b4e09854b0c3d91ba378"
-    },
-    {
-      "path": ".git/objects/17/569bcd9376f91d28a5f5b38c33b6e9f122618b",
-      "sha1": "7BEF0E0CB957C94A1C2E9FAFC3F3D37E8A41E183",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/17/569bcd9376f91d28a5f5b38c33b6e9f122618b"
-    },
-    {
-      "path": ".git/objects/17/f2958483009c9ed312bb9a1b9c21f4a6b8b59c",
-      "sha1": "993A8E154F7AF678F189F87BF2FD0E8B664DBD9A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/17/f2958483009c9ed312bb9a1b9c21f4a6b8b59c"
-    },
-    {
-      "path": ".git/objects/19/4aa37589fa39b86c8b4d86b70f68ff8853de47",
-      "sha1": "69C0D276274359B2440F59E9E91E69CA6383C27C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/19/4aa37589fa39b86c8b4d86b70f68ff8853de47"
-    },
-    {
-      "path": ".git/objects/1a/34b96c1936c95c47f4dd4fe8f39e6257ca9588",
-      "sha1": "3B9C020E2D5797892E07057DDF55026FEF2532CE",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/1a/34b96c1936c95c47f4dd4fe8f39e6257ca9588"
-    },
-    {
-      "path": ".git/objects/1b/df9d4a1c2b3b81cf12d24860e923e5c304ea05",
-      "sha1": "512246B0D6C62F3C7B862A43157E78D3481B2B5D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/1b/df9d4a1c2b3b81cf12d24860e923e5c304ea05"
-    },
-    {
-      "path": ".git/objects/20/f4d39914104a12db6e9e45c1fd5919208de5f5",
-      "sha1": "3D39844A1A3A2B442AD83936DC1A6FCB8ADED9B3",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/20/f4d39914104a12db6e9e45c1fd5919208de5f5"
-    },
-    {
-      "path": ".git/objects/22/2ab99d7f132567e30db1e0aba98987d41cf4bf",
-      "sha1": "A81D89C282F72C7F8F1F3DA9F0ABF0DF24EE97E2",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/22/2ab99d7f132567e30db1e0aba98987d41cf4bf"
-    },
-    {
-      "path": ".git/objects/22/2ad4d3c10fb31829f63178ed4163d96ae2c927",
-      "sha1": "1F1C8F19CFA29ACBC01AEF4C50AB4C7B4F8AE95E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/22/2ad4d3c10fb31829f63178ed4163d96ae2c927"
-    },
-    {
-      "path": ".git/objects/23/be49c7a7da7563d4683be13a37262368147b3c",
-      "sha1": "EC95561B0D1970B228E895DFCD4D2E4E708BDAC2",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/23/be49c7a7da7563d4683be13a37262368147b3c"
-    },
-    {
-      "path": ".git/objects/24/1c6e9d4df295619c74e183abe6b55c3507d967",
-      "sha1": "05B219B4302BD686F8D99B7A055DCA187B32766C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/24/1c6e9d4df295619c74e183abe6b55c3507d967"
-    },
-    {
-      "path": ".git/objects/24/1e88c5c17580d9f0c1cac9af2ed5ec94365a59",
-      "sha1": "33CAC3B3CA6CD1DBFEAD196FA303D9DB91AA82D5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/24/1e88c5c17580d9f0c1cac9af2ed5ec94365a59"
-    },
-    {
-      "path": ".git/objects/24/80a12c1b804ff62d3c6bc4ccb7b32e6222ac39",
-      "sha1": "89B5E39DB0418EC64A229FD4F329C4393F626617",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/24/80a12c1b804ff62d3c6bc4ccb7b32e6222ac39"
-    },
-    {
-      "path": ".git/objects/25/737cb6af3f7d9b2aa460521ecc6ffdcf6584a0",
-      "sha1": "FA9B180CBBFD713A982DCCAEC4C766CA7155921A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/25/737cb6af3f7d9b2aa460521ecc6ffdcf6584a0"
-    },
-    {
-      "path": ".git/objects/25/768ba18fb2f935f5380f8bd2eff0fa2db1f3bb",
-      "sha1": "9E38616598740F76B34240261AE87D48C17F1BF9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/25/768ba18fb2f935f5380f8bd2eff0fa2db1f3bb"
-    },
-    {
-      "path": ".git/objects/25/b67b76f1cca808a4562dabb1219d65b6f0b262",
-      "sha1": "82E681B0FD4B9E55E29FDBB2FC4D51B5836B9CFA",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/25/b67b76f1cca808a4562dabb1219d65b6f0b262"
-    },
-    {
-      "path": ".git/objects/27/86e4d64e52152a42708014d9b7399b95c0c1c2",
-      "sha1": "2613CC3C747700EE9987546316C9CDD1E9EAC53C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/27/86e4d64e52152a42708014d9b7399b95c0c1c2"
-    },
-    {
-      "path": ".git/objects/28/580ceab4b18c77800620ce704bd83fbb16e23d",
-      "sha1": "9D5B2F964DDCF06CB1B8CF9C9CD581051CEE0C57",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/28/580ceab4b18c77800620ce704bd83fbb16e23d"
-    },
-    {
-      "path": ".git/objects/28/bc1b7a6c4976ea36cf5ee39ea67591b105563b",
-      "sha1": "9A6293DBC1B104FC9BF9EFCA85F39AE36821D86B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/28/bc1b7a6c4976ea36cf5ee39ea67591b105563b"
-    },
-    {
-      "path": ".git/objects/29/2865c11f62b9e4d160a10f08c040dea334fb31",
-      "sha1": "1C801E193B51D175291EF0E0B00D507359968D16",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/29/2865c11f62b9e4d160a10f08c040dea334fb31"
-    },
-    {
-      "path": ".git/objects/2b/5b9191b96630dcaf4b364ec7a5fc396ec6406e",
-      "sha1": "00667E06125E63CF313C22291D8226E9D3139A71",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/2b/5b9191b96630dcaf4b364ec7a5fc396ec6406e"
-    },
-    {
-      "path": ".git/objects/2b/7cf7e77b1e0feb37da9d76ca4ef8bfaccdb100",
-      "sha1": "6FEFDA299A623EF4A2D9035F7B0B4B7C14EB0ECE",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/2b/7cf7e77b1e0feb37da9d76ca4ef8bfaccdb100"
-    },
-    {
-      "path": ".git/objects/2e/e957da692ae77f735b443caba866fec4f6d758",
-      "sha1": "16B66349597508F7B2FA50A6B626237CD2D71632",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/2e/e957da692ae77f735b443caba866fec4f6d758"
-    },
-    {
-      "path": ".git/objects/2f/3b68bfb5f939083acc09b9541cd9ec241735e0",
-      "sha1": "565FA415DB1A89385C3FD1ED6DB73A4810EDF1E1",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/2f/3b68bfb5f939083acc09b9541cd9ec241735e0"
-    },
-    {
-      "path": ".git/objects/2f/9d7a7de99ec836acc9e0d256e7681925f4c942",
-      "sha1": "8D2982DCFFCFD0C93F2D5A7EB8194361F9EE6EDF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/2f/9d7a7de99ec836acc9e0d256e7681925f4c942"
-    },
-    {
-      "path": ".git/objects/31/dd21c97ce77cd77fa3a0d6ddc819cbe5de486d",
-      "sha1": "47AE0F0965F8976F5F49C4E04094AB988C898E46",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/31/dd21c97ce77cd77fa3a0d6ddc819cbe5de486d"
-    },
-    {
-      "path": ".git/objects/32/f9611a74b36fc36be45a9389996e06e89064c7",
-      "sha1": "974AE281315B13D7FAC17988DBCD5E1473C8A90D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/32/f9611a74b36fc36be45a9389996e06e89064c7"
-    },
-    {
-      "path": ".git/objects/34/01f71f42090c9ca8a31234ec1ac0867ec6e536",
-      "sha1": "B996BD379E8C5FFCBD3DD08E92B7246332C4FBE5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/34/01f71f42090c9ca8a31234ec1ac0867ec6e536"
-    },
-    {
-      "path": ".git/objects/36/2e941c4f8fda9f72f57dedb430d5abc00527b9",
-      "sha1": "B7480679B1BF004220CAF93BEB8B39CEA1CC87E8",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/36/2e941c4f8fda9f72f57dedb430d5abc00527b9"
-    },
-    {
-      "path": ".git/objects/37/6dd53c3d332dbc23cc42da3498eb6ed1b87eea",
-      "sha1": "C27FA88E7BFD0E094D58B0ED84302B77D33B1884",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/37/6dd53c3d332dbc23cc42da3498eb6ed1b87eea"
-    },
-    {
-      "path": ".git/objects/38/0b60f419a5d8b60efb17635937bab1aeebe5d7",
-      "sha1": "CCCBFE90C9AC9B4F7469DC8510992163471FAE93",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/38/0b60f419a5d8b60efb17635937bab1aeebe5d7"
-    },
-    {
-      "path": ".git/objects/38/735c0ccf7ad3deb0ea04a2f4d7ffc6af52502c",
-      "sha1": "BF0A4241059BC959C91D9247D0ADF90B7AF481E5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/38/735c0ccf7ad3deb0ea04a2f4d7ffc6af52502c"
-    },
-    {
-      "path": ".git/objects/39/c71cd512a08992711a59959bb2d770348cc236",
-      "sha1": "20008C6641EA07C539236864A0F3AB2021DD03DB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/39/c71cd512a08992711a59959bb2d770348cc236"
-    },
-    {
-      "path": ".git/objects/3d/6e3212aaae8514fd1ee47f4b656ddffa36aac3",
-      "sha1": "046D8EED7EC69E9E7F4F895EFEFD0D16A4168098",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/3d/6e3212aaae8514fd1ee47f4b656ddffa36aac3"
-    },
-    {
-      "path": ".git/objects/3e/a40ed9d3caebac820f4447a38c7be9381988eb",
-      "sha1": "67A4477229C64F28EE2565A4769B594062515C84",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/3e/a40ed9d3caebac820f4447a38c7be9381988eb"
-    },
-    {
-      "path": ".git/objects/3f/ea5a1dda602b6dcab56759227ecffded914db7",
-      "sha1": "23914E5DDA09C13F2E52613633000A639B0FCC6B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/3f/ea5a1dda602b6dcab56759227ecffded914db7"
-    },
-    {
-      "path": ".git/objects/40/f7c7ab3173329a9ecfc915b0b745d9c1d30d5e",
-      "sha1": "895D229B77D357A904728694BF5954BADBB099F9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/40/f7c7ab3173329a9ecfc915b0b745d9c1d30d5e"
-    },
-    {
-      "path": ".git/objects/42/01fd243c8a4b3b278383d656bd078d4925f770",
-      "sha1": "52C882ACA715EECFF3B2ECC0FEBE9D0B642A9D54",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/42/01fd243c8a4b3b278383d656bd078d4925f770"
-    },
-    {
-      "path": ".git/objects/42/91ee9b276c52b4136a7d105e60d42f5153fd0b",
-      "sha1": "2B2FB35B067B950BE1E6F6EFC43B20C1D0534B71",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/42/91ee9b276c52b4136a7d105e60d42f5153fd0b"
-    },
-    {
-      "path": ".git/objects/43/8ed10a86c30bbf4834ab152ddbc4b688c7280b",
-      "sha1": "ABBB60BF7609A787E6FD537E87C2FDF4C4679528",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/43/8ed10a86c30bbf4834ab152ddbc4b688c7280b"
-    },
-    {
-      "path": ".git/objects/45/635631e8f671ade5466ca9d9ed67f592c252cd",
-      "sha1": "E634390DCBF09BA4C94D0A151BB811F16EF128D9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/45/635631e8f671ade5466ca9d9ed67f592c252cd"
-    },
-    {
-      "path": ".git/objects/47/34152e5663481cdb23921ca38c46582fe1e017",
-      "sha1": "DBC04A50DB2ADA59A3A6AECADB84D2B33983490F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/47/34152e5663481cdb23921ca38c46582fe1e017"
-    },
-    {
-      "path": ".git/objects/47/e3a6ed5d654fcac79853b0b28a5ffcce1427f5",
-      "sha1": "9F601ED542DD2F3914C497B5813AF2F34E290288",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/47/e3a6ed5d654fcac79853b0b28a5ffcce1427f5"
-    },
-    {
-      "path": ".git/objects/48/f1fe46c2db1d54b3a0ac924fad6faab5857a00",
-      "sha1": "8D35BDC2B6CB751412660F5E9914A2DB9D6F0EFF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/48/f1fe46c2db1d54b3a0ac924fad6faab5857a00"
-    },
-    {
-      "path": ".git/objects/49/0e935eebca5b9ffcceedf8240ef0ea341a21f7",
-      "sha1": "3543ACB30576EAE7EE6CB75F680BD2B2F9C33A9F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/49/0e935eebca5b9ffcceedf8240ef0ea341a21f7"
-    },
-    {
-      "path": ".git/objects/49/978d27c08a888d2999775dd62e5d1f0095106e",
-      "sha1": "3B193D4BEE0B90D3F634E7996EA60571DFCE612F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/49/978d27c08a888d2999775dd62e5d1f0095106e"
-    },
-    {
-      "path": ".git/objects/4a/2be44c403a5bca657c267d34df1ab5b4484050",
-      "sha1": "33E281A2BA77D9B57ED1A1248C94EDCF6AE68391",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/4a/2be44c403a5bca657c267d34df1ab5b4484050"
-    },
-    {
-      "path": ".git/objects/4a/811b12f66d0cf9f7cc54323295b9d552f19094",
-      "sha1": "A1623280E33F8A7E4A790DDD6498DF319113B8C7",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/4a/811b12f66d0cf9f7cc54323295b9d552f19094"
-    },
-    {
-      "path": ".git/objects/4d/70cb1ae632068a01c994a65f17ccfdc374b7eb",
-      "sha1": "440F0E892A49829AE30E1441398AB4DB20816943",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/4d/70cb1ae632068a01c994a65f17ccfdc374b7eb"
-    },
-    {
-      "path": ".git/objects/50/14a6c1518ceca5df3158ea65d2ea382210ff69",
-      "sha1": "D09AE0795B01AC19F3118365F65DB6B57A6985A1",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/50/14a6c1518ceca5df3158ea65d2ea382210ff69"
-    },
-    {
-      "path": ".git/objects/50/dc462e7e08017a89b2fe0511e7966333fbc156",
-      "sha1": "F63EAE9DF3CDEE7E55E1896A12AB6C6C033B5234",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/50/dc462e7e08017a89b2fe0511e7966333fbc156"
-    },
-    {
-      "path": ".git/objects/51/58f63f8e0b6d49a6209141d1194f7539432ebf",
-      "sha1": "97B39BDEA80A579AF72ECE9D41841BBCEBFBD68B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/51/58f63f8e0b6d49a6209141d1194f7539432ebf"
-    },
-    {
-      "path": ".git/objects/52/0420e1228fa3414108ec3fdf62cde813dd3902",
-      "sha1": "C6382C7D86D810ABE23A47AD03343885DBF4782B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/52/0420e1228fa3414108ec3fdf62cde813dd3902"
-    },
-    {
-      "path": ".git/objects/53/11d1294d8c4559c99e73df066a8ef69eec363e",
-      "sha1": "0381E0B7A7B7F92980CC98F3909FE8FE120F0105",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/53/11d1294d8c4559c99e73df066a8ef69eec363e"
-    },
-    {
-      "path": ".git/objects/53/aabdb120c26897c8905590bed2e862962e2f24",
-      "sha1": "174CDC7000447B1D6AE909A6393855B4255B109D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/53/aabdb120c26897c8905590bed2e862962e2f24"
-    },
-    {
-      "path": ".git/objects/55/28d035f3a0cdda404caf05a3bedf9e7974db41",
-      "sha1": "E27F62C442C6A9488878449174E11CCAC9F49E1C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/55/28d035f3a0cdda404caf05a3bedf9e7974db41"
-    },
-    {
-      "path": ".git/objects/57/7187e739b8b1f79d0443bdc8c004616410c04c",
-      "sha1": "346C60039874E1D071254ABC6B4B5ECB86A35E6A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/57/7187e739b8b1f79d0443bdc8c004616410c04c"
-    },
-    {
-      "path": ".git/objects/58/b84d61119142666cf1bd83f8c2420afe1c56a5",
-      "sha1": "6FDCC0BE7E17EBA55095598D45F12BA677153158",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/58/b84d61119142666cf1bd83f8c2420afe1c56a5"
-    },
-    {
-      "path": ".git/objects/59/3f4708db84ac8fd0f5cc47c634f38c013fe9e4",
-      "sha1": "6CA55B922A53E0C818853F271007C082E40E16C5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/59/3f4708db84ac8fd0f5cc47c634f38c013fe9e4"
-    },
-    {
-      "path": ".git/objects/5a/52d935cc5a0fba361ed575e1d139dc62b389ca",
-      "sha1": "684F838B8866CB6B59EC353FB3410C3032E2E5B6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/5a/52d935cc5a0fba361ed575e1d139dc62b389ca"
-    },
-    {
-      "path": ".git/objects/5b/8e3e7f4905303529371b348d7d6c8f4a44cccf",
-      "sha1": "AC4AAE0496A5BF7512F823B4E829228334F69842",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/5b/8e3e7f4905303529371b348d7d6c8f4a44cccf"
-    },
-    {
-      "path": ".git/objects/5b/f8d52c3b4a0a5557bf93f36dde8a19854fbd2a",
-      "sha1": "7914A36CD7B9BC6710EA7C6E5C990B6B6A449E1B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/5b/f8d52c3b4a0a5557bf93f36dde8a19854fbd2a"
-    },
-    {
-      "path": ".git/objects/5c/c11147e14797f5b552f9cd0df8b6e31d39a189",
-      "sha1": "BC2952429C0BA2BDF66E92F65455C1536DF1A228",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/5c/c11147e14797f5b552f9cd0df8b6e31d39a189"
-    },
-    {
-      "path": ".git/objects/5d/e81b7b74918e6ba34ac44135f2d4759a0dc7e6",
-      "sha1": "1C51E67306CF03B497714651F08F7C1A2E87D9CE",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/5d/e81b7b74918e6ba34ac44135f2d4759a0dc7e6"
-    },
-    {
-      "path": ".git/objects/5f/297657562d87efffa461b4872efb75498ded6e",
-      "sha1": "F9A304A9732D441E2EA31F31815A137667C7F1DA",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/5f/297657562d87efffa461b4872efb75498ded6e"
-    },
-    {
-      "path": ".git/objects/60/254a6997dbaaec71c1d443e2dab08f42b7c7fb",
-      "sha1": "0D6D74FCA6F4F752F8BE36E52CA6F5A6ED1EC560",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/60/254a6997dbaaec71c1d443e2dab08f42b7c7fb"
-    },
-    {
-      "path": ".git/objects/60/c65039c152287c54851dc967223b9d16dfd5f7",
-      "sha1": "BC766573FA781D860653037FCCF0B4F02BB33C60",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/60/c65039c152287c54851dc967223b9d16dfd5f7"
-    },
-    {
-      "path": ".git/objects/62/e121d5896cb726da1f5c239791eb253a4910db",
-      "sha1": "5E6AE3F2DDA93B8EA7FB3F3050E5C7D19B70A637",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/62/e121d5896cb726da1f5c239791eb253a4910db"
-    },
-    {
-      "path": ".git/objects/68/761bf386e83905898229c98864e9289bd01911",
-      "sha1": "44AC0B7BAC58AE0BDCEDB2EF176A75C4169EB032",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/68/761bf386e83905898229c98864e9289bd01911"
-    },
-    {
-      "path": ".git/objects/69/a8527260792e04514eb6044d26193357c238e6",
-      "sha1": "9B730323F553445C132C5C37BE3E698C58E87A50",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/69/a8527260792e04514eb6044d26193357c238e6"
-    },
-    {
-      "path": ".git/objects/6a/e0079cf384a3062cbffbccc46471cdc7ba9d85",
-      "sha1": "F0745482799A1C02328D753EE949BFAD1F11645F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/6a/e0079cf384a3062cbffbccc46471cdc7ba9d85"
-    },
-    {
-      "path": ".git/objects/6c/205747c1cd6a4ac5002b8bea97eee4c803fc4e",
-      "sha1": "4F49216AEA7B727709AF656FB2FB3A2E1CE9BFC6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/6c/205747c1cd6a4ac5002b8bea97eee4c803fc4e"
-    },
-    {
-      "path": ".git/objects/6c/ab4e9db0e5c9fa5d0b53a532fda161c0ef8e1c",
-      "sha1": "ECDD94342A4F6D78897AD033CD6AE20D1FB245FE",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/6c/ab4e9db0e5c9fa5d0b53a532fda161c0ef8e1c"
-    },
-    {
-      "path": ".git/objects/6e/97205850727281cbe1336ed596a8ca4bcb73b6",
-      "sha1": "8201DB648CC96578E43DEF687C13055FF3D58D6C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/6e/97205850727281cbe1336ed596a8ca4bcb73b6"
-    },
-    {
-      "path": ".git/objects/73/70670f6a765da972d7a2ac1869ff34d70d1c42",
-      "sha1": "94424CC75140E8F4D71B13563635E4A59C647F55",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/73/70670f6a765da972d7a2ac1869ff34d70d1c42"
-    },
-    {
-      "path": ".git/objects/73/7b0fccb354518e396a65c0faeb5a62107fb6d7",
-      "sha1": "6C973DF412D7C16F2D6D35124EECCD419DAA1C26",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/73/7b0fccb354518e396a65c0faeb5a62107fb6d7"
-    },
-    {
-      "path": ".git/objects/74/486d350a4d5a6d986f9d123f98f1c0b7f04ccd",
-      "sha1": "BB8FE36728A755D13BED7D98D0E230B1E6B34D79",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/74/486d350a4d5a6d986f9d123f98f1c0b7f04ccd"
-    },
-    {
-      "path": ".git/objects/78/489a5aa359e321a764f9335f9fc4b883f2dbb6",
-      "sha1": "12C61CC6A8434D998C6CE4F8846C20674FEEB759",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/78/489a5aa359e321a764f9335f9fc4b883f2dbb6"
-    },
-    {
-      "path": ".git/objects/79/8b34c93494977928fd1c68011c079abfb2a750",
-      "sha1": "C0886F2BD6BC24145D39296031EBCB5512D2FD53",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/79/8b34c93494977928fd1c68011c079abfb2a750"
-    },
-    {
-      "path": ".git/objects/79/eff060442e3d225cd2ae61dea8724a04d7c468",
-      "sha1": "E767937B24CC7216906F78EF8217B8FE68967BA0",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/79/eff060442e3d225cd2ae61dea8724a04d7c468"
-    },
-    {
-      "path": ".git/objects/7a/911ce452bc9a6b2169da5b5a77dfbd20544a3e",
-      "sha1": "4027A31722DDC51BD26FCCC1ADD2BCF8925FDC85",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/7a/911ce452bc9a6b2169da5b5a77dfbd20544a3e"
-    },
-    {
-      "path": ".git/objects/7b/0cb02907da5a323ef96eba82e2b2b160edd41a",
-      "sha1": "5D025C1FB9DC472FB066D41549C7B675BDD72C46",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/7b/0cb02907da5a323ef96eba82e2b2b160edd41a"
-    },
-    {
-      "path": ".git/objects/7b/ac08494000f7d28ba88664a94189a267ef77ac",
-      "sha1": "111E16F344DA8BD7EACD27F952EEF9592AE19754",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/7b/ac08494000f7d28ba88664a94189a267ef77ac"
-    },
-    {
-      "path": ".git/objects/7e/bbe5b3851f6577eaf730911bf1fa4a899ecfb5",
-      "sha1": "4CEE5ED5F529A0BEF9EA4F3017EB90D74F5E4B25",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/7e/bbe5b3851f6577eaf730911bf1fa4a899ecfb5"
-    },
-    {
-      "path": ".git/objects/80/3037b16a18b5f7804f5ced4f53400caa5d1324",
-      "sha1": "114A546F402CA65E918FE414CCC966943E7BA263",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/80/3037b16a18b5f7804f5ced4f53400caa5d1324"
-    },
-    {
-      "path": ".git/objects/80/61758bc6cf316c87cfdff4c11bcec558dd099d",
-      "sha1": "2D866A2734C9A3E6E0BB97E2D4A18F73E1C319C6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/80/61758bc6cf316c87cfdff4c11bcec558dd099d"
-    },
-    {
-      "path": ".git/objects/81/95e3cd3e81a0cd4ab6cb966ee777532f3c3af3",
-      "sha1": "F9725F932C3CF5E2D832483EC68FE594D6198362",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/81/95e3cd3e81a0cd4ab6cb966ee777532f3c3af3"
-    },
-    {
-      "path": ".git/objects/81/a8103a388a7611944221770651d8891e294435",
-      "sha1": "4F04CA6308FC843194D244F6B4D375EB1CA404A8",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/81/a8103a388a7611944221770651d8891e294435"
-    },
-    {
-      "path": ".git/objects/82/5bd2672d4346347a70af8c81208b7c31a843f6",
-      "sha1": "41BDB110DEA9527B299A5859FA8F16D7147B2605",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/82/5bd2672d4346347a70af8c81208b7c31a843f6"
-    },
-    {
-      "path": ".git/objects/82/fb57683d2dcab654a9bfd31ab222098fb65db1",
-      "sha1": "967D01A5DA9BEABDC9B2015A6391006CCD7F45C9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/82/fb57683d2dcab654a9bfd31ab222098fb65db1"
-    },
-    {
-      "path": ".git/objects/83/ada2dae333eae71124817175e1056a3abfcd45",
-      "sha1": "699A14CC534B1413B55367D7AAA08B67062A11A2",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/83/ada2dae333eae71124817175e1056a3abfcd45"
-    },
-    {
-      "path": ".git/objects/84/8de007bf2dcfb6adc5c719ff3715e5ae4e9bfb",
-      "sha1": "7B1015873992FA624A5D5D98D6377F7579D7BCE9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/84/8de007bf2dcfb6adc5c719ff3715e5ae4e9bfb"
-    },
-    {
-      "path": ".git/objects/85/d43d17e8a90adbf75debf4e939b5009067a61b",
-      "sha1": "C2094B37BF5DB744652241304140976DE820151F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/85/d43d17e8a90adbf75debf4e939b5009067a61b"
-    },
-    {
-      "path": ".git/objects/88/04908aacc91c29b81d0a4ad67636530648276c",
-      "sha1": "7BDF05C2AC703C13D6B89F18EC68371F44241CDC",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/88/04908aacc91c29b81d0a4ad67636530648276c"
-    },
-    {
-      "path": ".git/objects/88/58f3f61629c6102e56d7a1ebde0cef23c704b3",
-      "sha1": "A56DAEF5B92C2DC85EEF5994C3F70EDCA50FB9C5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/88/58f3f61629c6102e56d7a1ebde0cef23c704b3"
-    },
-    {
-      "path": ".git/objects/88/c0130a5cf48de91e40c4154cad2fd07ca01866",
-      "sha1": "E54DA0EDA02753FF84874E9483A14214AA07D03E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/88/c0130a5cf48de91e40c4154cad2fd07ca01866"
-    },
-    {
-      "path": ".git/objects/88/e168b0e0c68f9ae43d1074d4b47a8adbafcdd1",
-      "sha1": "707EE5D1ABF56FB4D02BCEF7EEEBF4885C8582AB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/88/e168b0e0c68f9ae43d1074d4b47a8adbafcdd1"
-    },
-    {
-      "path": ".git/objects/89/eda1b28194f0dfc6e5cebc764710825d31a930",
-      "sha1": "4030110E8B0897928E2DC5F1D1147790116ABC3A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/89/eda1b28194f0dfc6e5cebc764710825d31a930"
-    },
-    {
-      "path": ".git/objects/8a/f46aa1b3205a7a11e845bc0ce7fd8231a22a8c",
-      "sha1": "2BA14DB5F1A0197854195EE482805D54BFDA23F4",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/8a/f46aa1b3205a7a11e845bc0ce7fd8231a22a8c"
-    },
-    {
-      "path": ".git/objects/8b/e147df2ea199ecc0cdc8ab86d03799b032a821",
-      "sha1": "573FEFCA6FB460E87E1FA5C0ADF31C23095B5ABD",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/8b/e147df2ea199ecc0cdc8ab86d03799b032a821"
-    },
-    {
-      "path": ".git/objects/8c/a481e3be6877c1cb9567f8c78c9f13edaf7dbb",
-      "sha1": "5E357FF979D48177063FD09BE7A904D813AF77E2",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/8c/a481e3be6877c1cb9567f8c78c9f13edaf7dbb"
-    },
-    {
-      "path": ".git/objects/8d/16de615d015ecb4148301597ea11ccbdd0a41c",
-      "sha1": "051202E2285A5C56405E2C35236E2E0F2ABC7F18",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/8d/16de615d015ecb4148301597ea11ccbdd0a41c"
-    },
-    {
-      "path": ".git/objects/8d/90c652854eab3718f6c4cba52ed4c257ff5dc4",
-      "sha1": "1D136C84A030256894B49850BD17C181796A5BC1",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/8d/90c652854eab3718f6c4cba52ed4c257ff5dc4"
-    },
-    {
-      "path": ".git/objects/8d/c79ab1dc56ebc54d3ed01189d0071981c8c746",
-      "sha1": "1C32D3B506669A55F0C8ADACC4F14586C1C2E9A6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/8d/c79ab1dc56ebc54d3ed01189d0071981c8c746"
-    },
-    {
-      "path": ".git/objects/8d/e8eec0e1d1d4082db5a12f6eeb521b3644ddbf",
-      "sha1": "5F34098BB4BDE2197ED4CC63971AE10D0A629FBE",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/8d/e8eec0e1d1d4082db5a12f6eeb521b3644ddbf"
-    },
-    {
-      "path": ".git/objects/8e/5a2cefcd7a130f7851079421d5bbbcfe85a26e",
-      "sha1": "FB24EE0C1BE0861E4A5D0934DA3E9423527166C8",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/8e/5a2cefcd7a130f7851079421d5bbbcfe85a26e"
-    },
-    {
-      "path": ".git/objects/90/5f854f80abe883799aa39a7d5d99667f4fa3a9",
-      "sha1": "E5FD7CD70BD64BBF08343AAF76D82A4DDCAC3F81",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/90/5f854f80abe883799aa39a7d5d99667f4fa3a9"
-    },
-    {
-      "path": ".git/objects/91/62883b0d9246ff558a54b891719bf6fcb1d3ba",
-      "sha1": "0E4D566AB04DF0744CC5BC5C826E2DA32D0F328E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/91/62883b0d9246ff558a54b891719bf6fcb1d3ba"
-    },
-    {
-      "path": ".git/objects/91/9ac12f0b0c7d17008f10d409ed2b36923eaa97",
-      "sha1": "735F8FADA2C8A45BD02C885B10B5886519049516",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/91/9ac12f0b0c7d17008f10d409ed2b36923eaa97"
-    },
-    {
-      "path": ".git/objects/91/afe9263e46f0af209a7d8d8c81602bb4be6171",
-      "sha1": "7C4F9DBA4D0147FB4E709677EC413F6BA5E22050",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/91/afe9263e46f0af209a7d8d8c81602bb4be6171"
-    },
-    {
-      "path": ".git/objects/93/58b6b97a2e343bcec473ae24f393d78e82ee76",
-      "sha1": "FE3B80F88FEE4BE50AAD981DFB3DAF74EA0A879D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/93/58b6b97a2e343bcec473ae24f393d78e82ee76"
-    },
-    {
-      "path": ".git/objects/94/ce0f3ef4e0740aa15461b7b0b8d3867420f6f0",
-      "sha1": "E068CFA97EB156EADE8982650EFCD763750B6D0B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/94/ce0f3ef4e0740aa15461b7b0b8d3867420f6f0"
-    },
-    {
-      "path": ".git/objects/95/74738918a23af96b8de6fe45d97b196c132b49",
-      "sha1": "AED45F48616DBAE39790319432383700CA4833FC",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/95/74738918a23af96b8de6fe45d97b196c132b49"
-    },
-    {
-      "path": ".git/objects/95/db801d42d8fae7c9080d8f5a2280f0b7de8afe",
-      "sha1": "69807C45349903280E48920D60E6E94046B2FD98",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/95/db801d42d8fae7c9080d8f5a2280f0b7de8afe"
-    },
-    {
-      "path": ".git/objects/97/93d58bbe714a3899b5dbba28aee13f3245d4ee",
-      "sha1": "9B7A456E97E41D918296C6D4FDF793943176AA5E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/97/93d58bbe714a3899b5dbba28aee13f3245d4ee"
-    },
-    {
-      "path": ".git/objects/99/a96223367c3a20a0d2128dba784ff114c4a44b",
-      "sha1": "5F255BE7A9E6B11B35476D24364F595F5509FF78",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/99/a96223367c3a20a0d2128dba784ff114c4a44b"
-    },
-    {
-      "path": ".git/objects/99/ebf7bb75732b47f08255148702ba1bbf695317",
-      "sha1": "9B60D9534C9DDFF7225A2957709E099C2BC93C76",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/99/ebf7bb75732b47f08255148702ba1bbf695317"
-    },
-    {
-      "path": ".git/objects/9a/d8769eae15282d2419bd49bf2590c30f1bc87c",
-      "sha1": "BD65DACB6655781CE9678CE105EE97B469CA615D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/9a/d8769eae15282d2419bd49bf2590c30f1bc87c"
-    },
-    {
-      "path": ".git/objects/9b/533ceeca078325e15c01c84be7fffe430f40d6",
-      "sha1": "136E3B5D6F74D6AE71C76B1F71763EECE9638206",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/9b/533ceeca078325e15c01c84be7fffe430f40d6"
-    },
-    {
-      "path": ".git/objects/9b/7b06b49883e655e75183d05b957f020e986881",
-      "sha1": "BF225A2E51094FA569AA6C74E63E68AD3E6A3505",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/9b/7b06b49883e655e75183d05b957f020e986881"
-    },
-    {
-      "path": ".git/objects/9b/f42afc4bb3df1d72b7c4ceab9ad34d7afe290d",
-      "sha1": "CA54D1A099503FFA9F6A1323422B46DADCB106CA",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/9b/f42afc4bb3df1d72b7c4ceab9ad34d7afe290d"
-    },
-    {
-      "path": ".git/objects/9e/0a26205e7d8c50872907501977a215033acff8",
-      "sha1": "7A7987CBCA7D325CCCFFB75F8BF559DA9CE74E07",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/9e/0a26205e7d8c50872907501977a215033acff8"
-    },
-    {
-      "path": ".git/objects/a0/f6504ffd9ba2ca123f007d0a7bbbbbd9cae682",
-      "sha1": "E6CCA11C00DECA487EBFB9269961BF25AA966159",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/a0/f6504ffd9ba2ca123f007d0a7bbbbbd9cae682"
-    },
-    {
-      "path": ".git/objects/a1/5e99e03177360414e1fd74a1539702002d7e1a",
-      "sha1": "B54C9F4BFFA3030BF6EAB2E8C32F86557E811D14",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/a1/5e99e03177360414e1fd74a1539702002d7e1a"
-    },
-    {
-      "path": ".git/objects/a2/da5191a57b910bc4b9242536cf048e9ed93265",
-      "sha1": "FE2571964A39CE7A25E0D9EBE87827679AB3170D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/a2/da5191a57b910bc4b9242536cf048e9ed93265"
-    },
-    {
-      "path": ".git/objects/a4/266045140ce2963445d4fa754a76103e6eaf61",
-      "sha1": "7FA757CA6E753F5E897ADC4C0C7B804A62D37E55",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/a4/266045140ce2963445d4fa754a76103e6eaf61"
-    },
-    {
-      "path": ".git/objects/a4/e0b136d6357d911aa39e17d839ffeef2d51c80",
-      "sha1": "9F23133CA87AC38BA407694F66F83C872AFE7193",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/a4/e0b136d6357d911aa39e17d839ffeef2d51c80"
-    },
-    {
-      "path": ".git/objects/a6/27cc9816446615903ad8b7f2de67ffd52b9c2b",
-      "sha1": "1E75DC1D201E599484C55C8AB959CE4DF91E66B7",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/a6/27cc9816446615903ad8b7f2de67ffd52b9c2b"
-    },
-    {
-      "path": ".git/objects/a7/3bf0a43f891e44acb09e02cc3549d4be838404",
-      "sha1": "F2C96E492C689E40FFC810DB395179F99C049F96",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/a7/3bf0a43f891e44acb09e02cc3549d4be838404"
-    },
-    {
-      "path": ".git/objects/a8/2194ff5327036a04388a92ddb6f64d59c77d02",
-      "sha1": "89B84EDBAFE19F6E3626CBC1ED9832B9C6684446",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/a8/2194ff5327036a04388a92ddb6f64d59c77d02"
-    },
-    {
-      "path": ".git/objects/aa/1acda43044cd307183fb7a74c6bf317e353bec",
-      "sha1": "4F12ADC9FA8DBA7D2FD13F80EEC4CB09F304798B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/aa/1acda43044cd307183fb7a74c6bf317e353bec"
-    },
-    {
-      "path": ".git/objects/aa/da896a58bc3c0112a2cf3ace099783f01755e8",
-      "sha1": "5A2CA64E189F618E88A90946CB26D15178C4B577",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/aa/da896a58bc3c0112a2cf3ace099783f01755e8"
-    },
-    {
-      "path": ".git/objects/ac/45c8e488bbac3187f8badf3afd54bf929539e9",
-      "sha1": "D34DB76A429156808C72EC03CFFAA0A8E4A72C9E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/ac/45c8e488bbac3187f8badf3afd54bf929539e9"
-    },
-    {
-      "path": ".git/objects/ae/7e5f0a3ae290d704f666a03f976bc58d8f5f32",
-      "sha1": "426AB5C9D43BCD4BC5D581F0890FBF80540CB6D3",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/ae/7e5f0a3ae290d704f666a03f976bc58d8f5f32"
-    },
-    {
-      "path": ".git/objects/b1/2884bdf179b68a2926be086f11802706cee6c0",
-      "sha1": "6965EB76EC2447417F7BF2366B5200FE3C2278BF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/b1/2884bdf179b68a2926be086f11802706cee6c0"
-    },
-    {
-      "path": ".git/objects/b1/4000139a90761f6c9cf2727f23bbf717f5e882",
-      "sha1": "F4F82A5D500AE952BDD2985D13EFF3DE09BCC857",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/b1/4000139a90761f6c9cf2727f23bbf717f5e882"
-    },
-    {
-      "path": ".git/objects/b2/d7bb4b89db18573acb567edad9590a3d91978b",
-      "sha1": "AECA9DF927B368ECD046CFC2F7B105CB176A0DB5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/b2/d7bb4b89db18573acb567edad9590a3d91978b"
-    },
-    {
-      "path": ".git/objects/b4/0c2de78d3996bcd331005336e0af6b7fe2e6da",
-      "sha1": "BD2A32CE6C1BCD193E94CD421B1843D848A2D9C4",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/b4/0c2de78d3996bcd331005336e0af6b7fe2e6da"
-    },
-    {
-      "path": ".git/objects/b4/4f2f934a2316cb86ae670f4d7a5572c53fc5e2",
-      "sha1": "6E40141965E20CB96431C3047758A470ED8CDD37",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/b4/4f2f934a2316cb86ae670f4d7a5572c53fc5e2"
-    },
-    {
-      "path": ".git/objects/b4/c838a1fcc9864c801cfe63bcd9217935375873",
-      "sha1": "F8F69229604F4BF7DFAE7948DA6A74DE65ADA5AF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/b4/c838a1fcc9864c801cfe63bcd9217935375873"
-    },
-    {
-      "path": ".git/objects/b5/27b70df26a8baf25c59683842e80961217dbaa",
-      "sha1": "F10770671B1C10B6502E542B8960E9EC7E0BDC7E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/b5/27b70df26a8baf25c59683842e80961217dbaa"
-    },
-    {
-      "path": ".git/objects/b5/49d5516a683708a316c330e4417bc2e9d8e4e3",
-      "sha1": "86E9867D7BE7D8226EB6D0243656A6E62975F97D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/b5/49d5516a683708a316c330e4417bc2e9d8e4e3"
-    },
-    {
-      "path": ".git/objects/b5/bfdccf41b43fc42410cb1411667af789129294",
-      "sha1": "6B78A4CC077A6EA08ECD09C5C780C3F07D0A492E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/b5/bfdccf41b43fc42410cb1411667af789129294"
-    },
-    {
-      "path": ".git/objects/b7/c91cf1bc8ac639c0af75d58e4f7ca722ee8239",
-      "sha1": "820F89496090C5593D345A77291DFAF24492106F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/b7/c91cf1bc8ac639c0af75d58e4f7ca722ee8239"
-    },
-    {
-      "path": ".git/objects/b7/ff86038f30bd81df5668955682e279636a03ca",
-      "sha1": "79BE3826D8EDF13B095B6C534D293DEDCECFA2B3",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/b7/ff86038f30bd81df5668955682e279636a03ca"
-    },
-    {
-      "path": ".git/objects/b9/4e7b4f18c558c8166eb656de09574cdb30ab90",
-      "sha1": "125C720BE252AD9B0375C1F45403607E41598343",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/b9/4e7b4f18c558c8166eb656de09574cdb30ab90"
-    },
-    {
-      "path": ".git/objects/ba/16683baf0aecf4c55187498c6560430e1518fb",
-      "sha1": "3F24AFD36FD67BF2AC9582A2471AA9335718D002",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/ba/16683baf0aecf4c55187498c6560430e1518fb"
-    },
-    {
-      "path": ".git/objects/be/a4f7a0fcb7ec735f84e512af4c3d2eb48be952",
-      "sha1": "E1A547C2103F4876ACE384324A793B3BD558C2F6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/be/a4f7a0fcb7ec735f84e512af4c3d2eb48be952"
-    },
-    {
-      "path": ".git/objects/bf/2c1bc959093d2e472e46109a1935346ca7a18a",
-      "sha1": "B0A1D153F12B6A684DE839DA5835F23CA4F88BC3",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/bf/2c1bc959093d2e472e46109a1935346ca7a18a"
-    },
-    {
-      "path": ".git/objects/c0/81ea9752dd172886b4f42c4e49dfc1577f5793",
-      "sha1": "59871D6F3344EF0B0B98C3B64FDEF2E677D27D9F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/c0/81ea9752dd172886b4f42c4e49dfc1577f5793"
-    },
-    {
-      "path": ".git/objects/c1/950525999b959a2dc5c4d957a49210795102db",
-      "sha1": "CACED7524024059A6C7306D842E287D32FB0A6FD",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/c1/950525999b959a2dc5c4d957a49210795102db"
-    },
-    {
-      "path": ".git/objects/c2/cca7922238872162649f7758cf955c5c7eb52e",
-      "sha1": "1A4EECC783B53FC976F91821C34413951908A661",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/c2/cca7922238872162649f7758cf955c5c7eb52e"
-    },
-    {
-      "path": ".git/objects/c2/d743ff3e44be28246d0208f6051dbf85361d7b",
-      "sha1": "68CDC67F30D83F171DB48AAA0E51375B5D49D264",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/c2/d743ff3e44be28246d0208f6051dbf85361d7b"
-    },
-    {
-      "path": ".git/objects/c6/5a6988181ab699ad338df9c55cf69b808a0d6b",
-      "sha1": "7A5B67816EDC86C15479D186263940862929AD17",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/c6/5a6988181ab699ad338df9c55cf69b808a0d6b"
-    },
-    {
-      "path": ".git/objects/c6/811f5176c6485901c4d5a9a4f5c0b39428c996",
-      "sha1": "3617D0C6B09D3505BB8013AF0CCD84345F857284",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/c6/811f5176c6485901c4d5a9a4f5c0b39428c996"
-    },
-    {
-      "path": ".git/objects/c8/c87f46ea4cb9aac7dab6686453caf656887604",
-      "sha1": "06773D0D198B89A55F6EA50C3F58D977D265DDE9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/c8/c87f46ea4cb9aac7dab6686453caf656887604"
-    },
-    {
-      "path": ".git/objects/c8/faddcb2eaff77b1d2c9f784d8d9578bf552944",
-      "sha1": "A8724C5EE899860DCAB1AC2289AF3AAF85D1CB79",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/c8/faddcb2eaff77b1d2c9f784d8d9578bf552944"
-    },
-    {
-      "path": ".git/objects/ca/78b9a115c7f777be15f4b7bb40a66c45f45d82",
-      "sha1": "D287107E0D675CB1256EA76A5F28A77A6A153517",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/ca/78b9a115c7f777be15f4b7bb40a66c45f45d82"
-    },
-    {
-      "path": ".git/objects/ca/8ec2cbc53742184d00b88c0abf371c73541e14",
-      "sha1": "77BE42729D6E9A47C432A9E4A7F9B7EFB10C06A5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/ca/8ec2cbc53742184d00b88c0abf371c73541e14"
-    },
-    {
-      "path": ".git/objects/ca/ba353e10b89c318b5691297df89814f5f18bdb",
-      "sha1": "444A9D7E109F17592FF42910856F0940EA8AB56F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/ca/ba353e10b89c318b5691297df89814f5f18bdb"
-    },
-    {
-      "path": ".git/objects/ca/d7ddcb0ab78d73939a4da62c04f8d7beb6d3eb",
-      "sha1": "D2C4C670B564A91C699088A225163EF5F55E7E36",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/ca/d7ddcb0ab78d73939a4da62c04f8d7beb6d3eb"
-    },
-    {
-      "path": ".git/objects/cb/405bc5d42d52620d5f0e6f4884bd07f31c72db",
-      "sha1": "AC6D56E204AE1A5557E009129AFCECFC0BEDF7E7",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/cb/405bc5d42d52620d5f0e6f4884bd07f31c72db"
-    },
-    {
-      "path": ".git/objects/cb/b71abdc4465ec36be39fa71afdd6befaec3ba1",
-      "sha1": "6E658AFFDAFDE7DFB1D60F57133C796F7D3566F7",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/cb/b71abdc4465ec36be39fa71afdd6befaec3ba1"
-    },
-    {
-      "path": ".git/objects/cd/0ab8c86541ba12176e6ee607d372abe42ce4e3",
-      "sha1": "0CE376A717B2A59AB82DEE05EE963DFCA023581B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/cd/0ab8c86541ba12176e6ee607d372abe42ce4e3"
-    },
-    {
-      "path": ".git/objects/cd/95d13e373e8a349d0d63d3fa4ab4ac5fd62cc8",
-      "sha1": "F043924A912D2D8FF3B8837198D3AAED8AD6D466",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/cd/95d13e373e8a349d0d63d3fa4ab4ac5fd62cc8"
-    },
-    {
-      "path": ".git/objects/cd/fa0b76013847a070475abe73cbdc218c065ad6",
-      "sha1": "31C441C44364E42FD2B3156D8A9AD5C2CDC0982C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/cd/fa0b76013847a070475abe73cbdc218c065ad6"
-    },
-    {
-      "path": ".git/objects/d0/89096f9d5db9ca480df2a2d4c7b99ceaa6bc59",
-      "sha1": "14045C6AB62CF00706BBE2BE130FCD725C185884",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/d0/89096f9d5db9ca480df2a2d4c7b99ceaa6bc59"
-    },
-    {
-      "path": ".git/objects/d1/45ed489574cab969740d65b2192947156fbba3",
-      "sha1": "F039C8DA9A9A7E4EFF7C2D992B43062DECC480CF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/d1/45ed489574cab969740d65b2192947156fbba3"
-    },
-    {
-      "path": ".git/objects/d1/5fc63cfd185ac68ec7064433dbe908e8b300b2",
-      "sha1": "DAE89C4F908F19A97A9600D0D9FF6D74C9EFA32A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/d1/5fc63cfd185ac68ec7064433dbe908e8b300b2"
-    },
-    {
-      "path": ".git/objects/d4/023f3c3cd2acf154858f41bfc57adaa2790db6",
-      "sha1": "3CD220F12E268DFF410C2B7301AC02DBECB3E83B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/d4/023f3c3cd2acf154858f41bfc57adaa2790db6"
-    },
-    {
-      "path": ".git/objects/d4/b23f01f04063fe11d3556db4687b4053633e5c",
-      "sha1": "7B0B08BE7C4F748DB8996192A89ACC8A5E48E199",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/d4/b23f01f04063fe11d3556db4687b4053633e5c"
-    },
-    {
-      "path": ".git/objects/d5/e927eb00ad2788d72726da95a6ea7eacd06258",
-      "sha1": "AD77B548C9B56F23A193828735C4D4677C264DA9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/d5/e927eb00ad2788d72726da95a6ea7eacd06258"
-    },
-    {
-      "path": ".git/objects/d6/f661629a9d478df6a62863db4d5be7f9812d10",
-      "sha1": "F3A1B636BD73981136E3FD58CF879A67126F2D15",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/d6/f661629a9d478df6a62863db4d5be7f9812d10"
-    },
-    {
-      "path": ".git/objects/d8/acee6451d8af47f54c0d38303dbbb96cbf03f0",
-      "sha1": "0FC19BB10B1E3AF1A731D4AE7C90B5BB0DCF3EA8",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/d8/acee6451d8af47f54c0d38303dbbb96cbf03f0"
-    },
-    {
-      "path": ".git/objects/d8/f51200c809cf918217a35ae77176a0474365ab",
-      "sha1": "50C23DBC75B42F92E5598E66C5C9EAA5420B3D7D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/d8/f51200c809cf918217a35ae77176a0474365ab"
-    },
-    {
-      "path": ".git/objects/da/2f652ee68d2972664fc750906bb1dc24e50560",
-      "sha1": "4FF27F470CD159D4C2A32DCBF9AB9E83C26307CF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/da/2f652ee68d2972664fc750906bb1dc24e50560"
-    },
-    {
-      "path": ".git/objects/da/b430047327eb8a2b03c0a8fee0dff4853bac32",
-      "sha1": "9568CA0FED7ABD90B1D1A0ABBB7E516E6A036B70",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/da/b430047327eb8a2b03c0a8fee0dff4853bac32"
-    },
-    {
-      "path": ".git/objects/db/fcf0985f2a253139bfbe95cc798735fc3e125a",
-      "sha1": "A2B02DD9AE5E789B784B7D426FE546AA29BD0496",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/db/fcf0985f2a253139bfbe95cc798735fc3e125a"
-    },
-    {
-      "path": ".git/objects/dc/9936a5542c22ccb12805f9f69cf692c48f3785",
-      "sha1": "BD05DCB0B2DE909A758026C787D2D6DA17F6C56A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/dc/9936a5542c22ccb12805f9f69cf692c48f3785"
-    },
-    {
-      "path": ".git/objects/de/502067e059c97ad3ad35e8f5ea1a0ce6f3adba",
-      "sha1": "FE746A2CF74643A90991B04959B9E3B25682F77F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/de/502067e059c97ad3ad35e8f5ea1a0ce6f3adba"
-    },
-    {
-      "path": ".git/objects/de/dfc10805c5dfa6ad5c9b0f7d6c8d88de3b36d5",
-      "sha1": "0288912CE2F43BF82DD8C76D87D158286BA70453",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/de/dfc10805c5dfa6ad5c9b0f7d6c8d88de3b36d5"
-    },
-    {
-      "path": ".git/objects/df/451022c749e108d3def3c1bb4bfdbfbf0b1ba1",
-      "sha1": "FD8DBDB6EEADD967177E2F9DCA32059B9B3DD4C0",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/df/451022c749e108d3def3c1bb4bfdbfbf0b1ba1"
-    },
-    {
-      "path": ".git/objects/e0/c6c5076e1770e36cce18b471b15973b66d21f2",
-      "sha1": "3DD532D4E13B53A0557C3C63D9870DD0074C79DF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/e0/c6c5076e1770e36cce18b471b15973b66d21f2"
-    },
-    {
-      "path": ".git/objects/e1/6e12206c16a36656c0b3a2994b38fcdefe47b4",
-      "sha1": "106EA1186B60D211B3DB22B6C1CD0156BFC733DB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/e1/6e12206c16a36656c0b3a2994b38fcdefe47b4"
-    },
-    {
-      "path": ".git/objects/e2/bdc947b94e22e811c684e105a2333945d0b3c7",
-      "sha1": "4985495016EF5BD741EF8D331DA3AAA595CF41A9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/e2/bdc947b94e22e811c684e105a2333945d0b3c7"
-    },
-    {
-      "path": ".git/objects/e3/fa27ef61c658fe61df861e39ce5071244658b4",
-      "sha1": "0614DA07FF828F7EB6AE563BC35DA8E6359BE395",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/e3/fa27ef61c658fe61df861e39ce5071244658b4"
-    },
-    {
-      "path": ".git/objects/e4/2af7d87ff9e370ac801e42ce7d6c524a708b62",
-      "sha1": "4BF0A3F5BA9F3D96FD7B3072DDDC3CEB0A16942A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/e4/2af7d87ff9e370ac801e42ce7d6c524a708b62"
-    },
-    {
-      "path": ".git/objects/e4/2fd43617b8571cada5e288201174f78e301e31",
-      "sha1": "E19FD2879EDBAB91B309275882693773EF821BD1",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/e4/2fd43617b8571cada5e288201174f78e301e31"
-    },
-    {
-      "path": ".git/objects/e4/f3f985ba1e1acedbdff1e2f8eca9aa71b0d15e",
-      "sha1": "B65827DB7EDEFB30E7B16025AD177DED8728CAB1",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/e4/f3f985ba1e1acedbdff1e2f8eca9aa71b0d15e"
-    },
-    {
-      "path": ".git/objects/e5/06cf6f8298412627897d6d7daedb8d7643763b",
-      "sha1": "8A96658779462690398ACDF440B41A268FAF17E6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/e5/06cf6f8298412627897d6d7daedb8d7643763b"
-    },
-    {
-      "path": ".git/objects/e5/8a32f7499a2f8a485f45e378643218bf9d478c",
-      "sha1": "619B7EC9BE71D8442646768432A9A56E994D892B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/e5/8a32f7499a2f8a485f45e378643218bf9d478c"
-    },
-    {
-      "path": ".git/objects/e5/9b5fbc4bdd96842d27038e2e4c4d1c9d52bedf",
-      "sha1": "C27990DE1D5D38B4DA5359A99A2968C4A0BB6363",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/e5/9b5fbc4bdd96842d27038e2e4c4d1c9d52bedf"
-    },
-    {
-      "path": ".git/objects/e7/a1bbfce8201a99637c1809b84a32f082b2d1f5",
-      "sha1": "108584A807A949D1003FA88D3CF0AC6A9B44C268",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/e7/a1bbfce8201a99637c1809b84a32f082b2d1f5"
-    },
-    {
-      "path": ".git/objects/e8/4826d4aaba30c7117b5f557a5da526cca9cdc2",
-      "sha1": "5120D7804C5A18FD51A3C56C095E970079F3341C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/e8/4826d4aaba30c7117b5f557a5da526cca9cdc2"
-    },
-    {
-      "path": ".git/objects/e9/c0ab6bbce18e86b56dbc62823aed9e336375e0",
-      "sha1": "5456DFAEE571FE751BCF8ABD6FCD8536EE3A721C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/e9/c0ab6bbce18e86b56dbc62823aed9e336375e0"
-    },
-    {
-      "path": ".git/objects/ea/747ca671716d807c918a39fab8211ea3589f27",
-      "sha1": "B2EB62F0E3A46EB08F6F08ADA80D4968C5CF445B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/ea/747ca671716d807c918a39fab8211ea3589f27"
-    },
-    {
-      "path": ".git/objects/ea/bdbff93dfff1fac61d2e3673c60997084168cb",
-      "sha1": "3C988FE97C4272B51C969C4FFDC49FBF0243ED11",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/ea/bdbff93dfff1fac61d2e3673c60997084168cb"
-    },
-    {
-      "path": ".git/objects/ea/df4a1e5c6bf8db164811f0ab5e9fb03b58c000",
-      "sha1": "57BE80CB3088CF6A33C4AADBD179F7D6A862E35F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/ea/df4a1e5c6bf8db164811f0ab5e9fb03b58c000"
-    },
-    {
-      "path": ".git/objects/eb/4507842d291cee396f0f46bbc558f3ef9b82ea",
-      "sha1": "7FBDBBA61A241481098B8B63BEA0B77EC5484CB5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/eb/4507842d291cee396f0f46bbc558f3ef9b82ea"
-    },
-    {
-      "path": ".git/objects/ed/348670aaca624a9723c05fa6591c667d61cfef",
-      "sha1": "C8DCDD80BCA4BA46B0B149B416C61C93CE0A3C63",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/ed/348670aaca624a9723c05fa6591c667d61cfef"
-    },
-    {
-      "path": ".git/objects/ef/9e62f26e9cec79f8d3115c92f9866c63abeed6",
-      "sha1": "1624357369324725FA42E603AC49D837B3FBFDD7",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/ef/9e62f26e9cec79f8d3115c92f9866c63abeed6"
-    },
-    {
-      "path": ".git/objects/f0/18761b2778d006bd2b95178b0073b6af434bf8",
-      "sha1": "E96EB0458634A042DBF474F8226917EA2B755E7D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/f0/18761b2778d006bd2b95178b0073b6af434bf8"
-    },
-    {
-      "path": ".git/objects/f0/eebf418eb6b478904653cf9a46ac7b151e55f9",
-      "sha1": "2265A7C2119FCC50E074FB8C3D28A00EA4836D9D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/f0/eebf418eb6b478904653cf9a46ac7b151e55f9"
-    },
-    {
-      "path": ".git/objects/f2/496fd453a3d81c7d78809070fce7ba656525ae",
-      "sha1": "C34A1ECB2C93ED7AFFBD21092D6D10141A17C251",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/f2/496fd453a3d81c7d78809070fce7ba656525ae"
-    },
-    {
-      "path": ".git/objects/f4/003db1db6a7cb2076cc68234c7496f1ff22e6a",
-      "sha1": "8D402E8204588D0D2FB31C9709CD4FD2AD483900",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/f4/003db1db6a7cb2076cc68234c7496f1ff22e6a"
-    },
-    {
-      "path": ".git/objects/f5/77be941f9ce5534321f790cc3af5ab95687b38",
-      "sha1": "330A4141A372F1B9955A24DE0E89FAEFF42140CB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/f5/77be941f9ce5534321f790cc3af5ab95687b38"
-    },
-    {
-      "path": ".git/objects/f6/e65678217d46ce863ba4acc8a891268d9a8545",
-      "sha1": "5560C8BDB97401C38216A391BCBC197D2C1EF96B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/f6/e65678217d46ce863ba4acc8a891268d9a8545"
-    },
-    {
-      "path": ".git/objects/fc/b59413459a4381893dda3fd529d347399d8080",
-      "sha1": "A39B56C93A1112BCD2022900CCDE0192FFDE8009",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/fc/b59413459a4381893dda3fd529d347399d8080"
-    },
-    {
-      "path": ".git/objects/fd/0e59ebff87b24f3ef251495c5c967c664b2070",
-      "sha1": "DFA17064DE962D4652AF41AF463600EA1EDFFD9B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/fd/0e59ebff87b24f3ef251495c5c967c664b2070"
-    },
-    {
-      "path": ".git/objects/fe/2ae165e029edc2740c04fd30ed6942d4d03b82",
-      "sha1": "778F411ACFC1F9EACD127C7F8BB7EA2B2C5C7247",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/objects/fe/2ae165e029edc2740c04fd30ed6942d4d03b82"
-    },
-    {
-      "path": ".git/refs/heads/main",
-      "sha1": "3865279BEDA0843A5E464A4117728918FDB9E0BB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/refs/heads/main"
-    },
-    {
-      "path": ".git/refs/remotes/origin/HEAD",
-      "sha1": "5AE7C22895C35AF5F56BA1891A4DD62B4DC1F955",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/refs/remotes/origin/HEAD"
-    },
-    {
-      "path": ".git/refs/remotes/origin/main",
-      "sha1": "2D17E30D1D71424F2A307D6A0FF5B0E340458A10",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/refs/remotes/origin/main"
-    },
-    {
-      "path": ".git/refs/tags/L2argento.comPatch",
-      "sha1": "E1B34B903FAD58E7D2FC3F6F0847B084EFCEB6FC",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.git.git/refs/tags/L2argento.comPatch"
-    },
-    {
       "path": "animations/Avengers_DarkElf_02.ukx",
       "sha1": "805579C10EBFA4D10425BFC60A5D44E03E74DC9F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_DarkElf_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_DarkElf_02.ukx"
     },
     {
       "path": "animations/Avengers_DarkElf_03.ukx",
       "sha1": "F6BC380B11252B287C9C7669FFF39971835D8135",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_DarkElf_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_DarkElf_03.ukx"
     },
     {
       "path": "animations/Avengers_Drop_02.ukx",
       "sha1": "D35E77FC361482B3B396959A0BEA20D7103350DB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_Drop_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Drop_02.ukx"
     },
     {
       "path": "animations/Avengers_Drop_03.ukx",
       "sha1": "090443593DEEDE4F1A2543B38AF6B5A82E23A122",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_Drop_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Drop_03.ukx"
     },
     {
       "path": "animations/Avengers_Dwarf_02.ukx",
       "sha1": "8131C4F57725785C4FD14B4E8BFD9AA3AD8A6A33",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_Dwarf_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Dwarf_02.ukx"
     },
     {
       "path": "animations/Avengers_Dwarf_03.ukx",
       "sha1": "242E17AB236EE934E6B19F3059B15835119CBDC5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_Dwarf_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Dwarf_03.ukx"
     },
     {
       "path": "animations/Avengers_Elf_02.ukx",
       "sha1": "7096F206248DC238FD7041D6695B93A25B18C03A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_Elf_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Elf_02.ukx"
     },
     {
       "path": "animations/Avengers_Elf_03.ukx",
       "sha1": "D16D110930F42D31AD28407EE22CF8F52A93CD1B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_Elf_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Elf_03.ukx"
     },
     {
       "path": "animations/Avengers_Fighter_02.ukx",
       "sha1": "DA7EB6D686CDA387619ED5C336BE7EC2D5B8F6C9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_Fighter_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Fighter_02.ukx"
     },
     {
       "path": "animations/Avengers_Fighter_03.ukx",
       "sha1": "8DA02822751C4066D225C1A05694ED4FD9D9E2F4",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_Fighter_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Fighter_03.ukx"
     },
     {
       "path": "animations/Avengers_Magic_02.ukx",
       "sha1": "B2742946929647CB082D4D633A46E9C8A5BEEFA4",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_Magic_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Magic_02.ukx"
     },
     {
       "path": "animations/Avengers_Magic_03.ukx",
       "sha1": "21744C71DBEBAA755A5228408B40A383F5A96020",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_Magic_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Magic_03.ukx"
     },
     {
       "path": "animations/Avengers_Orc_02.ukx",
       "sha1": "8979692CCC9EC2D070CD9CADDFFA157207312807",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_Orc_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Orc_02.ukx"
     },
     {
       "path": "animations/Avengers_Orc_03.ukx",
       "sha1": "B7F08D3EA5C4E47EA7BD29B8DE458B0FD4A4A1B9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_Orc_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Orc_03.ukx"
     },
     {
       "path": "animations/Avengers_Shaman_02.ukx",
       "sha1": "E686478633F68A025E9BE61A0786D0AFDFD7FC24",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_Shaman_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Shaman_02.ukx"
     },
     {
       "path": "animations/Avengers_Shaman_03.ukx",
       "sha1": "4B15F0F4D9CD83E965BA6BFEF7A5F08D37C17421",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Avengers_Shaman_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Shaman_03.ukx"
     },
     {
       "path": "animations/costume_m_euro__com.ukx",
       "sha1": "A0088145B94D17F1AF829DCC041F2E67A4D5DE32",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/costume_m_euro__com.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/costume_m_euro__com.ukx"
     },
     {
       "path": "animations/Ct1DropItems.ukx",
       "sha1": "4EAF6891275AC4757BF1CB13B1F3AC8ED5A20E6A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Ct1DropItems.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Ct1DropItems.ukx"
     },
     {
       "path": "animations/Ct1LineageWeapons.ukx",
       "sha1": "F85D7CB070C64633DAAFF273092A3476DFE5EF28",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Ct1LineageWeapons.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Ct1LineageWeapons.ukx"
     },
     {
       "path": "animations/Custom_Akamanaf.ukx",
       "sha1": "05284F171F212C176549F36569F0FE569F052447",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Custom_Akamanaf.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Custom_Akamanaf.ukx"
     },
     {
       "path": "animations/Custom_Zariche.ukx",
       "sha1": "4A4DAD06A28EE32112EE41BBAEE79115CD980E44",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Custom_Zariche.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Custom_Zariche.ukx"
     },
     {
       "path": "animations/GiranM_A.ukx",
       "sha1": "5BDAF247A88E6C75D07EEEE926C574DB5E75C318",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/GiranM_A.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/GiranM_A.ukx"
     },
     {
       "path": "animations/iPerfectSuit07.ukx",
       "sha1": "1DB00AAC14727433BD5AC6F73CE7D116CC44B965",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/iPerfectSuit07.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit07.ukx"
     },
     {
       "path": "animations/iPerfectSuit08.ukx",
       "sha1": "89A2BBA2C77C22FDFF7126AE6B2ED73DA68B8D22",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/iPerfectSuit08.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit08.ukx"
     },
     {
       "path": "animations/iPerfectSuit09.ukx",
       "sha1": "64FAECDBDF0E9DE2841BB6D13B0437499EF519C6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/iPerfectSuit09.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit09.ukx"
     },
     {
       "path": "animations/iPerfectSuit13.ukx",
       "sha1": "E74E24BC7BBC688F12519B9E8C8C0F479F9ABC42",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/iPerfectSuit13.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit13.ukx"
     },
     {
       "path": "animations/iPerfectSuit14.ukx",
       "sha1": "2CB7C6C8B47FDD1C6D75C6D9B0DDB9972DD44C66",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/iPerfectSuit14.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit14.ukx"
     },
     {
       "path": "animations/iPerfectSuit15.ukx",
       "sha1": "367B8EDB2D6E0BE3091662A55BD1013CC3E501C6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/iPerfectSuit15.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit15.ukx"
     },
     {
       "path": "animations/iPerfectSuit19.ukx",
       "sha1": "3E200CB5F0BF3A62E2F4585B69E3F8EE046AB608",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/iPerfectSuit19.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit19.ukx"
     },
     {
       "path": "animations/iPerfectSuit22.ukx",
       "sha1": "B1EBAD6B1D08BBBD026365E8D8300DCD0D27852F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/iPerfectSuit22.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit22.ukx"
     },
     {
       "path": "animations/iPerfect_new_custom.ukx",
       "sha1": "EC7CC3D9B4FAAB7D36ED111E8A986B0BF403BB56",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/iPerfect_new_custom.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfect_new_custom.ukx"
     },
     {
       "path": "animations/iPerfect_new_custom3.ukx",
       "sha1": "BBCDDA19CA95CE1CF2413E3752300A90E99EB76F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/iPerfect_new_custom3.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfect_new_custom3.ukx"
     },
     {
       "path": "animations/iPerfect_new_customHat.ukx",
       "sha1": "3A7CC38B17FAA9A06CBC46F948AFFCA5B97343EA",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/iPerfect_new_customHat.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfect_new_customHat.ukx"
     },
     {
       "path": "animations/Lineage2Armor1pack.ukx",
       "sha1": "9C6E83F3E10255E924DD1394AE97D1D85C9769CB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Lineage2Armor1pack.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Lineage2Armor1pack.ukx"
     },
     {
       "path": "animations/Lineage2ArmorPack2.ukx",
       "sha1": "4524E1ADC0AE27EC5F9F149EB13E240EE982A71E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/Lineage2ArmorPack2.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Lineage2ArmorPack2.ukx"
     },
     {
       "path": "animations/LineageArmorPackD4.ukx",
       "sha1": "E621F5CE07E85D8B19C8EEACC4C14E96E5ED285D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/LineageArmorPackD4.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/LineageArmorPackD4.ukx"
     },
     {
       "path": "animations/LineageNostumeItems9.ukx",
       "sha1": "8CAE1D5C3497A7586A48BD46A67B832BD2B729CF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/LineageNostumeItems9.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/LineageNostumeItems9.ukx"
     },
     {
       "path": "animations/MultiCrazY_DarkArmor.ukx",
       "sha1": "4D6470DD9334F9520901DA643F1FE048AE3688CE",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/MultiCrazY_DarkArmor.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/MultiCrazY_DarkArmor.ukx"
     },
     {
       "path": "animations/RaccoonCostume_Asn_blue.ukx",
       "sha1": "439AECD9D7992BE6F25A1795EBFB73FF1DD4A516",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/RaccoonCostume_Asn_blue.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/RaccoonCostume_Asn_blue.ukx"
     },
     {
       "path": "animations/RaccoonCostume_lilith.ukx",
       "sha1": "26105F0496F03CE775D8CF19EB990980F08AC9A2",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/RaccoonCostume_lilith.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/RaccoonCostume_lilith.ukx"
     },
     {
       "path": "animations/RaccoonCustom01.ukx",
       "sha1": "11528B6C8321623C66C9218BF86B70BBEC883E64",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/RaccoonCustom01.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/RaccoonCustom01.ukx"
     },
     {
       "path": "animations/RaccoonCustom05.ukx",
       "sha1": "0180022DCC219BEC6396D03CF687A05B3BEE2059",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/RaccoonCustom05.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/RaccoonCustom05.ukx"
     },
     {
       "path": "animations/suit_benom.ukx",
       "sha1": "B8EE5BA6F03716A567661850978C5508019CDD57",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/suit_benom.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/suit_benom.ukx"
     },
     {
       "path": "animations/suit_cowboy.ukx",
       "sha1": "45F9E926B67C7820A8BCA1DC69FB0CAA029F71FF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/suit_cowboy.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/suit_cowboy.ukx"
     },
     {
       "path": "animations/suit_pirate.ukx",
       "sha1": "156CAAAA329EA707DF4D12F5BEFA9B5F7DDEA3D6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/suit_pirate.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/suit_pirate.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_verteidiger_m00.ukx",
       "sha1": "1EBAEFF53B46E72D72B3F60F8CEC2B2C5162FF4E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitanimations/WilliamFS_vesper_verteidiger_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_verteidiger_m00.ukx"
     },
     {
       "path": "maps/22_22.unr",
       "sha1": "634F5BE9A0EE09BDA8C1C93C432E36236FA14EC0",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitmaps/22_22.unr"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/maps/22_22.unr"
     },
     {
       "path": "sounds/GiranM_SND.uax",
       "sha1": "2845CFA3F0D2E414338ED25244C503FD97BF9F3D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsounds/GiranM_SND.uax"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/sounds/GiranM_SND.uax"
     },
     {
       "path": "staticmeshes/GiranM_S.usx",
       "sha1": "84E8EAC32F377B402CBAE7575760D42E0DF136EE",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitstaticmeshes/GiranM_S.usx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/staticmeshes/GiranM_S.usx"
     },
     {
       "path": "system/actionname-e.dat",
       "sha1": "745944F8EFA652F8DED5C8EB57F6720A9A36FA5A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/actionname-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/actionname-e.dat"
     },
     {
       "path": "system/ALAudio.dll",
       "sha1": "03EB84DCCC2D1FED57D8D647E22AD13B2D9ACFE5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/ALAudio.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/ALAudio.dll"
     },
     {
       "path": "system/ALAudio.int",
       "sha1": "8A6FFF685DBC9D53BF10136CD88ABD2C8D7CD33F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/ALAudio.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/ALAudio.int"
     },
     {
       "path": "system/armorgrp.dat",
       "sha1": "7A3FF5EADBAED68837AF4479B5306043FE1C425E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/armorgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/armorgrp.dat"
     },
     {
       "path": "system/bighead.int",
       "sha1": "D417093DAA734E51229C63D8DAA5907C2131A08D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/bighead.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/bighead.int"
     },
     {
       "path": "system/castlename-e.dat",
       "sha1": "60E8B9EC748A48FA59AF02CADD422A0880E384AE",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/castlename-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/castlename-e.dat"
     },
     {
       "path": "system/chargrp.dat",
       "sha1": "BFF5116BEF75F59C8ED1AA1B36C1D7336E6A199B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/chargrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/chargrp.dat"
     },
     {
       "path": "system/chatfilter.ini",
       "sha1": "A81151756FDDCE962D2DB9F18B546F98D4AC0211",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/chatfilter.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/chatfilter.ini"
     },
     {
       "path": "system/classinfo-e.dat",
       "sha1": "057536F81939B954501087E13814FF14A70C3358",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/classinfo-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/classinfo-e.dat"
     },
     {
       "path": "system/clientdata.dat",
       "sha1": "66A6C395D4513AAC240AB84EF99112D0146FD009",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/clientdata.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/clientdata.dat"
     },
     {
       "path": "system/cloak.int",
       "sha1": "1B7B4F435BAD6D5D224754EC1A9F2DD9E88BE60D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/cloak.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/cloak.int"
     },
     {
       "path": "system/commandname-e.dat",
       "sha1": "6788F5395684286DA8709B8DF7A1E2A406CBFB86",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/commandname-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/commandname-e.dat"
     },
     {
       "path": "system/Core.dll",
       "sha1": "B3A75A5E15BFC43A5201B978550FA1F146596AF3",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/Core.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Core.dll"
     },
     {
       "path": "system/core.int",
       "sha1": "F9DCA56F53FC44A6165798F4FE240FAB27E3C026",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/core.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/core.int"
     },
     {
       "path": "system/Core.u",
       "sha1": "921173716910B899794C1470CA9505E1ABCF6832",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/Core.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Core.u"
     },
     {
       "path": "system/creditfont.gly",
       "sha1": "413C964D67A57E95160B6E96346016DD27A39269",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/creditfont.gly"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/creditfont.gly"
     },
     {
       "path": "system/creditgrp-e.dat",
       "sha1": "65DBC23165B71D496E02046D93CEA571BBEFC6AF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/creditgrp-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/creditgrp-e.dat"
     },
     {
       "path": "system/D3DDrv.dll",
       "sha1": "9F05D1FFF78E8EDF397797A9A6BC7C22C4572E3A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/D3DDrv.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/D3DDrv.dll"
     },
     {
       "path": "system/defopenal32.dll",
       "sha1": "9CD97557AF12F2B0CCAC1E19AF73E7B1A4B9C278",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/defopenal32.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/defopenal32.dll"
     },
     {
       "path": "system/dsetup.dll",
       "sha1": "92FD69CEFAB0BB0493980B0C8F3DC6278EFDA64C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/dsetup.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/dsetup.dll"
     },
     {
       "path": "system/Editor.u",
       "sha1": "51D3FC6641F18EF3A104AB01F62DA6116EA12A08",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/Editor.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Editor.u"
     },
     {
       "path": "system/encvag.dll",
       "sha1": "FE1A8F55D9F4858DE2A663C956C0050869D4C5D6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/encvag.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/encvag.dll"
     },
     {
       "path": "system/engine.dll",
       "sha1": "7877B8CF85A91CFFB16864B3C6638259A649F4A9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/engine.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/engine.dll"
     },
     {
       "path": "system/Engine.int",
       "sha1": "7B4872D346679F80F6729593E1D1383714442F43",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/Engine.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Engine.int"
     },
     {
       "path": "system/Engine.u",
       "sha1": "B708BEB5CBFBB2B7858417E6F338E49E3AC710B4",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/Engine.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Engine.u"
     },
     {
       "path": "system/entereventgrp.dat",
       "sha1": "DD350BC09C5EFC97768909CCBFF706EAB7BFEBCB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/entereventgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/entereventgrp.dat"
     },
     {
       "path": "system/Env.int",
       "sha1": "8FCBC728C2031E32A49BF23F463BF498A0934E4F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/Env.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Env.int"
     },
     {
       "path": "system/etcitemgrp.dat",
       "sha1": "8C7EEDA48932B0A9242D1D8624A030C53DF82F78",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/etcitemgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/etcitemgrp.dat"
     },
     {
       "path": "system/eula-e.dat",
       "sha1": "06B5ECC5D8608A992A8D73648BC20833428F62D3",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/eula-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/eula-e.dat"
     },
     {
       "path": "system/Euro_custom.u",
       "sha1": "24BADFA05CF9C7C94BDE261314DF49C956849519",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/Euro_custom.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Euro_custom.u"
     },
     {
       "path": "system/Fire.dll",
       "sha1": "76BCEE3E3CDE7A8A02549CD32D30BA5FF0050F40",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/Fire.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Fire.dll"
     },
     {
       "path": "system/Fire.u",
       "sha1": "DA8CC710D6298CE2F8D0487BA0A0DD6010ADF8DD",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/Fire.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Fire.u"
     },
     {
       "path": "system/GameGuard.des",
       "sha1": "08E504C17BBAADECBAA604F3915B329CDD37A4FC",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/GameGuard.des"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/GameGuard.des"
     },
     {
       "path": "system/GamePlay.u",
       "sha1": "7815CAE7094737453530504441862695C3403FE6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/GamePlay.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/GamePlay.u"
     },
     {
       "path": "system/gametip-e.dat",
       "sha1": "9B75D640858060556D658F564562FAE92240DBA9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/gametip-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/gametip-e.dat"
     },
     {
       "path": "system/hair.int",
       "sha1": "CBA7F4F67452522CF1FF210D2BCAF8C3EB5A9606",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/hair.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/hair.int"
     },
     {
       "path": "system/hairaccessarygrp.dat",
       "sha1": "1DE0DF4A33E1866C2155A23D2549546418F91CE3",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/hairaccessarygrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/hairaccessarygrp.dat"
     },
     {
       "path": "system/hairaccessorylocgrp.dat",
       "sha1": "D5AA120CF2EAC5EBA490761BC496FACF65ED0708",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/hairaccessorylocgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/hairaccessorylocgrp.dat"
     },
     {
       "path": "system/hairgrp.dat",
       "sha1": "6972B736517E7E7CB12465F4CCBD9F2B6451914F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/hairgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/hairgrp.dat"
     },
     {
       "path": "system/helmetgrp.dat",
       "sha1": "5C8A46656A474A64E773B30F6CC56ADDCDCAD6CA",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/helmetgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/helmetgrp.dat"
     },
     {
       "path": "system/hennagrp-e.dat",
       "sha1": "978CDCC28EB0AE11CFE91774AD0E5AAD112AD704",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/hennagrp-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/hennagrp-e.dat"
     },
     {
       "path": "system/huntingzone-e.dat",
       "sha1": "8D38A317D66F1C9A06F9F4B412C433ADB9D0BCFD",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/huntingzone-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/huntingzone-e.dat"
     },
     {
       "path": "system/ifc23.dll",
       "sha1": "7AEF4FF0FBFA4AB39331A4E63939B43B265A6A76",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/ifc23.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/ifc23.dll"
     },
     {
       "path": "system/interface.u",
       "sha1": "F91F8AF4FA87159A3F82617E75B123F5E71F6527",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/interface.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/interface.u"
     },
     {
       "path": "system/interface.xdat",
       "sha1": "8F10387622D7EDEC90A2C36DD57DF423D006621B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/interface.xdat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/interface.xdat"
     },
     {
       "path": "system/IpDrv.dll",
       "sha1": "DECF92878FEFB16636A66FE2606153EAE03A8538",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/IpDrv.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/IpDrv.dll"
     },
     {
       "path": "system/ipdrv.int",
       "sha1": "F152C26AF7ECA17EF39B1FB53D7474BBB4E4360F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/ipdrv.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/ipdrv.int"
     },
     {
       "path": "system/IpDrv.u",
       "sha1": "1F766A4A477833E8C8C2E8AAD2093AC6F0542F8D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/IpDrv.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/IpDrv.u"
     },
     {
       "path": "system/itemname-e.dat",
       "sha1": "DFF283DC67EB6A92BBF3E5BE58FDC71A97745957",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/itemname-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/itemname-e.dat"
     },
     {
       "path": "system/l2.exe",
       "sha1": "01A09287ECFA8732292A51E5B4ABE4BBB65EFA1E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/l2.exe"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/l2.exe"
     },
     {
       "path": "system/l2.ini",
       "sha1": "C2FB3B1A6E9B3E69AD94054F78DCA60AB380580D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/l2.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/l2.ini"
     },
     {
       "path": "system/l2.int",
       "sha1": "7AABECC854CCE64A30FA2BDA667B340B957D8AAD",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/l2.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/l2.int"
     },
     {
       "path": "system/l2argento.ico",
       "sha1": "07F10C98E4C445CC1CCCA55F1AA5254761FD69B3",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/l2argento.ico"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/l2argento.ico"
     },
     {
       "path": "system/L2CompiledShader.bin",
       "sha1": "9069CA78E7450A285173431B3E52C5C25299E473",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/L2CompiledShader.bin"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/L2CompiledShader.bin"
     },
     {
       "path": "system/l2forecf.ffe",
       "sha1": "0620C2EE32347D4E3D8BA8664BBFAD52A90BFC56",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/l2forecf.ffe"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/l2forecf.ffe"
     },
     {
       "path": "system/largefont-e.gly",
       "sha1": "D242E9DA2B700B1B083D0EEDFBB280E923A4A8D7",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/largefont-e.gly"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/largefont-e.gly"
     },
     {
       "path": "system/largefont.gly",
       "sha1": "C0D5814F585988FF6E9BECC2D5004875E82AE28F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/largefont.gly"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/largefont.gly"
     },
     {
       "path": "system/Lineage2us.ini",
       "sha1": "1C4AC174877C87472D77967FF9E5D3F976C0EBA4",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/Lineage2us.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Lineage2us.ini"
     },
     {
       "path": "system/LineageCreature.dll",
       "sha1": "E44419F443AFB735BCB623CB4D9128A948FC8E72",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/LineageCreature.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageCreature.dll"
     },
     {
       "path": "system/LineageCreature.u",
       "sha1": "2614B331BF0BC0E3D59A8C6DA710348B3A786E31",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/LineageCreature.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageCreature.u"
     },
     {
       "path": "system/LineageDeco.u",
       "sha1": "132D333C9D3F0AD6B2A5DB1DB77CC30AC5D22E8F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/LineageDeco.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageDeco.u"
     },
     {
       "path": "system/lineageeffect.u",
       "sha1": "F43DC00C29C4501228834CAB0787E28BC72FA5EF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/lineageeffect.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineageeffect.u"
     },
     {
       "path": "system/lineageenv.dll",
       "sha1": "B84CB65F1B29E8275C6987F7C74C28C9EB8C811C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/lineageenv.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineageenv.dll"
     },
     {
       "path": "system/lineageenv.u",
       "sha1": "F7C596B40FF0D30CA0FCB5ECB379CE7F24F34007",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/lineageenv.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineageenv.u"
     },
     {
       "path": "system/LineageMonster.int",
       "sha1": "A33653EFD857CC595083E166FE06BE646BCB9CCD",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/LineageMonster.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageMonster.int"
     },
     {
       "path": "system/LineageMonster.u",
       "sha1": "06A32AB278F3D594819AA2378BD3A943FF9141B6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/LineageMonster.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageMonster.u"
     },
     {
       "path": "system/lineagemonster2.int",
       "sha1": "84319B41788FC63999F070F220EB0A4042BCFDDE",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/lineagemonster2.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineagemonster2.int"
     },
     {
       "path": "system/LineageMonster2.u",
       "sha1": "CBE0ECEE7FC4C22E4E5AD0274958823A8F1FEE6F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/LineageMonster2.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageMonster2.u"
     },
     {
       "path": "system/LineageMonster3.int",
       "sha1": "7774324516CDCF189E9BFEEC0F51D3672B1BE291",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/LineageMonster3.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageMonster3.int"
     },
     {
       "path": "system/LineageMonster3.u",
       "sha1": "F0F5261626AAB31DF4F8151174EC47E5A565D31D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/LineageMonster3.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageMonster3.u"
     },
     {
       "path": "system/LineageNpc.int",
       "sha1": "1E3A5D06B474AD01576EABEB972D0C070842C410",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/LineageNpc.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageNpc.int"
     },
     {
       "path": "system/lineagenpc.u",
       "sha1": "1DA123E2A85F63E259A75AD266C3DE9B7C057C57",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/lineagenpc.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineagenpc.u"
     },
     {
       "path": "system/lineagenpc2.int",
       "sha1": "FF70E15A5C08B32EFE4F5FFBF4FB6DC2E1CE9C88",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/lineagenpc2.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineagenpc2.int"
     },
     {
       "path": "system/lineagenpc2.u",
       "sha1": "23E30630A9D5ACD2EEF02EA347DDB00FE0D25DDB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/lineagenpc2.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineagenpc2.u"
     },
     {
       "path": "system/lineagenpcev.u",
       "sha1": "0E4796F68DF455F6C0AE28C8A9E5BB0B74E048DB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/lineagenpcev.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineagenpcev.u"
     },
     {
       "path": "system/LineageVehicle.u",
       "sha1": "0AD7710B5C78A112622E04D1BC3B8F0337218AC7",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/LineageVehicle.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageVehicle.u"
     },
     {
       "path": "system/lineagewarrior.int",
       "sha1": "058F20755EBC4C44CD58ABB8F8B507021D8DF28C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/lineagewarrior.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineagewarrior.int"
     },
     {
       "path": "system/LineageWarrior.u",
       "sha1": "F0491095F262093CE61A37DE48834BB602A6680B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/LineageWarrior.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageWarrior.u"
     },
     {
       "path": "system/Localization.ini",
       "sha1": "0B2EBA24B8B80E2EE6480FB17A4106AC4A4C6FE8",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/Localization.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Localization.ini"
     },
     {
       "path": "system/logongrp.dat",
       "sha1": "1B7F1771BE7A446A7E86FEB6939342D4FF8CF0A0",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/logongrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/logongrp.dat"
     },
     {
       "path": "system/mobskillanimgrp.dat",
       "sha1": "0D476B17B6EAD41F73926C7D87417859DF48E160",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/mobskillanimgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/mobskillanimgrp.dat"
     },
     {
       "path": "system/msxml4.dll",
       "sha1": "946AA41B26F84613A28A8B25E11BAAD2F256B376",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/msxml4.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/msxml4.dll"
     },
     {
       "path": "system/msxml4a.dll",
       "sha1": "F3B668833765F2B6F8B40CC1E08699AE29FA9CC0",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/msxml4a.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/msxml4a.dll"
     },
     {
       "path": "system/msxml4r.dll",
       "sha1": "81D5103841092EE871F4ABD82420FBE8DE7DD84F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/msxml4r.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/msxml4r.dll"
     },
     {
       "path": "system/musicinfo.dat",
       "sha1": "8ECF1A9293406C3689DD6645311BA4F560BFAAFE",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/musicinfo.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/musicinfo.dat"
     },
     {
       "path": "system/nosleep.dll",
       "sha1": "1CBF559E85F073F285A29975D98242319A510C02",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/nosleep.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/nosleep.dll"
     },
     {
       "path": "system/npcgrp.dat",
       "sha1": "4493F97E1322A6917C2B6EBB8910E30B1DBF9654",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/npcgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npcgrp.dat"
     },
     {
       "path": "system/npcname-e.dat",
       "sha1": "72DB3718CC3A6398C0F1C7D5160A0DD1D0DCBDAB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/npcname-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npcname-e.dat"
     },
     {
       "path": "system/npkcrypt.dll",
       "sha1": "F599A7EDAD0762A42C101F7CA6721FC4C1DB3E8C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/npkcrypt.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npkcrypt.dll"
     },
     {
       "path": "system/npkcrypt.sys",
       "sha1": "EF58A4C32B99AF7B60000AB1FFB7A6D6DF589F92",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/npkcrypt.sys"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npkcrypt.sys"
     },
     {
       "path": "system/npkcrypt.vxd",
       "sha1": "620E526DCC050F26C537F5EE2778F82BF3A5A1B8",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/npkcrypt.vxd"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npkcrypt.vxd"
     },
     {
       "path": "system/npkcusb.sys",
       "sha1": "9CD3C1C1768E6585541D87D63986FA366BD4B2A5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/npkcusb.sys"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npkcusb.sys"
     },
     {
       "path": "system/Npkdb.des",
       "sha1": "FCB430F303FE7F435DF9E930D69F535DC5C578BF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/Npkdb.des"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Npkdb.des"
     },
     {
       "path": "system/npkpdb.dll",
       "sha1": "AB4DA56678B9496F8592B5F9081D736F5474AC97",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/npkpdb.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npkpdb.dll"
     },
     {
       "path": "system/npkscrypt.dll",
       "sha1": "0886E469D35AC87EE42F6E8DB0092A1B887B4E3F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/npkscrypt.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npkscrypt.dll"
     },
     {
       "path": "system/nwindow.dll",
       "sha1": "BA5EBCAABF71C3B0843A787A61D5FEBF6E0D3CED",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/nwindow.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/nwindow.dll"
     },
     {
       "path": "system/nwindow.u",
       "sha1": "2145EC9942699D0ED4518C5C03299481B3A07940",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/nwindow.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/nwindow.u"
     },
     {
       "path": "system/obscene-e.dat",
       "sha1": "D5662B87A8031A39B5BE715041D0342FFCDF5F23",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/obscene-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/obscene-e.dat"
     },
     {
       "path": "system/ogg.dll",
       "sha1": "6B9D8B373CC085B35FD5ED28B1F408EDA085F6B0",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/ogg.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/ogg.dll"
     },
     {
       "path": "system/openal32.dll",
       "sha1": "30322AE9B6F463AC1B7CE4D39EC2D48A08733CD6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/openal32.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/openal32.dll"
     },
     {
       "path": "system/Option.ini",
       "sha1": "DFD35075C0B4801238A4018A0EFF87783FBD549D",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/Option.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Option.ini"
     },
     {
       "path": "system/optiondata_client-e.dat",
       "sha1": "3591B5BAB7780942F6232F52F3925A15CC60141C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/optiondata_client-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/optiondata_client-e.dat"
     },
     {
       "path": "system/orc.dll",
       "sha1": "A65FD046731EE8E986E3091238DAA6C0D4738366",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/orc.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/orc.dll"
     },
     {
       "path": "system/questname-e.dat",
       "sha1": "F6AB5FB9B627E3BF08231021A9F88001F126D8BA",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/questname-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/questname-e.dat"
     },
     {
       "path": "system/raiddata-e.dat",
       "sha1": "9FB2F35D2EA6AC6120FF6935FC2A8E4121FF2C52",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/raiddata-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/raiddata-e.dat"
     },
     {
       "path": "system/recipe-c.dat",
       "sha1": "CA721C5A0852F17C0F3B6EC3D5234AF80D12D082",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/recipe-c.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/recipe-c.dat"
     },
     {
       "path": "system/servername-e.dat",
       "sha1": "EA947441864AD9EB5D11BC168FEFFC374A633FC1",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/servername-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/servername-e.dat"
     },
     {
       "path": "system/skillgrp.dat",
       "sha1": "DF3A95A0744AADC4D4AF5B85FC6E629A202B99FB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/skillgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/skillgrp.dat"
     },
     {
       "path": "system/skillname-e.dat",
       "sha1": "ED5FEF1D08F5C085E933A1694CCF547471CCB7B7",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/skillname-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/skillname-e.dat"
     },
     {
       "path": "system/skillsoundgrp.dat",
       "sha1": "385FF9803DA5954C5ED2A6CEEA4356879F572CE7",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/skillsoundgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/skillsoundgrp.dat"
     },
     {
       "path": "system/smallfont-e.gly",
       "sha1": "906474176827765599EBCFAF8B658681B7CF5870",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/smallfont-e.gly"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/smallfont-e.gly"
     },
     {
       "path": "system/smallfont.gly",
       "sha1": "FDE762DFF99B6232157E5A6C4EA2E752F2D5961C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/smallfont.gly"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/smallfont.gly"
     },
     {
       "path": "system/soulshot.int",
       "sha1": "3EB9BBA04BBD1E6800AA5CE2178A6A25297E16E2",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/soulshot.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/soulshot.int"
     },
     {
       "path": "system/start_game.bat",
       "sha1": "46272CB9A0E18D7EEC137A3F0D0EC47BFF26F01F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/start_game.bat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/start_game.bat"
     },
     {
       "path": "system/staticobject-e.dat",
       "sha1": "FF18FD292867825FF3334755C469B1997AE268A6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/staticobject-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/staticobject-e.dat"
     },
     {
       "path": "system/symbolname-e.dat",
       "sha1": "68899DBC57B04548C7C97A392A550F4499CB9BC7",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/symbolname-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/symbolname-e.dat"
     },
     {
       "path": "system/sysstring-e.dat",
       "sha1": "74A8E076C25F0E1EBF37EA1829FDEB9F7D5673AF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/sysstring-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/sysstring-e.dat"
     },
     {
       "path": "system/systemmsg-e.dat",
       "sha1": "FFE2D908BB1FD4E075FC184181E03F175B38633E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/systemmsg-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/systemmsg-e.dat"
     },
     {
       "path": "system/s_info.ini",
       "sha1": "EF09A873E0F000EA16EA1F1C638F5620A9F58511",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/s_info.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/s_info.ini"
     },
     {
       "path": "system/timeenv0.int",
       "sha1": "C5D29275DA703F6A7A834B0900001E8FB4ACBDD5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/timeenv0.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/timeenv0.int"
     },
     {
       "path": "system/timeenv1.int",
       "sha1": "003F6AFD303DE99856A0C76A9431E845B791AE9C",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/timeenv1.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/timeenv1.int"
     },
     {
       "path": "system/timeenv2.int",
       "sha1": "040613373C7BFA6C35439E9489BDC6D544CC8ACF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/timeenv2.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/timeenv2.int"
     },
     {
       "path": "system/timeenv3.int",
       "sha1": "715301FA92CAC9D863DF1A465C96B0A8F0A3985A",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/timeenv3.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/timeenv3.int"
     },
     {
       "path": "system/ttfontinfo.ini",
       "sha1": "ADA51294352B8BD28A0CB8A47BB8D1ECAF6455CD",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/ttfontinfo.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/ttfontinfo.ini"
     },
     {
       "path": "system/udebugmenu.u",
       "sha1": "5A6C4F6A3AF6F12030903EFB4C7B0E3855A774CB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/udebugmenu.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/udebugmenu.u"
     },
     {
       "path": "system/user.ini",
       "sha1": "400A325D88C6824A47DD5F65B67138638EA2304E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/user.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/user.ini"
     },
     {
       "path": "system/UWindow.u",
       "sha1": "3FDE741B0552C6F982A4C8AEB4598B6114C2EEE0",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/UWindow.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/UWindow.u"
     },
     {
       "path": "system/variationeffectgrp-e.dat",
       "sha1": "EDF87159116CE878A87E176FFC8E73A23097C7A1",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/variationeffectgrp-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/variationeffectgrp-e.dat"
     },
     {
       "path": "system/vorbis.dll",
       "sha1": "D58751FDEBE8641F719899B552A204CDD4580F6F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/vorbis.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/vorbis.dll"
     },
     {
       "path": "system/vorbisfile.dll",
       "sha1": "6F52019118D1E3E3FCF3E30E41AE1868922FAEF1",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/vorbisfile.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/vorbisfile.dll"
     },
     {
       "path": "system/weapongrp.dat",
       "sha1": "369D681CAE074F85C84877DD3319D44FE4230A21",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/weapongrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/weapongrp.dat"
     },
     {
       "path": "system/wform.bm",
       "sha1": "8D26B42F955D0C9FE277D8EC97E8C443D6560642",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/wform.bm"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/wform.bm"
     },
     {
       "path": "system/Window.dll",
       "sha1": "056A25577B69F1C16BA5C8601C260BD42BC5A350",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/Window.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Window.dll"
     },
     {
       "path": "system/window.int",
       "sha1": "C2FB2A4A8B0713F32A89CBEA55E6B85BC93967F1",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/window.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/window.int"
     },
     {
       "path": "system/WindowsInfo.ini",
       "sha1": "D102458B2E07A494FBF1C8D399DA12284A3E0C30",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/WindowsInfo.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/WindowsInfo.ini"
     },
     {
       "path": "system/WinDrv.dll",
       "sha1": "9F65A3DBBB563F10271BCC5E313FB84309FEAEE3",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/WinDrv.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/WinDrv.dll"
     },
     {
       "path": "system/windrv.int",
       "sha1": "324CF77A5ED0E449C2103920FDEEEBF7B9C45BAF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/windrv.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/windrv.int"
     },
     {
       "path": "system/wrap_oal.dll",
       "sha1": "AC85821D3E05AA18C311CA4A213F6DD2BA70ACC0",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/wrap_oal.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/wrap_oal.dll"
     },
     {
       "path": "system/zonename-e.dat",
       "sha1": "EA899C372A6A1D04C92F627C8CABBE58C1F227D8",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystem/zonename-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/zonename-e.dat"
     },
     {
       "path": "systextures/Avengers02Ico.utx",
       "sha1": "2123D0838C402DF73677D3A284548110D81CC565",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/Avengers02Ico.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Avengers02Ico.utx"
     },
     {
       "path": "systextures/Avengers03Ico.utx",
       "sha1": "882851A8D926579ABE007CDE4548DDDF998025FB",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/Avengers03Ico.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Avengers03Ico.utx"
     },
     {
       "path": "systextures/costume_ico.utx",
       "sha1": "BAE1F90E22BEF16E66B1B70123B7AC6A29D1DAD6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/costume_ico.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/costume_ico.utx"
     },
     {
       "path": "systextures/costume_t_euro__com.utx",
       "sha1": "31AD0E694688A9EB57E2159F07943AB121961BF9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/costume_t_euro__com.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/costume_t_euro__com.utx"
     },
     {
       "path": "systextures/ct1fdarkelf.utx",
       "sha1": "4F610EA1F81A41F5271D48813D0AC9024333D973",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1fdarkelf.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1fdarkelf.utx"
     },
     {
       "path": "systextures/ct1fdwarf.utx",
       "sha1": "191B74501EEB5647A5D527441CEF36AC82ABB511",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1fdwarf.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1fdwarf.utx"
     },
     {
       "path": "systextures/ct1felf.utx",
       "sha1": "E4E8F52F51B956C0CCE5F4161F473F1E9E4356BF",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1felf.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1felf.utx"
     },
     {
       "path": "systextures/ct1ffighter.utx",
       "sha1": "A8917584A6EBDC0D4A38285DF9440E51E325E34F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1ffighter.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1ffighter.utx"
     },
     {
       "path": "systextures/ct1fmagic.utx",
       "sha1": "8349EE73C0895BB5CB98C7F9731BFC2FBF513172",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1fmagic.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1fmagic.utx"
     },
     {
       "path": "systextures/ct1forc.utx",
       "sha1": "BCB57F818C0E1B7A3216998A04220C13F35C5A77",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1forc.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1forc.utx"
     },
     {
       "path": "systextures/ct1fshaman.utx",
       "sha1": "3BDA69F6A89A3E1EFC66ECA17BDE64E554A2F09B",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1fshaman.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1fshaman.utx"
     },
     {
       "path": "systextures/ct1icon.utx",
       "sha1": "49EC81BCF0181CE32DEA8CBEDB5C5B31C3B75813",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1icon.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1icon.utx"
     },
     {
       "path": "systextures/ct1LineageWeaponsTex.utx",
       "sha1": "11150772EC6B6C333A64EBD869CDF47538E1A021",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1LineageWeaponsTex.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1LineageWeaponsTex.utx"
     },
     {
       "path": "systextures/ct1mdarkelf.utx",
       "sha1": "8DCD76A81F7CD4A474B8AB2A0932EA434E2868B9",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1mdarkelf.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1mdarkelf.utx"
     },
     {
       "path": "systextures/ct1mdwarf.utx",
       "sha1": "510C81CE67E45BA2F0AE94DC47C570C245049BA8",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1mdwarf.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1mdwarf.utx"
     },
     {
       "path": "systextures/ct1melf.utx",
       "sha1": "987642A8610A69476344E2D92C2AC7BEA951692E",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1melf.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1melf.utx"
     },
     {
       "path": "systextures/ct1mfighter.utx",
       "sha1": "3E9C9ED06AAE2300A392D8A659CBC2761F816A88",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1mfighter.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1mfighter.utx"
     },
     {
       "path": "systextures/ct1mmagic.utx",
       "sha1": "628E55AD279A572C1F5883E0A45F01494816DC29",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1mmagic.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1mmagic.utx"
     },
     {
       "path": "systextures/ct1morc.utx",
       "sha1": "E02FF1022D514675C3390A8E302622119D7C69F6",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1morc.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1morc.utx"
     },
     {
       "path": "systextures/ct1mshaman.utx",
       "sha1": "9D1803B69B599005BAE0C577BCC8A6BDB6015635",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ct1mshaman.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1mshaman.utx"
     },
     {
       "path": "systextures/Dark_Costume_icon.utx",
       "sha1": "37E82037648FB579DB4D7059F7FAB37B48802E2F",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/Dark_Costume_icon.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Dark_Costume_icon.utx"
     },
     {
       "path": "systextures/ico2.utx",
       "sha1": "86E765A77E28848FAF5580717C07A5C6A09E25C5",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/ico2.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ico2.utx"
     },
     {
       "path": "systextures/L2Font-e.utx",
       "sha1": "2CA26AE26C14CECBCBD074CA66E6A59C3CBB4E16",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/L2Font-e.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/L2Font-e.utx"
     },
     {
       "path": "systextures/Vesper_Jewels.utx",
       "sha1": "077D7FC16DB50E4D647DE9BCB7B41A8A73DEEBB4",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/Vesper_Jewels.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Vesper_Jewels.utx"
     },
     {
       "path": "systextures/WilliamFS_Vesper_wp_Tex.utx",
       "sha1": "2AC0F04BC0DEB706E4B2D6BA3305833012253521",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gitsystextures/WilliamFS_Vesper_wp_Tex.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/WilliamFS_Vesper_wp_Tex.utx"
     },
     {
       "path": "textures/GiranM_T.utx",
       "sha1": "25007FA0CDC1EC56DFC1DF86F94845D654152E45",
-      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento.gittextures/GiranM_T.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/textures/GiranM_T.utx"
     }
   ]
 }

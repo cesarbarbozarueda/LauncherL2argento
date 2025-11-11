@@ -1,13 +1,13 @@
 import os, hashlib, json
 
 # === CONFIGURACIÓN ===
-# Carpeta donde están los archivos del patch (puede ser "System" o el root del juego)
-BASE_DIR = "."
-# URL base del repositorio con "raw", adaptada a tu caso:
-RAW_BASE_URL = "https://github.com/cesarbarbozarueda/LauncherL2argento.git"
-# Nombre de salida del JSON:
+BASE_DIR = "."  # Carpeta donde están los archivos del patch
+RAW_BASE_URL = "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/"  # raw URL del repo
 OUTPUT_FILE = "update.json"
 
+# Archivos y carpetas a ignorar
+IGNORE_FILES = {".gitattributes", "generate_manifest.py", OUTPUT_FILE}
+IGNORE_DIRS = {".git"}
 
 def sha1_of_file(path):
     h = hashlib.sha1()
@@ -16,12 +16,14 @@ def sha1_of_file(path):
             h.update(chunk)
     return h.hexdigest().upper()
 
-
 def build_manifest(base_dir):
     files = []
-    for root, _, filenames in os.walk(base_dir):
+    for root, dirs, filenames in os.walk(base_dir):
+        # Ignorar carpetas
+        dirs[:] = [d for d in dirs if d not in IGNORE_DIRS]
+
         for filename in filenames:
-            if filename == OUTPUT_FILE:
+            if filename in IGNORE_FILES:
                 continue
             full_path = os.path.join(root, filename)
             rel_path = os.path.relpath(full_path, base_dir).replace("\\", "/")
@@ -34,13 +36,11 @@ def build_manifest(base_dir):
             })
     return {"version": "1.0.0", "files": files}
 
-
 def main():
     manifest = build_manifest(BASE_DIR)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2)
     print(f"✅ Manifest generado con {len(manifest['files'])} archivos en {OUTPUT_FILE}")
-
 
 if __name__ == "__main__":
     main()
