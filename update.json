@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "patch_url": "https://github.com/cesarbarbozarueda/acis_409/releases/download/L2argentoPatch/SystemIaSinInterface.zip",
+  "sha256": "5950e69b240d9ab075180f343e977de213b34e7afb10688fdf2c0acb5bf6f5b3",
+  "target_dir": ".",
+  "extract": true
+}
