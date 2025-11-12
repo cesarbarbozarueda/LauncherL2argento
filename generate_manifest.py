@@ -6,7 +6,7 @@ RAW_BASE_URL = "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/
 OUTPUT_FILE = "update.json"
 
 # Archivos y carpetas a ignorar
-IGNORE_FILES = {".gitattributes", "generate_manifest.py", OUTPUT_FILE}
+IGNORE_FILES = {".gitattributes", "generate_manifest.py", "powershell_manifest.ps1", OUTPUT_FILE}
 IGNORE_DIRS = {".git"}
 
 def sha1_of_file(path):
