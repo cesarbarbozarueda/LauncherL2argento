@@ -2,6 +2,16 @@
   "version": "1.0.0",
   "files": [
     {
+      "path": "batch_update.bat",
+      "sha1": "97D57B45E4A7D4E710A6AFFC2AFC1ED540AD2CF6",
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/batch_update.bat"
+    },
+    {
+      "path": "powershell_update.ps1",
+      "sha1": "77CD427539D63AAAFD02A4485909FBE90262DC70",
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/powershell_update.ps1"
+    },
+    {
       "path": "animations/Avengers_DarkElf_02.ukx",
       "sha1": "805579C10EBFA4D10425BFC60A5D44E03E74DC9F",
       "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_DarkElf_02.ukx"
@@ -237,6 +247,11 @@
       "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/maps/22_22.unr"
     },
     {
+      "path": "maps/Lobby.unr",
+      "sha1": "E6B034056C4CB5ADEA9CFBC1DD136D1BA0E8A339",
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/maps/Lobby.unr"
+    },
+    {
       "path": "sounds/GiranM_SND.uax",
       "sha1": "2845CFA3F0D2E414338ED25244C503FD97BF9F3D",
       "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/sounds/GiranM_SND.uax"
@@ -245,6 +260,11 @@
       "path": "staticmeshes/GiranM_S.usx",
       "sha1": "84E8EAC32F377B402CBAE7575760D42E0DF136EE",
       "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/staticmeshes/GiranM_S.usx"
+    },
+    {
+      "path": "staticmeshes/M1.usx",
+      "sha1": "BC0A6AD6FD845137C178FC687223745BC9709115",
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/staticmeshes/M1.usx"
     },
     {
       "path": "system/actionname-e.dat",
