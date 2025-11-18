@@ -2,7 +2,7 @@
 Write-Host "=== Ejecutando generate_manifest.py ===" -ForegroundColor Cyan
 
 # Cambiar al directorio del proyecto
-Set-Location "E:\GitHub\LauncherL2argento"
+Set-Location "D:\GitHub\LauncherL2argento"
 
 # Verificar si el archivo Python existe
 if (-not (Test-Path "generate_manifest.py")) {
