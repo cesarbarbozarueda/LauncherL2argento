@@ -623,7 +623,7 @@
     },
     {
       "path": "maps/22_22.unr",
-      "sha1": "634F5BE9A0EE09BDA8C1C93C432E36236FA14EC0",
+      "sha1": "16BA937430D49747AEEA7F7C4D70A818375CBD0E",
       "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/maps/22_22.unr"
     },
     {
@@ -635,6 +635,11 @@
       "path": "sounds/GiranM_SND.uax",
       "sha1": "2845CFA3F0D2E414338ED25244C503FD97BF9F3D",
       "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/sounds/GiranM_SND.uax"
+    },
+    {
+      "path": "staticmeshes/ChristmasTree_S.usx",
+      "sha1": "E13F3D21213E213FD75391C07563DBB8E3011976",
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/staticmeshes/ChristmasTree_S.usx"
     },
     {
       "path": "staticmeshes/GiranM_S.usx",
@@ -1375,6 +1380,11 @@
       "path": "systextures/Axe_Wings_NevesOma.utx",
       "sha1": "9A3A10EDD66437385C03332A79E27ACF9B3E5675",
       "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Axe_Wings_NevesOma.utx"
+    },
+    {
+      "path": "systextures/ChristmasTreeTex.utx",
+      "sha1": "9367A8BE0DAC85DB16076276759F5AE37B68AD6C",
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ChristmasTreeTex.utx"
     },
     {
       "path": "systextures/costume_ico.utx",
