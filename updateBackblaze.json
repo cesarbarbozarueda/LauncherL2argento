@@ -2,1639 +2,1649 @@
   "version": "1.0.0",
   "files": [
     {
+      "path": "batch_update.bat",
+      "sha1": "97D57B45E4A7D4E710A6AFFC2AFC1ED540AD2CF6",
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/batch_update.bat"
+    },
+    {
+      "path": "powershell_update.ps1",
+      "sha1": "77CD427539D63AAAFD02A4485909FBE90262DC70",
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/powershell_update.ps1"
+    },
+    {
       "path": "animations/AnakimWings.ukx",
       "sha1": "3C7BB1D5B22E26D01F5FCBE881D736AF8E4DDA87",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/AnakimWings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/AnakimWings.ukx"
     },
     {
       "path": "animations/appela.ukx",
       "sha1": "A9F67BD84F651F18F0AF40196C565DE9EEB40A1A",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/appela.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/appela.ukx"
     },
     {
       "path": "animations/Avengers_DarkElf_02.ukx",
       "sha1": "805579C10EBFA4D10425BFC60A5D44E03E74DC9F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_DarkElf_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_DarkElf_02.ukx"
     },
     {
       "path": "animations/Avengers_DarkElf_03.ukx",
       "sha1": "F6BC380B11252B287C9C7669FFF39971835D8135",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_DarkElf_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_DarkElf_03.ukx"
     },
     {
       "path": "animations/Avengers_Drop_02.ukx",
       "sha1": "D35E77FC361482B3B396959A0BEA20D7103350DB",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_Drop_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Drop_02.ukx"
     },
     {
       "path": "animations/Avengers_Drop_03.ukx",
       "sha1": "090443593DEEDE4F1A2543B38AF6B5A82E23A122",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_Drop_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Drop_03.ukx"
     },
     {
       "path": "animations/Avengers_Dwarf_02.ukx",
       "sha1": "8131C4F57725785C4FD14B4E8BFD9AA3AD8A6A33",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_Dwarf_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Dwarf_02.ukx"
     },
     {
       "path": "animations/Avengers_Dwarf_03.ukx",
       "sha1": "242E17AB236EE934E6B19F3059B15835119CBDC5",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_Dwarf_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Dwarf_03.ukx"
     },
     {
       "path": "animations/Avengers_Elf_02.ukx",
       "sha1": "7096F206248DC238FD7041D6695B93A25B18C03A",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_Elf_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Elf_02.ukx"
     },
     {
       "path": "animations/Avengers_Elf_03.ukx",
       "sha1": "D16D110930F42D31AD28407EE22CF8F52A93CD1B",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_Elf_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Elf_03.ukx"
     },
     {
       "path": "animations/Avengers_Fighter_02.ukx",
       "sha1": "DA7EB6D686CDA387619ED5C336BE7EC2D5B8F6C9",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_Fighter_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Fighter_02.ukx"
     },
     {
       "path": "animations/Avengers_Fighter_03.ukx",
       "sha1": "8DA02822751C4066D225C1A05694ED4FD9D9E2F4",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_Fighter_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Fighter_03.ukx"
     },
     {
       "path": "animations/Avengers_Magic_02.ukx",
       "sha1": "B2742946929647CB082D4D633A46E9C8A5BEEFA4",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_Magic_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Magic_02.ukx"
     },
     {
       "path": "animations/Avengers_Magic_03.ukx",
       "sha1": "21744C71DBEBAA755A5228408B40A383F5A96020",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_Magic_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Magic_03.ukx"
     },
     {
       "path": "animations/Avengers_Orc_02.ukx",
       "sha1": "8979692CCC9EC2D070CD9CADDFFA157207312807",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_Orc_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Orc_02.ukx"
     },
     {
       "path": "animations/Avengers_Orc_03.ukx",
       "sha1": "B7F08D3EA5C4E47EA7BD29B8DE458B0FD4A4A1B9",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_Orc_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Orc_03.ukx"
     },
     {
       "path": "animations/Avengers_Shaman_02.ukx",
       "sha1": "E686478633F68A025E9BE61A0786D0AFDFD7FC24",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_Shaman_02.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Shaman_02.ukx"
     },
     {
       "path": "animations/Avengers_Shaman_03.ukx",
       "sha1": "4B15F0F4D9CD83E965BA6BFEF7A5F08D37C17421",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Avengers_Shaman_03.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Avengers_Shaman_03.ukx"
     },
     {
       "path": "animations/baium.ukx",
       "sha1": "81E4EE85C246D187C55708977BAF7CDAEB9FC81B",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/baium.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/baium.ukx"
     },
     {
       "path": "animations/costume_m_euro__com.ukx",
       "sha1": "A0088145B94D17F1AF829DCC041F2E67A4D5DE32",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/costume_m_euro__com.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/costume_m_euro__com.ukx"
     },
     {
       "path": "animations/Ct1DropItems.ukx",
       "sha1": "4EAF6891275AC4757BF1CB13B1F3AC8ED5A20E6A",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Ct1DropItems.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Ct1DropItems.ukx"
     },
     {
       "path": "animations/Ct1LineageWeapons.ukx",
       "sha1": "F85D7CB070C64633DAAFF273092A3476DFE5EF28",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Ct1LineageWeapons.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Ct1LineageWeapons.ukx"
     },
     {
       "path": "animations/Custom_Akamanaf.ukx",
       "sha1": "05284F171F212C176549F36569F0FE569F052447",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Custom_Akamanaf.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Custom_Akamanaf.ukx"
     },
     {
       "path": "animations/Custom_Zariche.ukx",
       "sha1": "4A4DAD06A28EE32112EE41BBAEE79115CD980E44",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Custom_Zariche.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Custom_Zariche.ukx"
     },
     {
       "path": "animations/Darkelf-v.ukx",
       "sha1": "D3F5467F16B03C79CFAAA65FF87C5063B9A5F0B5",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Darkelf-v.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Darkelf-v.ukx"
     },
     {
       "path": "animations/demon_mask.ukx",
       "sha1": "430D3F3C00EC02BDD20850CD525DBCB9BBCF5ADA",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/demon_mask.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/demon_mask.ukx"
     },
     {
       "path": "animations/dfwing_30.ukx",
       "sha1": "E563E0136DEB33A99FE901ED25355CD42F9F4728",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/dfwing_30.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/dfwing_30.ukx"
     },
     {
       "path": "animations/DropItems-v.ukx",
       "sha1": "B450252B82BBF9B3F87F5E28EA94926DE9176D25",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/DropItems-v.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/DropItems-v.ukx"
     },
     {
       "path": "animations/Dwarf-v.ukx",
       "sha1": "D3C482E953E6C2EFDE0ADA3AE31E707D1D53B628",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Dwarf-v.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Dwarf-v.ukx"
     },
     {
       "path": "animations/echmus_wings.ukx",
       "sha1": "42ECE016748856FCCAE93CB2F4BCC1C3EDB34844",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/echmus_wings.ukx"
     },
     {
       "path": "animations/Elf-v.ukx",
       "sha1": "25B6A3EFD00AC6D7F4CE247B8A61C6177049AACF",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Elf-v.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Elf-v.ukx"
     },
     {
       "path": "animations/Empatic_fire_core_Wings.ukx",
       "sha1": "A2DDCF32B3C970594785003E6A600A1D8F841040",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Empatic_fire_core_Wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Empatic_fire_core_Wings.ukx"
     },
     {
       "path": "animations/Empatic_fire_core_Wings_D.ukx",
       "sha1": "A6D43F6DC042A53333F9D7CD17588148834D639F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Empatic_fire_core_Wings_D.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Empatic_fire_core_Wings_D.ukx"
     },
     {
       "path": "animations/Empatic_fire_core_Wings_O.ukx",
       "sha1": "C3D2A977AF0DF509600BD5A79B2A3E4DE0B01D89",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Empatic_fire_core_Wings_O.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Empatic_fire_core_Wings_O.ukx"
     },
     {
       "path": "animations/Empatic_fire_core_Wings_Tex.ukx",
       "sha1": "3F4222250534F6884076A2078656495035C30D43",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Empatic_fire_core_Wings_Tex.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Empatic_fire_core_Wings_Tex.ukx"
     },
     {
       "path": "animations/FDarkElf_echmus_wings.ukx",
       "sha1": "7162FDE5200DFED021D46748513B8FD6CAEE0412",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/FDarkElf_echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/FDarkElf_echmus_wings.ukx"
     },
     {
       "path": "animations/FDwarf_echmus_wings.ukx",
       "sha1": "B8060D8B7F415B0D2D7262C6DEB6AC8E5112B254",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/FDwarf_echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/FDwarf_echmus_wings.ukx"
     },
     {
       "path": "animations/FElf_echmus_wings.ukx",
       "sha1": "7A19F955FC48C42E9AAE210763D0B35D49A54805",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/FElf_echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/FElf_echmus_wings.ukx"
     },
     {
       "path": "animations/FFighter_echmus_wings.ukx",
       "sha1": "5354A590FEEDE399A143EB4E3A103DB4D988AAE9",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/FFighter_echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/FFighter_echmus_wings.ukx"
     },
     {
       "path": "animations/Fighter-v.ukx",
       "sha1": "8E98C7B8D267A1894024F74ED52C36ACD32C6318",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Fighter-v.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Fighter-v.ukx"
     },
     {
       "path": "animations/FMagic_echmus_wings.ukx",
       "sha1": "DF37EDCBB82548EBBF37D077DD3D28D94E7894C0",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/FMagic_echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/FMagic_echmus_wings.ukx"
     },
     {
       "path": "animations/FOrc_echmus_wings.ukx",
       "sha1": "B7882A8FAEF2BD58009ADD3718A3F703B87780FA",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/FOrc_echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/FOrc_echmus_wings.ukx"
     },
     {
       "path": "animations/FShaman_echmus_wings.ukx",
       "sha1": "AEC18D8B1ABC850303C3EFABCB3A9C1B67089874",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/FShaman_echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/FShaman_echmus_wings.ukx"
     },
     {
       "path": "animations/GiranM_A.ukx",
       "sha1": "5BDAF247A88E6C75D07EEEE926C574DB5E75C318",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/GiranM_A.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/GiranM_A.ukx"
     },
     {
       "path": "animations/iPerfectSuit07.ukx",
       "sha1": "1DB00AAC14727433BD5AC6F73CE7D116CC44B965",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/iPerfectSuit07.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit07.ukx"
     },
     {
       "path": "animations/iPerfectSuit08.ukx",
       "sha1": "89A2BBA2C77C22FDFF7126AE6B2ED73DA68B8D22",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/iPerfectSuit08.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit08.ukx"
     },
     {
       "path": "animations/iPerfectSuit09.ukx",
       "sha1": "64FAECDBDF0E9DE2841BB6D13B0437499EF519C6",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/iPerfectSuit09.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit09.ukx"
     },
     {
       "path": "animations/iPerfectSuit13.ukx",
       "sha1": "E74E24BC7BBC688F12519B9E8C8C0F479F9ABC42",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/iPerfectSuit13.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit13.ukx"
     },
     {
       "path": "animations/iPerfectSuit14.ukx",
       "sha1": "2CB7C6C8B47FDD1C6D75C6D9B0DDB9972DD44C66",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/iPerfectSuit14.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit14.ukx"
     },
     {
       "path": "animations/iPerfectSuit15.ukx",
       "sha1": "367B8EDB2D6E0BE3091662A55BD1013CC3E501C6",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/iPerfectSuit15.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit15.ukx"
     },
     {
       "path": "animations/iPerfectSuit19.ukx",
       "sha1": "3E200CB5F0BF3A62E2F4585B69E3F8EE046AB608",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/iPerfectSuit19.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit19.ukx"
     },
     {
       "path": "animations/iPerfectSuit22.ukx",
       "sha1": "B1EBAD6B1D08BBBD026365E8D8300DCD0D27852F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/iPerfectSuit22.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfectSuit22.ukx"
     },
     {
       "path": "animations/iPerfect_new_custom.ukx",
       "sha1": "EC7CC3D9B4FAAB7D36ED111E8A986B0BF403BB56",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/iPerfect_new_custom.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfect_new_custom.ukx"
     },
     {
       "path": "animations/iPerfect_new_custom3.ukx",
       "sha1": "BBCDDA19CA95CE1CF2413E3752300A90E99EB76F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/iPerfect_new_custom3.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfect_new_custom3.ukx"
     },
     {
       "path": "animations/iPerfect_new_customHat.ukx",
       "sha1": "3A7CC38B17FAA9A06CBC46F948AFFCA5B97343EA",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/iPerfect_new_customHat.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/iPerfect_new_customHat.ukx"
     },
     {
       "path": "animations/lfwing_40.ukx",
       "sha1": "248201A5BC32505663AC9F73F761CDAAE693A940",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/lfwing_40.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/lfwing_40.ukx"
     },
     {
       "path": "animations/Lineage2Armor1pack.ukx",
       "sha1": "9C6E83F3E10255E924DD1394AE97D1D85C9769CB",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Lineage2Armor1pack.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Lineage2Armor1pack.ukx"
     },
     {
       "path": "animations/Lineage2ArmorPack2.ukx",
       "sha1": "4524E1ADC0AE27EC5F9F149EB13E240EE982A71E",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Lineage2ArmorPack2.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Lineage2ArmorPack2.ukx"
     },
     {
       "path": "animations/LineageArmorPackD4.ukx",
       "sha1": "E621F5CE07E85D8B19C8EEACC4C14E96E5ED285D",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/LineageArmorPackD4.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/LineageArmorPackD4.ukx"
     },
     {
       "path": "animations/LineageNostumeItems9.ukx",
       "sha1": "8CAE1D5C3497A7586A48BD46A67B832BD2B729CF",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/LineageNostumeItems9.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/LineageNostumeItems9.ukx"
     },
     {
       "path": "animations/Magic-v.ukx",
       "sha1": "3B5CB678AE60BA7305820DE0DB1966C36819CA1F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Magic-v.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Magic-v.ukx"
     },
     {
       "path": "animations/MDarkElf_echmus_wings.ukx",
       "sha1": "18D7FC59CAEC614073F9DC94983922179F9A721E",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/MDarkElf_echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/MDarkElf_echmus_wings.ukx"
     },
     {
       "path": "animations/MDwarf_echmus_wings.ukx",
       "sha1": "EBE2E16E3FB9AF93ECB66AA5FE0A8BE7F520B7FE",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/MDwarf_echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/MDwarf_echmus_wings.ukx"
     },
     {
       "path": "animations/MElf_echmus_wings.ukx",
       "sha1": "57EBF7EA99DC3EE49255969A5221B12B03334304",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/MElf_echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/MElf_echmus_wings.ukx"
     },
     {
       "path": "animations/MFighter_echmus_wings.ukx",
       "sha1": "60870624B19120C32B653F81ADBF45513E77CAE4",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/MFighter_echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/MFighter_echmus_wings.ukx"
     },
     {
       "path": "animations/MMagic_echmus_wings.ukx",
       "sha1": "0B02725CE62266AB02395473B600B30EB449FC99",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/MMagic_echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/MMagic_echmus_wings.ukx"
     },
     {
       "path": "animations/MOrc_echmus_wings.ukx",
       "sha1": "DC53B486B484B34C84AC739578C2EAA0CC7B375E",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/MOrc_echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/MOrc_echmus_wings.ukx"
     },
     {
       "path": "animations/MShaman_echmus_wings.ukx",
       "sha1": "481BC86736ABFF11855C3E881A2A3FB21CB28827",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/MShaman_echmus_wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/MShaman_echmus_wings.ukx"
     },
     {
       "path": "animations/MultiCrazY_DarkArmor.ukx",
       "sha1": "4D6470DD9334F9520901DA643F1FE048AE3688CE",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/MultiCrazY_DarkArmor.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/MultiCrazY_DarkArmor.ukx"
     },
     {
       "path": "animations/Munch_AbyssalShoulders.ukx",
       "sha1": "844033B1A91552431E6CDB0CC5B39E30ABE580C7",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Munch_AbyssalShoulders.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Munch_AbyssalShoulders.ukx"
     },
     {
       "path": "animations/NZ_Fdarkelf_AKA_Helmet_ByCymBals_m003_a.ukx",
       "sha1": "53F1C0485D94BF77B04B1D8CA0A5495D8AC50217",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/NZ_Fdarkelf_AKA_Helmet_ByCymBals_m003_a.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/NZ_Fdarkelf_AKA_Helmet_ByCymBals_m003_a.ukx"
     },
     {
       "path": "animations/NZ_Fdwarf_AKA_Helmet_ByCymBals_m003_a.ukx",
       "sha1": "229E4872033B5FF15D3FE0F17D81292B211FE9BA",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/NZ_Fdwarf_AKA_Helmet_ByCymBals_m003_a.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/NZ_Fdwarf_AKA_Helmet_ByCymBals_m003_a.ukx"
     },
     {
       "path": "animations/NZ_Felf_AKA_Helmet_ByCymBals_m003_a.ukx",
       "sha1": "18ACE8A7D37BDBCC450547B712C8973860CE7E01",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/NZ_Felf_AKA_Helmet_ByCymBals_m003_a.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/NZ_Felf_AKA_Helmet_ByCymBals_m003_a.ukx"
     },
     {
       "path": "animations/NZ_Ffighter_AKA_Helmet_ByCymBals_m003_a.ukx",
       "sha1": "E09C0555FC8A1B0898EB045B7F571AF89B0143A5",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/NZ_Ffighter_AKA_Helmet_ByCymBals_m003_a.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/NZ_Ffighter_AKA_Helmet_ByCymBals_m003_a.ukx"
     },
     {
       "path": "animations/NZ_Fmagic_AKA_Helmet_ByCymBals_m003_a.ukx",
       "sha1": "1BE5F7DEA943F0C33CA45D455131943ECFA7A3CC",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/NZ_Fmagic_AKA_Helmet_ByCymBals_m003_a.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/NZ_Fmagic_AKA_Helmet_ByCymBals_m003_a.ukx"
     },
     {
       "path": "animations/NZ_Forc_AKA_Helmet_ByCymBals_m003_a.ukx",
       "sha1": "F586D23F8E90C1A6AC51353224B28886D45B4A0D",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/NZ_Forc_AKA_Helmet_ByCymBals_m003_a.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/NZ_Forc_AKA_Helmet_ByCymBals_m003_a.ukx"
     },
     {
       "path": "animations/NZ_Fshaman_AKA_Helmet_ByCymBals_m003_a.ukx",
       "sha1": "BF5818014027D1F730F23D660C16945A9A17454A",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/NZ_Fshaman_AKA_Helmet_ByCymBals_m003_a.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/NZ_Fshaman_AKA_Helmet_ByCymBals_m003_a.ukx"
     },
     {
       "path": "animations/NZ_Mdarkelf_AKA_Helmet_ByCymBals_m003_a.ukx",
       "sha1": "7164A187FFFC534FB0AF16E85FFEA93EE3BE9BDB",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/NZ_Mdarkelf_AKA_Helmet_ByCymBals_m003_a.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/NZ_Mdarkelf_AKA_Helmet_ByCymBals_m003_a.ukx"
     },
     {
       "path": "animations/NZ_Mdwarf_AKA_Helmet_ByCymBals_m003_a.ukx",
       "sha1": "3AC8C7989341E84AE7018386D2F3678BA1B1877F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/NZ_Mdwarf_AKA_Helmet_ByCymBals_m003_a.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/NZ_Mdwarf_AKA_Helmet_ByCymBals_m003_a.ukx"
     },
     {
       "path": "animations/NZ_Melf_AKA_Helmet_ByCymBals_m003_a.ukx",
       "sha1": "C267784B4160C1EB7C34314DAA9C8D689C57AC00",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/NZ_Melf_AKA_Helmet_ByCymBals_m003_a.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/NZ_Melf_AKA_Helmet_ByCymBals_m003_a.ukx"
     },
     {
       "path": "animations/NZ_Mfighter_AKA_Helmet_ByCymBals_m003_a.ukx",
       "sha1": "0EB8E83CAB7BF2F84FEDB443C493E805CA06D8DB",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/NZ_Mfighter_AKA_Helmet_ByCymBals_m003_a.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/NZ_Mfighter_AKA_Helmet_ByCymBals_m003_a.ukx"
     },
     {
       "path": "animations/NZ_Mmagic_AKA_Helmet_ByCymBals_m003_a.ukx",
       "sha1": "375051A7618B688CEE1236818ECB9007911C9889",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/NZ_Mmagic_AKA_Helmet_ByCymBals_m003_a.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/NZ_Mmagic_AKA_Helmet_ByCymBals_m003_a.ukx"
     },
     {
       "path": "animations/NZ_Morc_AKA_Helmet_ByCymBals_m003_a.ukx",
       "sha1": "986B798E198572975D7EEC751320BA1B94FD7C1D",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/NZ_Morc_AKA_Helmet_ByCymBals_m003_a.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/NZ_Morc_AKA_Helmet_ByCymBals_m003_a.ukx"
     },
     {
       "path": "animations/NZ_Mshaman_AKA_Helmet_ByCymBals_m003_a.ukx",
       "sha1": "E57A0001C332C05C6576AF91249CFB0F344F139B",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/NZ_Mshaman_AKA_Helmet_ByCymBals_m003_a.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/NZ_Mshaman_AKA_Helmet_ByCymBals_m003_a.ukx"
     },
     {
       "path": "animations/Orc-v.ukx",
       "sha1": "09672643E060CDEC5F00BB99A52D4642D17A11E9",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Orc-v.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Orc-v.ukx"
     },
     {
       "path": "animations/R95_beranka_m00_wp.ukx",
       "sha1": "9CD03CB1C8D20CAA25B87C1C4592E7571BA54D7B",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/R95_beranka_m00_wp.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/R95_beranka_m00_wp.ukx"
     },
     {
       "path": "animations/RaccoonCostume_Asn_blue.ukx",
       "sha1": "439AECD9D7992BE6F25A1795EBFB73FF1DD4A516",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/RaccoonCostume_Asn_blue.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/RaccoonCostume_Asn_blue.ukx"
     },
     {
       "path": "animations/RaccoonCostume_lilith.ukx",
       "sha1": "26105F0496F03CE775D8CF19EB990980F08AC9A2",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/RaccoonCostume_lilith.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/RaccoonCostume_lilith.ukx"
     },
     {
       "path": "animations/RaccoonCustom01.ukx",
       "sha1": "11528B6C8321623C66C9218BF86B70BBEC883E64",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/RaccoonCustom01.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/RaccoonCustom01.ukx"
     },
     {
       "path": "animations/RaccoonCustom05.ukx",
       "sha1": "0180022DCC219BEC6396D03CF687A05B3BEE2059",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/RaccoonCustom05.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/RaccoonCustom05.ukx"
     },
     {
       "path": "animations/Shaman-v.ukx",
       "sha1": "80852A79921259011591586583290F4D8EBD4950",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/Shaman-v.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/Shaman-v.ukx"
     },
     {
       "path": "animations/sixplan7.ukx",
       "sha1": "FFF116CE8CACCB0B361FDCDBDEED118BC5F63B02",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/sixplan7.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/sixplan7.ukx"
     },
     {
       "path": "animations/suit_benom.ukx",
       "sha1": "B8EE5BA6F03716A567661850978C5508019CDD57",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/suit_benom.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/suit_benom.ukx"
     },
     {
       "path": "animations/suit_cowboy.ukx",
       "sha1": "45F9E926B67C7820A8BCA1DC69FB0CAA029F71FF",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/suit_cowboy.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/suit_cowboy.ukx"
     },
     {
       "path": "animations/suit_pirate.ukx",
       "sha1": "156CAAAA329EA707DF4D12F5BEFA9B5F7DDEA3D6",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/suit_pirate.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/suit_pirate.ukx"
     },
     {
       "path": "animations/WilliamFS_EL_Shield_m00.ukx",
       "sha1": "6412C86CAFD0680CE31F7E7D2556EE1316B02BCE",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_EL_Shield_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_EL_Shield_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_Icarus_accipiter.ukx",
       "sha1": "2A1A3E32AB9B4C43A0317985F6E4ECE4BF736DEE",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_Icarus_accipiter.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_Icarus_accipiter.ukx"
     },
     {
       "path": "animations/WilliamFS_Icarus_chopper.ukx",
       "sha1": "4B5EB418316CBC5DD2460FB9567E245C085F7CF4",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_Icarus_chopper.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_Icarus_chopper.ukx"
     },
     {
       "path": "animations/WilliamFS_Icarus_disperser.ukx",
       "sha1": "82673DD8675C178EEB16279B1882D12D89EE5D75",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_Icarus_disperser.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_Icarus_disperser.ukx"
     },
     {
       "path": "animations/WilliamFS_Icarus_heavy_arms.ukx",
       "sha1": "FC41DE18D1302634FB3EF2A07D0AB7A24CAA423C",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_Icarus_heavy_arms.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_Icarus_heavy_arms.ukx"
     },
     {
       "path": "animations/WilliamFS_Icarus_knuckle.ukx",
       "sha1": "8B9167AF304C953A8378DAA4A5418B4A12CBB350",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_Icarus_knuckle.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_Icarus_knuckle.ukx"
     },
     {
       "path": "animations/WilliamFS_Icarus_sowsword.ukx",
       "sha1": "48850075E2BA01A03979EFF864B01D6AB6B77CDD",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_Icarus_sowsword.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_Icarus_sowsword.ukx"
     },
     {
       "path": "animations/WilliamFS_Icarus_spirits.ukx",
       "sha1": "A1F3D0F474DC18C7E44D71D175385E4E2852A17D",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_Icarus_spirits.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_Icarus_spirits.ukx"
     },
     {
       "path": "animations/WilliamFS_Icarus_trident.ukx",
       "sha1": "300722B5E8163E29A5E22470CC2D83E51A58093E",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_Icarus_trident.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_Icarus_trident.ukx"
     },
     {
       "path": "animations/WilliamFS_Icarus_wand.ukx",
       "sha1": "DB4C8C7A1A9776C6A3C6028A91976E5A90F7D8C8",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_Icarus_wand.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_Icarus_wand.ukx"
     },
     {
       "path": "animations/WilliamFS_Icarus_wing_blade.ukx",
       "sha1": "71D5480BEA2393CB8879DD9E27B3BA110AA68EFA",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_Icarus_wing_blade.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_Icarus_wing_blade.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_avenger_m00.ukx",
       "sha1": "1958E8B35D40A83CA34964C37104DDC9D6208196",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_avenger_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_avenger_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_burster_m00.ukx",
       "sha1": "A40D313D8C1F45201D089621F4CD724AD1F0ABED",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_burster_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_burster_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_caster_m00.ukx",
       "sha1": "E635F1118F44A400A62C56AD3A78976198490156",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_caster_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_caster_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_cutter_m00.ukx",
       "sha1": "7F2BBA8F97796496452C89C8B1121694EC6D9F3B",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_cutter_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_cutter_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_fighter_m00.ukx",
       "sha1": "D65508714C143796F3D3F91AC787850D5B3C47AF",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_fighter_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_fighter_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_nagen_m00.ukx",
       "sha1": "71F442A5B19547B65728C6628498D9B5948A8F4E",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_nagen_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_nagen_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_pincer_m00.ukx",
       "sha1": "C0D89A0BCC931B280E4D02601BF630216F337AEE",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_pincer_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_pincer_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_retributer_m00.ukx",
       "sha1": "CC81E82D29CB78932748805D9DB7F354E2CC3909",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_retributer_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_retributer_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_shaper_m00.ukx",
       "sha1": "D534D61BC2149B0A879ABFCFE5EAF8FB37411224",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_shaper_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_shaper_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_sigil_m00.ukx",
       "sha1": "86E8413A5D69957CDB072E886AA2BEC1924CAD3B",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_sigil_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_sigil_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_singer_m00.ukx",
       "sha1": "1282D20F51C302A3747F7788C889A09F0B940FD8",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_singer_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_singer_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_slasher_m00.ukx",
       "sha1": "50794C2B7FBD0217A86E3BC05E0DC7429B26D490",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_slasher_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_slasher_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_stormer_m00.ukx",
       "sha1": "C47BA97ED38A737BE7229ABCE7DBBC74B19CCAFA",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_stormer_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_stormer_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_thrower_m00.ukx",
       "sha1": "F101DE9E2F75697FBEC100F5BC695312DDF03B2E",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_thrower_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_thrower_m00.ukx"
     },
     {
       "path": "animations/WilliamFS_vesper_verteidiger_m00.ukx",
       "sha1": "E2FB02A983C891FCFB5109C9E1B1485C0129BF95",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/WilliamFS_vesper_verteidiger_m00.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/WilliamFS_vesper_verteidiger_m00.ukx"
     },
     {
       "path": "animations/wings.ukx",
       "sha1": "5C793A99261516E0A504A9527E50B9A23BF59B45",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/animations/wings.ukx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/animations/wings.ukx"
     },
     {
       "path": "maps/22_22.unr",
       "sha1": "16BA937430D49747AEEA7F7C4D70A818375CBD0E",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/maps/22_22.unr"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/maps/22_22.unr"
     },
     {
       "path": "maps/Lobby.unr",
       "sha1": "E6B034056C4CB5ADEA9CFBC1DD136D1BA0E8A339",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/maps/Lobby.unr"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/maps/Lobby.unr"
     },
     {
       "path": "sounds/GiranM_SND.uax",
       "sha1": "2845CFA3F0D2E414338ED25244C503FD97BF9F3D",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/sounds/GiranM_SND.uax"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/sounds/GiranM_SND.uax"
     },
     {
       "path": "staticmeshes/ChristmasTree_S.usx",
       "sha1": "E13F3D21213E213FD75391C07563DBB8E3011976",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/staticmeshes/ChristmasTree_S.usx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/staticmeshes/ChristmasTree_S.usx"
     },
     {
       "path": "staticmeshes/GiranM_S.usx",
       "sha1": "84E8EAC32F377B402CBAE7575760D42E0DF136EE",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/staticmeshes/GiranM_S.usx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/staticmeshes/GiranM_S.usx"
     },
     {
       "path": "staticmeshes/M1.usx",
       "sha1": "BC0A6AD6FD845137C178FC687223745BC9709115",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/staticmeshes/M1.usx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/staticmeshes/M1.usx"
     },
     {
       "path": "system/actionname-e.dat",
       "sha1": "745944F8EFA652F8DED5C8EB57F6720A9A36FA5A",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/actionname-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/actionname-e.dat"
     },
     {
       "path": "system/ALAudio.dll",
       "sha1": "03EB84DCCC2D1FED57D8D647E22AD13B2D9ACFE5",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/ALAudio.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/ALAudio.dll"
     },
     {
       "path": "system/ALAudio.int",
       "sha1": "8A6FFF685DBC9D53BF10136CD88ABD2C8D7CD33F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/ALAudio.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/ALAudio.int"
     },
     {
       "path": "system/armorgrp.dat",
       "sha1": "942A36AC0EEC239896E11099619493C7840F4B01",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/armorgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/armorgrp.dat"
     },
     {
       "path": "system/bighead.int",
       "sha1": "D417093DAA734E51229C63D8DAA5907C2131A08D",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/bighead.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/bighead.int"
     },
     {
       "path": "system/castlename-e.dat",
       "sha1": "60E8B9EC748A48FA59AF02CADD422A0880E384AE",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/castlename-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/castlename-e.dat"
     },
     {
       "path": "system/chargrp.dat",
       "sha1": "BFF5116BEF75F59C8ED1AA1B36C1D7336E6A199B",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/chargrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/chargrp.dat"
     },
     {
       "path": "system/chatfilter.ini",
       "sha1": "A81151756FDDCE962D2DB9F18B546F98D4AC0211",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/chatfilter.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/chatfilter.ini"
     },
     {
       "path": "system/classinfo-e.dat",
       "sha1": "057536F81939B954501087E13814FF14A70C3358",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/classinfo-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/classinfo-e.dat"
     },
     {
       "path": "system/clientdata.dat",
       "sha1": "66A6C395D4513AAC240AB84EF99112D0146FD009",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/clientdata.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/clientdata.dat"
     },
     {
       "path": "system/cloak.int",
       "sha1": "1B7B4F435BAD6D5D224754EC1A9F2DD9E88BE60D",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/cloak.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/cloak.int"
     },
     {
       "path": "system/commandname-e.dat",
       "sha1": "6788F5395684286DA8709B8DF7A1E2A406CBFB86",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/commandname-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/commandname-e.dat"
     },
     {
       "path": "system/Core.dll",
       "sha1": "B3A75A5E15BFC43A5201B978550FA1F146596AF3",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/Core.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Core.dll"
     },
     {
       "path": "system/core.int",
       "sha1": "F9DCA56F53FC44A6165798F4FE240FAB27E3C026",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/core.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/core.int"
     },
     {
       "path": "system/Core.u",
       "sha1": "921173716910B899794C1470CA9505E1ABCF6832",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/Core.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Core.u"
     },
     {
       "path": "system/creditfont.gly",
       "sha1": "413C964D67A57E95160B6E96346016DD27A39269",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/creditfont.gly"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/creditfont.gly"
     },
     {
       "path": "system/creditgrp-e.dat",
       "sha1": "65DBC23165B71D496E02046D93CEA571BBEFC6AF",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/creditgrp-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/creditgrp-e.dat"
     },
     {
       "path": "system/D3DDrv.dll",
       "sha1": "6BC62BD679E0F9C44B2D73816478D2396CA516CE",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/D3DDrv.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/D3DDrv.dll"
     },
     {
       "path": "system/defopenal32.dll",
       "sha1": "9CD97557AF12F2B0CCAC1E19AF73E7B1A4B9C278",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/defopenal32.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/defopenal32.dll"
     },
     {
       "path": "system/dsetup.dll",
       "sha1": "92FD69CEFAB0BB0493980B0C8F3DC6278EFDA64C",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/dsetup.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/dsetup.dll"
     },
     {
       "path": "system/Editor.u",
       "sha1": "51D3FC6641F18EF3A104AB01F62DA6116EA12A08",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/Editor.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Editor.u"
     },
     {
       "path": "system/encvag.dll",
       "sha1": "FE1A8F55D9F4858DE2A663C956C0050869D4C5D6",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/encvag.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/encvag.dll"
     },
     {
       "path": "system/engine.dll",
       "sha1": "7877B8CF85A91CFFB16864B3C6638259A649F4A9",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/engine.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/engine.dll"
     },
     {
       "path": "system/Engine.int",
       "sha1": "7B4872D346679F80F6729593E1D1383714442F43",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/Engine.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Engine.int"
     },
     {
       "path": "system/Engine.u",
       "sha1": "B708BEB5CBFBB2B7858417E6F338E49E3AC710B4",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/Engine.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Engine.u"
     },
     {
       "path": "system/entereventgrp.dat",
       "sha1": "DD350BC09C5EFC97768909CCBFF706EAB7BFEBCB",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/entereventgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/entereventgrp.dat"
     },
     {
       "path": "system/Env.int",
       "sha1": "8FCBC728C2031E32A49BF23F463BF498A0934E4F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/Env.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Env.int"
     },
     {
       "path": "system/etcitemgrp.dat",
       "sha1": "8C7EEDA48932B0A9242D1D8624A030C53DF82F78",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/etcitemgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/etcitemgrp.dat"
     },
     {
       "path": "system/eula-e.dat",
       "sha1": "06B5ECC5D8608A992A8D73648BC20833428F62D3",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/eula-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/eula-e.dat"
     },
     {
       "path": "system/Euro_custom.u",
       "sha1": "24BADFA05CF9C7C94BDE261314DF49C956849519",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/Euro_custom.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Euro_custom.u"
     },
     {
       "path": "system/Fire.dll",
       "sha1": "76BCEE3E3CDE7A8A02549CD32D30BA5FF0050F40",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/Fire.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Fire.dll"
     },
     {
       "path": "system/Fire.u",
       "sha1": "DA8CC710D6298CE2F8D0487BA0A0DD6010ADF8DD",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/Fire.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Fire.u"
     },
     {
       "path": "system/GameGuard.des",
       "sha1": "08E504C17BBAADECBAA604F3915B329CDD37A4FC",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/GameGuard.des"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/GameGuard.des"
     },
     {
       "path": "system/GamePlay.u",
       "sha1": "7815CAE7094737453530504441862695C3403FE6",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/GamePlay.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/GamePlay.u"
     },
     {
       "path": "system/gametip-e.dat",
       "sha1": "9B75D640858060556D658F564562FAE92240DBA9",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/gametip-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/gametip-e.dat"
     },
     {
       "path": "system/hair.int",
       "sha1": "CBA7F4F67452522CF1FF210D2BCAF8C3EB5A9606",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/hair.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/hair.int"
     },
     {
       "path": "system/hairaccessarygrp.dat",
       "sha1": "1DE0DF4A33E1866C2155A23D2549546418F91CE3",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/hairaccessarygrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/hairaccessarygrp.dat"
     },
     {
       "path": "system/hairaccessorylocgrp.dat",
       "sha1": "D5AA120CF2EAC5EBA490761BC496FACF65ED0708",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/hairaccessorylocgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/hairaccessorylocgrp.dat"
     },
     {
       "path": "system/hairgrp.dat",
       "sha1": "6972B736517E7E7CB12465F4CCBD9F2B6451914F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/hairgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/hairgrp.dat"
     },
     {
       "path": "system/helmetgrp.dat",
       "sha1": "5C8A46656A474A64E773B30F6CC56ADDCDCAD6CA",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/helmetgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/helmetgrp.dat"
     },
     {
       "path": "system/hennagrp-e.dat",
       "sha1": "978CDCC28EB0AE11CFE91774AD0E5AAD112AD704",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/hennagrp-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/hennagrp-e.dat"
     },
     {
       "path": "system/huntingzone-e.dat",
       "sha1": "8D38A317D66F1C9A06F9F4B412C433ADB9D0BCFD",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/huntingzone-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/huntingzone-e.dat"
     },
     {
       "path": "system/ifc23.dll",
       "sha1": "7AEF4FF0FBFA4AB39331A4E63939B43B265A6A76",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/ifc23.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/ifc23.dll"
     },
     {
       "path": "system/interface.u",
       "sha1": "F91F8AF4FA87159A3F82617E75B123F5E71F6527",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/interface.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/interface.u"
     },
     {
       "path": "system/interface.xdat",
       "sha1": "8F10387622D7EDEC90A2C36DD57DF423D006621B",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/interface.xdat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/interface.xdat"
     },
     {
       "path": "system/IpDrv.dll",
       "sha1": "DECF92878FEFB16636A66FE2606153EAE03A8538",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/IpDrv.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/IpDrv.dll"
     },
     {
       "path": "system/ipdrv.int",
       "sha1": "F152C26AF7ECA17EF39B1FB53D7474BBB4E4360F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/ipdrv.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/ipdrv.int"
     },
     {
       "path": "system/IpDrv.u",
       "sha1": "1F766A4A477833E8C8C2E8AAD2093AC6F0542F8D",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/IpDrv.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/IpDrv.u"
     },
     {
       "path": "system/itemname-e.dat",
       "sha1": "A9A1993950D2F5534F7C16F8555590C047CAFE93",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/itemname-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/itemname-e.dat"
     },
     {
       "path": "system/l2.exe",
       "sha1": "01A09287ECFA8732292A51E5B4ABE4BBB65EFA1E",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/l2.exe"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/l2.exe"
     },
     {
       "path": "system/l2.ini",
       "sha1": "C2FB3B1A6E9B3E69AD94054F78DCA60AB380580D",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/l2.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/l2.ini"
     },
     {
       "path": "system/l2.int",
       "sha1": "7AABECC854CCE64A30FA2BDA667B340B957D8AAD",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/l2.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/l2.int"
     },
     {
       "path": "system/l2argento.ico",
       "sha1": "07F10C98E4C445CC1CCCA55F1AA5254761FD69B3",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/l2argento.ico"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/l2argento.ico"
     },
     {
       "path": "system/L2CompiledShader.bin",
       "sha1": "9069CA78E7450A285173431B3E52C5C25299E473",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/L2CompiledShader.bin"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/L2CompiledShader.bin"
     },
     {
       "path": "system/l2forecf.ffe",
       "sha1": "0620C2EE32347D4E3D8BA8664BBFAD52A90BFC56",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/l2forecf.ffe"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/l2forecf.ffe"
     },
     {
       "path": "system/largefont-e.gly",
       "sha1": "D242E9DA2B700B1B083D0EEDFBB280E923A4A8D7",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/largefont-e.gly"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/largefont-e.gly"
     },
     {
       "path": "system/largefont.gly",
       "sha1": "C0D5814F585988FF6E9BECC2D5004875E82AE28F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/largefont.gly"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/largefont.gly"
     },
     {
       "path": "system/Lineage2us.ini",
       "sha1": "1C4AC174877C87472D77967FF9E5D3F976C0EBA4",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/Lineage2us.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Lineage2us.ini"
     },
     {
       "path": "system/LineageCreature.dll",
       "sha1": "E44419F443AFB735BCB623CB4D9128A948FC8E72",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/LineageCreature.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageCreature.dll"
     },
     {
       "path": "system/LineageCreature.u",
       "sha1": "2614B331BF0BC0E3D59A8C6DA710348B3A786E31",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/LineageCreature.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageCreature.u"
     },
     {
       "path": "system/LineageDeco.u",
       "sha1": "132D333C9D3F0AD6B2A5DB1DB77CC30AC5D22E8F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/LineageDeco.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageDeco.u"
     },
     {
       "path": "system/lineageeffect.u",
       "sha1": "F43DC00C29C4501228834CAB0787E28BC72FA5EF",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/lineageeffect.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineageeffect.u"
     },
     {
       "path": "system/lineageenv.dll",
       "sha1": "B84CB65F1B29E8275C6987F7C74C28C9EB8C811C",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/lineageenv.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineageenv.dll"
     },
     {
       "path": "system/lineageenv.u",
       "sha1": "F7C596B40FF0D30CA0FCB5ECB379CE7F24F34007",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/lineageenv.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineageenv.u"
     },
     {
       "path": "system/LineageMonster.int",
       "sha1": "A33653EFD857CC595083E166FE06BE646BCB9CCD",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/LineageMonster.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageMonster.int"
     },
     {
       "path": "system/LineageMonster.u",
       "sha1": "06A32AB278F3D594819AA2378BD3A943FF9141B6",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/LineageMonster.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageMonster.u"
     },
     {
       "path": "system/lineagemonster2.int",
       "sha1": "84319B41788FC63999F070F220EB0A4042BCFDDE",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/lineagemonster2.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineagemonster2.int"
     },
     {
       "path": "system/LineageMonster2.u",
       "sha1": "CBE0ECEE7FC4C22E4E5AD0274958823A8F1FEE6F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/LineageMonster2.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageMonster2.u"
     },
     {
       "path": "system/LineageMonster3.int",
       "sha1": "7774324516CDCF189E9BFEEC0F51D3672B1BE291",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/LineageMonster3.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageMonster3.int"
     },
     {
       "path": "system/LineageMonster3.u",
       "sha1": "F0F5261626AAB31DF4F8151174EC47E5A565D31D",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/LineageMonster3.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageMonster3.u"
     },
     {
       "path": "system/LineageNpc.int",
       "sha1": "1E3A5D06B474AD01576EABEB972D0C070842C410",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/LineageNpc.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageNpc.int"
     },
     {
       "path": "system/lineagenpc.u",
       "sha1": "1DA123E2A85F63E259A75AD266C3DE9B7C057C57",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/lineagenpc.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineagenpc.u"
     },
     {
       "path": "system/lineagenpc2.int",
       "sha1": "FF70E15A5C08B32EFE4F5FFBF4FB6DC2E1CE9C88",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/lineagenpc2.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineagenpc2.int"
     },
     {
       "path": "system/lineagenpc2.u",
       "sha1": "23E30630A9D5ACD2EEF02EA347DDB00FE0D25DDB",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/lineagenpc2.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineagenpc2.u"
     },
     {
       "path": "system/lineagenpcev.u",
       "sha1": "0E4796F68DF455F6C0AE28C8A9E5BB0B74E048DB",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/lineagenpcev.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineagenpcev.u"
     },
     {
       "path": "system/LineageVehicle.u",
       "sha1": "0AD7710B5C78A112622E04D1BC3B8F0337218AC7",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/LineageVehicle.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageVehicle.u"
     },
     {
       "path": "system/lineagewarrior.int",
       "sha1": "058F20755EBC4C44CD58ABB8F8B507021D8DF28C",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/lineagewarrior.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/lineagewarrior.int"
     },
     {
       "path": "system/LineageWarrior.u",
       "sha1": "F0491095F262093CE61A37DE48834BB602A6680B",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/LineageWarrior.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/LineageWarrior.u"
     },
     {
       "path": "system/Localization.ini",
       "sha1": "0B2EBA24B8B80E2EE6480FB17A4106AC4A4C6FE8",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/Localization.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Localization.ini"
     },
     {
       "path": "system/logongrp.dat",
       "sha1": "1B7F1771BE7A446A7E86FEB6939342D4FF8CF0A0",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/logongrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/logongrp.dat"
     },
     {
       "path": "system/mobskillanimgrp.dat",
       "sha1": "0D476B17B6EAD41F73926C7D87417859DF48E160",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/mobskillanimgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/mobskillanimgrp.dat"
     },
     {
       "path": "system/msxml4.dll",
       "sha1": "946AA41B26F84613A28A8B25E11BAAD2F256B376",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/msxml4.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/msxml4.dll"
     },
     {
       "path": "system/msxml4a.dll",
       "sha1": "F3B668833765F2B6F8B40CC1E08699AE29FA9CC0",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/msxml4a.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/msxml4a.dll"
     },
     {
       "path": "system/msxml4r.dll",
       "sha1": "81D5103841092EE871F4ABD82420FBE8DE7DD84F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/msxml4r.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/msxml4r.dll"
     },
     {
       "path": "system/musicinfo.dat",
       "sha1": "8ECF1A9293406C3689DD6645311BA4F560BFAAFE",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/musicinfo.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/musicinfo.dat"
     },
     {
       "path": "system/nosleep.dll",
       "sha1": "1CBF559E85F073F285A29975D98242319A510C02",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/nosleep.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/nosleep.dll"
     },
     {
       "path": "system/npcgrp.dat",
       "sha1": "4493F97E1322A6917C2B6EBB8910E30B1DBF9654",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/npcgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npcgrp.dat"
     },
     {
       "path": "system/npcname-e.dat",
       "sha1": "72DB3718CC3A6398C0F1C7D5160A0DD1D0DCBDAB",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/npcname-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npcname-e.dat"
     },
     {
       "path": "system/npkcrypt.dll",
       "sha1": "F599A7EDAD0762A42C101F7CA6721FC4C1DB3E8C",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/npkcrypt.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npkcrypt.dll"
     },
     {
       "path": "system/npkcrypt.sys",
       "sha1": "EF58A4C32B99AF7B60000AB1FFB7A6D6DF589F92",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/npkcrypt.sys"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npkcrypt.sys"
     },
     {
       "path": "system/npkcrypt.vxd",
       "sha1": "620E526DCC050F26C537F5EE2778F82BF3A5A1B8",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/npkcrypt.vxd"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npkcrypt.vxd"
     },
     {
       "path": "system/npkcusb.sys",
       "sha1": "9CD3C1C1768E6585541D87D63986FA366BD4B2A5",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/npkcusb.sys"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npkcusb.sys"
     },
     {
       "path": "system/Npkdb.des",
       "sha1": "FCB430F303FE7F435DF9E930D69F535DC5C578BF",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/Npkdb.des"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Npkdb.des"
     },
     {
       "path": "system/npkpdb.dll",
       "sha1": "AB4DA56678B9496F8592B5F9081D736F5474AC97",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/npkpdb.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npkpdb.dll"
     },
     {
       "path": "system/npkscrypt.dll",
       "sha1": "0886E469D35AC87EE42F6E8DB0092A1B887B4E3F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/npkscrypt.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/npkscrypt.dll"
     },
     {
       "path": "system/nwindow.dll",
       "sha1": "BA5EBCAABF71C3B0843A787A61D5FEBF6E0D3CED",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/nwindow.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/nwindow.dll"
     },
     {
       "path": "system/nwindow.u",
       "sha1": "2145EC9942699D0ED4518C5C03299481B3A07940",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/nwindow.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/nwindow.u"
     },
     {
       "path": "system/obscene-e.dat",
       "sha1": "D5662B87A8031A39B5BE715041D0342FFCDF5F23",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/obscene-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/obscene-e.dat"
     },
     {
       "path": "system/ogg.dll",
       "sha1": "6B9D8B373CC085B35FD5ED28B1F408EDA085F6B0",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/ogg.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/ogg.dll"
     },
     {
       "path": "system/openal32.dll",
       "sha1": "30322AE9B6F463AC1B7CE4D39EC2D48A08733CD6",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/openal32.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/openal32.dll"
     },
     {
       "path": "system/Option.ini",
       "sha1": "DFD35075C0B4801238A4018A0EFF87783FBD549D",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/Option.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Option.ini"
     },
     {
       "path": "system/optiondata_client-e.dat",
       "sha1": "3591B5BAB7780942F6232F52F3925A15CC60141C",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/optiondata_client-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/optiondata_client-e.dat"
     },
     {
       "path": "system/orc.dll",
       "sha1": "A65FD046731EE8E986E3091238DAA6C0D4738366",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/orc.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/orc.dll"
     },
     {
       "path": "system/questname-e.dat",
       "sha1": "F6AB5FB9B627E3BF08231021A9F88001F126D8BA",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/questname-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/questname-e.dat"
     },
     {
       "path": "system/raiddata-e.dat",
       "sha1": "9FB2F35D2EA6AC6120FF6935FC2A8E4121FF2C52",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/raiddata-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/raiddata-e.dat"
     },
     {
       "path": "system/recipe-c.dat",
       "sha1": "CA721C5A0852F17C0F3B6EC3D5234AF80D12D082",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/recipe-c.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/recipe-c.dat"
     },
     {
       "path": "system/servername-e.dat",
       "sha1": "EA947441864AD9EB5D11BC168FEFFC374A633FC1",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/servername-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/servername-e.dat"
     },
     {
       "path": "system/skillgrp.dat",
       "sha1": "DF3A95A0744AADC4D4AF5B85FC6E629A202B99FB",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/skillgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/skillgrp.dat"
     },
     {
       "path": "system/skillname-e.dat",
       "sha1": "ED5FEF1D08F5C085E933A1694CCF547471CCB7B7",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/skillname-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/skillname-e.dat"
     },
     {
       "path": "system/skillsoundgrp.dat",
       "sha1": "385FF9803DA5954C5ED2A6CEEA4356879F572CE7",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/skillsoundgrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/skillsoundgrp.dat"
     },
     {
       "path": "system/smallfont-e.gly",
       "sha1": "906474176827765599EBCFAF8B658681B7CF5870",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/smallfont-e.gly"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/smallfont-e.gly"
     },
     {
       "path": "system/smallfont.gly",
       "sha1": "FDE762DFF99B6232157E5A6C4EA2E752F2D5961C",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/smallfont.gly"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/smallfont.gly"
     },
     {
       "path": "system/soulshot.int",
       "sha1": "3EB9BBA04BBD1E6800AA5CE2178A6A25297E16E2",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/soulshot.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/soulshot.int"
     },
     {
       "path": "system/start_game.bat",
       "sha1": "46272CB9A0E18D7EEC137A3F0D0EC47BFF26F01F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/start_game.bat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/start_game.bat"
     },
     {
       "path": "system/staticobject-e.dat",
       "sha1": "FF18FD292867825FF3334755C469B1997AE268A6",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/staticobject-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/staticobject-e.dat"
     },
     {
       "path": "system/symbolname-e.dat",
       "sha1": "68899DBC57B04548C7C97A392A550F4499CB9BC7",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/symbolname-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/symbolname-e.dat"
     },
     {
       "path": "system/sysstring-e.dat",
       "sha1": "74A8E076C25F0E1EBF37EA1829FDEB9F7D5673AF",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/sysstring-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/sysstring-e.dat"
     },
     {
       "path": "system/systemmsg-e.dat",
       "sha1": "FFE2D908BB1FD4E075FC184181E03F175B38633E",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/systemmsg-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/systemmsg-e.dat"
     },
     {
       "path": "system/s_info.ini",
       "sha1": "EF09A873E0F000EA16EA1F1C638F5620A9F58511",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/s_info.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/s_info.ini"
     },
     {
       "path": "system/timeenv0.int",
       "sha1": "C5D29275DA703F6A7A834B0900001E8FB4ACBDD5",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/timeenv0.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/timeenv0.int"
     },
     {
       "path": "system/timeenv1.int",
       "sha1": "003F6AFD303DE99856A0C76A9431E845B791AE9C",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/timeenv1.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/timeenv1.int"
     },
     {
       "path": "system/timeenv2.int",
       "sha1": "040613373C7BFA6C35439E9489BDC6D544CC8ACF",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/timeenv2.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/timeenv2.int"
     },
     {
       "path": "system/timeenv3.int",
       "sha1": "715301FA92CAC9D863DF1A465C96B0A8F0A3985A",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/timeenv3.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/timeenv3.int"
     },
     {
       "path": "system/ttfontinfo.ini",
       "sha1": "ADA51294352B8BD28A0CB8A47BB8D1ECAF6455CD",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/ttfontinfo.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/ttfontinfo.ini"
     },
     {
       "path": "system/udebugmenu.u",
       "sha1": "5A6C4F6A3AF6F12030903EFB4C7B0E3855A774CB",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/udebugmenu.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/udebugmenu.u"
     },
     {
       "path": "system/user.ini",
       "sha1": "400A325D88C6824A47DD5F65B67138638EA2304E",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/user.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/user.ini"
     },
     {
       "path": "system/UWindow.u",
       "sha1": "3FDE741B0552C6F982A4C8AEB4598B6114C2EEE0",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/UWindow.u"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/UWindow.u"
     },
     {
       "path": "system/variationeffectgrp-e.dat",
       "sha1": "EDF87159116CE878A87E176FFC8E73A23097C7A1",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/variationeffectgrp-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/variationeffectgrp-e.dat"
     },
     {
       "path": "system/vorbis.dll",
       "sha1": "D58751FDEBE8641F719899B552A204CDD4580F6F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/vorbis.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/vorbis.dll"
     },
     {
       "path": "system/vorbisfile.dll",
       "sha1": "6F52019118D1E3E3FCF3E30E41AE1868922FAEF1",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/vorbisfile.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/vorbisfile.dll"
     },
     {
       "path": "system/weapongrp.dat",
       "sha1": "369D681CAE074F85C84877DD3319D44FE4230A21",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/weapongrp.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/weapongrp.dat"
     },
     {
       "path": "system/wform.bm",
       "sha1": "8D26B42F955D0C9FE277D8EC97E8C443D6560642",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/wform.bm"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/wform.bm"
     },
     {
       "path": "system/Window.dll",
       "sha1": "056A25577B69F1C16BA5C8601C260BD42BC5A350",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/Window.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/Window.dll"
     },
     {
       "path": "system/window.int",
       "sha1": "C2FB2A4A8B0713F32A89CBEA55E6B85BC93967F1",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/window.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/window.int"
     },
     {
       "path": "system/WindowsInfo.ini",
       "sha1": "D102458B2E07A494FBF1C8D399DA12284A3E0C30",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/WindowsInfo.ini"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/WindowsInfo.ini"
     },
     {
       "path": "system/WinDrv.dll",
       "sha1": "9F65A3DBBB563F10271BCC5E313FB84309FEAEE3",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/WinDrv.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/WinDrv.dll"
     },
     {
       "path": "system/windrv.int",
       "sha1": "324CF77A5ED0E449C2103920FDEEEBF7B9C45BAF",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/windrv.int"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/windrv.int"
     },
     {
       "path": "system/wrap_oal.dll",
       "sha1": "AC85821D3E05AA18C311CA4A213F6DD2BA70ACC0",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/wrap_oal.dll"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/wrap_oal.dll"
     },
     {
       "path": "system/zonename-e.dat",
       "sha1": "EA899C372A6A1D04C92F627C8CABBE58C1F227D8",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/system/zonename-e.dat"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/system/zonename-e.dat"
     },
     {
       "path": "systextures/Akamanah_Helmet.utx",
       "sha1": "C09DE61E207F73FF5BE29C2697C443D35DEB143D",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Akamanah_Helmet.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Akamanah_Helmet.utx"
     },
     {
       "path": "systextures/Akamanah_Helmet1.utx",
       "sha1": "78C024ADAA0C3F6F8071C97162427C96F2DA1991",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Akamanah_Helmet1.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Akamanah_Helmet1.utx"
     },
     {
       "path": "systextures/Anakim_coll_NevesOma.utx",
       "sha1": "02FB2898506B1774AE0D5FD9C040DAB364E46EA6",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Anakim_coll_NevesOma.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Anakim_coll_NevesOma.utx"
     },
     {
       "path": "systextures/Angelik_wings_NevesOma.utx",
       "sha1": "F55BFA222D31A1A777D593564D92BFA9BD4350DA",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Angelik_wings_NevesOma.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Angelik_wings_NevesOma.utx"
     },
     {
       "path": "systextures/Avengers02Ico.utx",
       "sha1": "2123D0838C402DF73677D3A284548110D81CC565",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Avengers02Ico.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Avengers02Ico.utx"
     },
     {
       "path": "systextures/Avengers03Ico.utx",
       "sha1": "882851A8D926579ABE007CDE4548DDDF998025FB",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Avengers03Ico.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Avengers03Ico.utx"
     },
     {
       "path": "systextures/Axe_Wings_NevesOma.utx",
       "sha1": "9A3A10EDD66437385C03332A79E27ACF9B3E5675",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Axe_Wings_NevesOma.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Axe_Wings_NevesOma.utx"
     },
     {
       "path": "systextures/ChristmasTreeTex.utx",
       "sha1": "9367A8BE0DAC85DB16076276759F5AE37B68AD6C",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ChristmasTreeTex.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ChristmasTreeTex.utx"
     },
     {
       "path": "systextures/costume_ico.utx",
       "sha1": "BAE1F90E22BEF16E66B1B70123B7AC6A29D1DAD6",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/costume_ico.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/costume_ico.utx"
     },
     {
       "path": "systextures/costume_t_euro__com.utx",
       "sha1": "31AD0E694688A9EB57E2159F07943AB121961BF9",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/costume_t_euro__com.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/costume_t_euro__com.utx"
     },
     {
       "path": "systextures/ct1fdarkelf.utx",
       "sha1": "4F610EA1F81A41F5271D48813D0AC9024333D973",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1fdarkelf.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1fdarkelf.utx"
     },
     {
       "path": "systextures/ct1fdwarf.utx",
       "sha1": "191B74501EEB5647A5D527441CEF36AC82ABB511",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1fdwarf.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1fdwarf.utx"
     },
     {
       "path": "systextures/ct1felf.utx",
       "sha1": "E4E8F52F51B956C0CCE5F4161F473F1E9E4356BF",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1felf.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1felf.utx"
     },
     {
       "path": "systextures/ct1ffighter.utx",
       "sha1": "A8917584A6EBDC0D4A38285DF9440E51E325E34F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1ffighter.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1ffighter.utx"
     },
     {
       "path": "systextures/ct1fmagic.utx",
       "sha1": "8349EE73C0895BB5CB98C7F9731BFC2FBF513172",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1fmagic.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1fmagic.utx"
     },
     {
       "path": "systextures/ct1forc.utx",
       "sha1": "BCB57F818C0E1B7A3216998A04220C13F35C5A77",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1forc.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1forc.utx"
     },
     {
       "path": "systextures/ct1fshaman.utx",
       "sha1": "3BDA69F6A89A3E1EFC66ECA17BDE64E554A2F09B",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1fshaman.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1fshaman.utx"
     },
     {
       "path": "systextures/ct1icon.utx",
       "sha1": "49EC81BCF0181CE32DEA8CBEDB5C5B31C3B75813",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1icon.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1icon.utx"
     },
     {
       "path": "systextures/ct1LineageWeaponsTex.utx",
       "sha1": "11150772EC6B6C333A64EBD869CDF47538E1A021",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1LineageWeaponsTex.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1LineageWeaponsTex.utx"
     },
     {
       "path": "systextures/ct1mdarkelf.utx",
       "sha1": "8DCD76A81F7CD4A474B8AB2A0932EA434E2868B9",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1mdarkelf.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1mdarkelf.utx"
     },
     {
       "path": "systextures/ct1mdwarf.utx",
       "sha1": "510C81CE67E45BA2F0AE94DC47C570C245049BA8",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1mdwarf.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1mdwarf.utx"
     },
     {
       "path": "systextures/ct1melf.utx",
       "sha1": "987642A8610A69476344E2D92C2AC7BEA951692E",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1melf.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1melf.utx"
     },
     {
       "path": "systextures/ct1mfighter.utx",
       "sha1": "3E9C9ED06AAE2300A392D8A659CBC2761F816A88",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1mfighter.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1mfighter.utx"
     },
     {
       "path": "systextures/ct1mmagic.utx",
       "sha1": "628E55AD279A572C1F5883E0A45F01494816DC29",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1mmagic.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1mmagic.utx"
     },
     {
       "path": "systextures/ct1morc.utx",
       "sha1": "E02FF1022D514675C3390A8E302622119D7C69F6",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1morc.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1morc.utx"
     },
     {
       "path": "systextures/ct1mshaman.utx",
       "sha1": "9D1803B69B599005BAE0C577BCC8A6BDB6015635",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct1mshaman.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct1mshaman.utx"
     },
     {
       "path": "systextures/ct2aicon.utx",
       "sha1": "A9A6E38609DD5C0E718C9FEB11D2F4B4199DC2C7",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ct2aicon.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ct2aicon.utx"
     },
     {
       "path": "systextures/Dark_Costume_icon.utx",
       "sha1": "37E82037648FB579DB4D7059F7FAB37B48802E2F",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Dark_Costume_icon.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Dark_Costume_icon.utx"
     },
     {
       "path": "systextures/Erorr_404.utx",
       "sha1": "B8FE4822A66250CAC831A319A56A580F30238F94",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Erorr_404.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Erorr_404.utx"
     },
     {
       "path": "systextures/FDarkelf_Hell_PvP_ru.utx",
       "sha1": "73D3BE42D0E3B68D16A30A16940BCB71EA4AA19B",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/FDarkelf_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/FDarkelf_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/FDwarf_Hell_PvP_ru.utx",
       "sha1": "7E5139982E2FA9E90864481F8B2223220674F506",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/FDwarf_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/FDwarf_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/FElf_Hell_PvP_ru.utx",
       "sha1": "BB1409C7F2647B29DE2F16902247CF3E5804C3D9",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/FElf_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/FElf_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/FFighter_Hell_PvP_ru.utx",
       "sha1": "179E4D69DBDE1988FE3E527D02A4ADDB30289890",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/FFighter_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/FFighter_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/FMagic_Hell_PvP_ru.utx",
       "sha1": "7FE3C6C529676ECD5B7910758FB389463C9E309B",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/FMagic_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/FMagic_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/FOrc_Hell_PvP_ru.utx",
       "sha1": "FA8ECB51B306950C0643E0B961F06F766572E3FE",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/FOrc_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/FOrc_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/FShaman_Hell_PvP_ru.utx",
       "sha1": "483645695A450D901570D419D0922CFD24023C08",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/FShaman_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/FShaman_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/goldwings.utx",
       "sha1": "7D7E6F9A15BE9156669B8192E303BECDAED91F8D",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/goldwings.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/goldwings.utx"
     },
     {
       "path": "systextures/ico2.utx",
       "sha1": "86E765A77E28848FAF5580717C07A5C6A09E25C5",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/ico2.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/ico2.utx"
     },
     {
       "path": "systextures/IconPack_La2Pro.utx",
       "sha1": "B527EDD5AE916CCA7AE72470BF54BE968C20423A",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/IconPack_La2Pro.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/IconPack_La2Pro.utx"
     },
     {
       "path": "systextures/iconwow10.utx",
       "sha1": "BDC21CEC6753869C7A91DBA36BF2716220C36859",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/iconwow10.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/iconwow10.utx"
     },
     {
       "path": "systextures/iconwow101.utx",
       "sha1": "DD2286BF2C865EEDDD3237D39D63D89A0AC8C4DF",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/iconwow101.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/iconwow101.utx"
     },
     {
       "path": "systextures/Icon_Hell_PvP_ru.utx",
       "sha1": "76062A5F73CFD7F7FE0AB9125C7134A3A17351BD",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Icon_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Icon_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/justlordw.utx",
       "sha1": "19524467039414F6540B20ECF20C7B8F8EB6E04E",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/justlordw.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/justlordw.utx"
     },
     {
       "path": "systextures/L2Font-e.utx",
       "sha1": "2CA26AE26C14CECBCBD074CA66E6A59C3CBB4E16",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/L2Font-e.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/L2Font-e.utx"
     },
     {
       "path": "systextures/L2Red_WingsAionBlue_NevesOma.utx",
       "sha1": "7338E2355F4E476DFD11D4382A2FEFC11B323C40",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/L2Red_WingsAionBlue_NevesOma.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/L2Red_WingsAionBlue_NevesOma.utx"
     },
     {
       "path": "systextures/LineageWings6Tex.utx",
       "sha1": "D53ACD6FCC64BB8DB90ACC32085F0A723605DF65",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/LineageWings6Tex.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/LineageWings6Tex.utx"
     },
     {
       "path": "systextures/MDarkelf_Hell_PvP_ru.utx",
       "sha1": "E5F9A102C0704E95A37D5B9EF4D0C76886E20B3D",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/MDarkelf_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/MDarkelf_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/MDwarf_Hell_PvP_ru.utx",
       "sha1": "373E5F63C6EAC6B412B790CF02DF78A472946290",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/MDwarf_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/MDwarf_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/MElf_Hell_PvP_ru.utx",
       "sha1": "321175DF057DFEAD63025F442F1824D068D5EBD6",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/MElf_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/MElf_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/MFighter_Hell_PvP_ru.utx",
       "sha1": "828F8BB1768A8B168957C7A01F13A271C85400B0",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/MFighter_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/MFighter_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/MMagic_Hell_PvP_ru.utx",
       "sha1": "239131C60C3325C21485F40B897B97601F8A1AD9",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/MMagic_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/MMagic_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/MOrc_Hell_PvP_ru.utx",
       "sha1": "6348D930407423A5404832925D2329185FE7B7A2",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/MOrc_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/MOrc_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/MShaman_Hell_PvP_ru.utx",
       "sha1": "76BB6CFDB99F031773758B90DABFDFAA9AAEF594",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/MShaman_Hell_PvP_ru.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/MShaman_Hell_PvP_ru.utx"
     },
     {
       "path": "systextures/Munch_AbyssalArmor.utx",
       "sha1": "DBBC5B761E7E557196A87F90E20F8BDCADA81A8E",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Munch_AbyssalArmor.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Munch_AbyssalArmor.utx"
     },
     {
       "path": "systextures/Orange_Weapons.utx",
       "sha1": "95D07521CE5299388D7A6FDFAB2E75553896A543",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Orange_Weapons.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Orange_Weapons.utx"
     },
     {
       "path": "systextures/Orange_Weapon_Ico.utx",
       "sha1": "8C905AE686526D13E717EEE72CEE26B71C9ADE62",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Orange_Weapon_Ico.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Orange_Weapon_Ico.utx"
     },
     {
       "path": "systextures/Pro_WingsV2_NevesOma.utx",
       "sha1": "EDA0FB78764D3296461E88B1AB541B84CC2AB078",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Pro_WingsV2_NevesOma.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Pro_WingsV2_NevesOma.utx"
     },
     {
       "path": "systextures/Vesper_Jewels.utx",
       "sha1": "077D7FC16DB50E4D647DE9BCB7B41A8A73DEEBB4",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/Vesper_Jewels.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/Vesper_Jewels.utx"
     },
     {
       "path": "systextures/WilliamFS_Vesper_wp_Tex.utx",
       "sha1": "2AC0F04BC0DEB706E4B2D6BA3305833012253521",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/systextures/WilliamFS_Vesper_wp_Tex.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/systextures/WilliamFS_Vesper_wp_Tex.utx"
     },
     {
       "path": "textures/GiranM_T.utx",
       "sha1": "25007FA0CDC1EC56DFC1DF86F94845D654152E45",
-      "url": "https://f005.backblazeb2.com/file/L2argentoLauncher/textures/GiranM_T.utx"
+      "url": "https://github.com/cesarbarbozarueda/LauncherL2argento/raw/main/textures/GiranM_T.utx"
     }
   ]
 }
